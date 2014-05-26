@@ -1,4 +1,4 @@
-The original gist created by me is [here](https://gist.github.com/emptymalei/8448012). But future updates all go here not the gist.
+> The original gist created by me is [here](https://gist.github.com/emptymalei/8448012). But future updates all go here not the gist.
 
 ## Pacifier
 
@@ -20,7 +20,7 @@ The original gist created by me is [here](https://gist.github.com/emptymalei/844
 
 [mynoise](http://mynoise.net/noiseMachines.php): a noise generator, pretty good.
 
-[A combination of rainy mood and coffitivity](http://rainycafe.com/): 
+[A combination of rainy mood and coffitivity](http://rainycafe.com/):
 
 
 
