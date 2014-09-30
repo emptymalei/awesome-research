@@ -49,3 +49,8 @@ You can host one using your own machine,
 1. [StackEdit](https://stackedit.io/): Markdown and MathJax
 2. [Penflip](https://www.penflip.com/): Markdown based and git like.
 3. [Authorea](https://www.authorea.com/)
+
+
+### Colors
+
+Pick a pleasing color : [PleaseJS](http://www.checkman.io/please/)
