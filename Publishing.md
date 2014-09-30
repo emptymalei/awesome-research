@@ -5,6 +5,7 @@
 Make use of these softwares for publishing
 
 1. [Sphinx](http://sphinx-doc.org): RestructuredText as source, powerful, flexible.
+1. [ReadtheDocs](http://readthedocs.org/): Turn your restructuredtext source to html, pdf and epub, all done online.
 2. [Gitbook](http://www.gitbook.io/): A new but promising tool for html, pdf etc.
 3. [Git-scribe](https://github.com/schacon/git-scribe)
 4. [Wordsmith](https://github.com/tractical/wordsmith)

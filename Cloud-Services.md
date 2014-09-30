@@ -16,8 +16,10 @@
 
 ### Plots
 
+0. [plot.ly](https://plot.ly/): online plotting with many cloud services connected
 1. [graph.tk](http://graph.tk/): online plotting with rich features
 2. [Desmos](https://www.desmos.com/calculator): excellent service
+
 
 
 ### Online Editors
