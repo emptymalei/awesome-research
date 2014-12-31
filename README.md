@@ -6,4 +6,5 @@ This is a collection of useful tools for my grad school life.
 
 This is a CC BY-SA licensed project. Use the source! Keep the source open!
 
-![CC BY-SA](http://opentf.github.io/GuokrBadge/cc/gs/cc_bysa.flat.guokr.svg)
+![CC BY-SA](assets/cc_bysa.flat.guokr.png)
+
