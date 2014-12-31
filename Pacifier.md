@@ -1,31 +1,30 @@
-> The original gist created by me is [here](https://gist.github.com/emptymalei/8448012). But future updates all go here not the gist.
-
 ## Pacifier
 
-[Rainy Mood](http://www.rainymood.com/): rainy day
+[Rainy Mood](http://www.rainymood.com/)(iOS & Android & Web): rainy day rainy mood, simple but with excellent white noise; a new beautiful soundtrack each day
 
-[Coffitivity](http://coffitivity.com/): coffee shop
+[Coffitivity](http://coffitivity.com/)(iOS & Android & Web & Mac): a rather simple but ellite cafe library; premium has more three more soundtracks; elegant UI; scientific research powered
 
-[Sundrown](http://soundrown.com/) : multiple choices, web-based
+[Soundrown](http://soundrown.com/) (Web | Apps Developers Hiring): free mixing of multiple tracks
 
-[TaoMix](https://play.google.com/store/apps/details?id=air.com.demute.TaoMix): An Android App
+[A Soft Murmur](http://asoftmurmur.com/)(Web): free mixing of multiple tracks; simple UI; Timer provided; Meander available
 
-[A Soft Murmur](http://asoftmurmur.com/): multiple choices
+[mynoise](http://mynoise.net/noiseMachines.php)(iOS & Web): a noise generator; a lot of choices (too many actually); detailed equalizer
 
-[focus@will](https://www.focusatwill.com): music
+[Rainy Cafe](http://rainycafe.com/)(Web): not much to say just a combination of rainy mood and coffitivity
+
+[Sleep Pillow](http://www.clearskyapps.com/portfolio/sleep)(iOS & Mac): click and play style preloaded scenes; easy to use; beautiful design
 
 [A youtube audio track of coffee shop (really long)](http://www.youtube.com/watch?v=KZV9FmHOsRg)
 
 [A youtube audio track of 10 hours rain fall](http://www.youtube.com/watch?v=s_2FDRtFOAw)
 
-[mynoise](http://mynoise.net/noiseMachines.php): a noise generator, pretty good.
+[TaoMix](https://play.google.com/store/apps/details?id=air.com.demute.TaoMix): An Android App
 
-[A combination of rainy mood and coffitivity](http://rainycafe.com/):
-
-
-
+*[focus@will](https://www.focusatwill.com): music to boost your brain; payed services now; typesetted italic because I'm not sure if this is good*
 
 ------
+
+### Some Other Related Stuff
 
 [iSerenity](http://www.iserenity.com/): multiple choices but not that good (just my feeling).
 

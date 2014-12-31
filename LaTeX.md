@@ -1,15 +1,34 @@
 ## LaTeX
 
+Useful tools are listed in [Cloud Services](Cloud-Services.html)
 
 ### Tips
 
 [wikibooks - LaTeX](http://en.wikibooks.org/wiki/LaTeX) as a manual.
 
+#### Symbols
+
+1. [Detexify](http://detexify.kirelabs.org/classify.html): find out what the symbol is by drawing online
+
+
+#### Graphing
+
+1. [TeX Example](http://www.texample.net/) (Tikz/PGF)
+
+
+#### Fonts
+
+1. [Font Catalogue](http://www.tug.dk/FontCatalogue/seriffonts.html)
+
+#### Templates
+
+1. [LaTeX Templates](http://www.latextemplates.com/)
 
 
 #### New Commands
 
-New commands for QM
+##### New commands for QM
+
 ```
 \newcommand{\ud}[1]{{#1^{\dagger}}}
 \newcommand{\bra}[1]{\left\langle #1\right|}
@@ -21,25 +40,6 @@ New commands for QM
 \newcommand{\avg}[1]{\left< #1 \right>}
 ```
 
-
-#### Symbols
-
-1. [Detexify](http://detexify.kirelabs.org/classify.html): find out what the symbol is by drawing online
-
-
-#### Tikz/PGF
-
-1. [TeX Example](http://www.texample.net/)
-
-#### Fonts
-
-1. [Font Catalogue](http://www.tug.dk/FontCatalogue/seriffonts.html)
-
-
-
-#### Templates
-
-1. [LaTeX Templates](http://www.latextemplates.com/)
 
 
 

@@ -1,4 +1,4 @@
-Grad school is a lot of fun.
+Grad school is fun.
 
 ## April Fools' Day
 

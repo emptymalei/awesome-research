@@ -1,9 +1,6 @@
 ## Open Source
 
-Our [OPEN SCIENCE TASK FORCE ORGANIZATION](http://opentf.github.io/)
-
-
-Do whatever you can do to make open science possible.
+Open science.
 
 ### Open Licenses
 
@@ -12,10 +9,15 @@ Generally, open licenses are part of [Open Definition](http://opendefinition.org
 
 #### Use Licenses
 
-If you need open license badges/images, check [Guokr Badge](https://github.com/opentf/GuokrBadge).
+If you need open license badges/images, check [Guokr Badge](https://github.com/opentf/GuokrBadge) (Chinese documentation).
 
 
 
-#### An Open Science Discussion
+#### An Open Science Discussion (Chinese)
+
+Our [OPEN SCIENCE TASK FORCE ORGANIZATION](http://opentf.github.io/)
 
 [Open Science](https://github.com/opentf/openscience)
+
+
+
