@@ -7,7 +7,6 @@
 * [Publishing](Publishing.md)
 * [Note Taking](Note-Taking.md)
 * [Presentation](Presentation.md)
-* [Softwares](Softwares.md)
 * [Programming](programming/README.md)
 * [Online Discussions](Online-Discussions.md)
 * [Pacifier](Pacifier.md)

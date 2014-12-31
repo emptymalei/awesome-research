@@ -2,3 +2,8 @@
 
 
 * Command Line Recording: [asciinema](https://asciinema.org/)
+
+
+
+
+* [QR Code Generator](https://www.unitag.io/qrcode)
