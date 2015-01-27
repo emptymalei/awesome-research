@@ -8,6 +8,11 @@ There are much more programming languages than you need. Many are utilized in so
 
 [iPython Notebook](http://ipython.org/notebook.html) (Python): an useful tool for inline calculation, making graph and writing notes.
 
+* Regarding iPython Notebook, we have some online or more integrated choices.
+  1. [wakari.io](http://wakari.io) is a comercial one mostly aimed for data analysis.
+  2. [jiffylab](https://github.com/ptone/jiffylab) is an open source one but not that well done.
+  3. [supervised-ipython-nbserver](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
+
 [Matlab](http://www.mathworks.com/products/matlab/)
 
 [RStudio](http://www.rstudio.com/) (R language)

@@ -55,6 +55,12 @@ You can host one using your own machine,
 4. [Authorea](https://www.authorea.com/)
 
 
+### Data
+
+1. [Figshare](http://figshare.com/)
+2.
+
+
 ### Colors
 
 Pick a pleasing color : [PleaseJS](http://www.checkman.io/please/)
