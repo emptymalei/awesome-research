@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Be Organized](Be-Organized.md)
 * [Academic](Academic.md)
-* refman
+* RefMan
 * [Cloud Services](Cloud-Services.md)
 * [Publishing](Publishing.md)
 * [Note Taking](Note-Taking.md)
