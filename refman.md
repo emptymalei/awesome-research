@@ -1,3 +1,12 @@
 ## Reference Management
 
-A lot of softwares and online services can be used as a reference management system, of which, mendeley, zotero, colwiz, endnote, readcube, refworks, docear are the most popular.
+A lot of softwares and online services can be used as a reference management system, of which the most popular ones are, 
+
+1. mendeley,
+2. zotero,
+3. colwiz,
+4. endnote,
+5. readcube,
+6. refworks,
+7. docear.
+
