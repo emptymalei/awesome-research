@@ -45,7 +45,8 @@ You can host one using your own machine,
 > There are other editors that is not fully LaTeX somehow partially support LaTeX.
 
 > 1. [StackEdit](http://stackedit.io): Markdown + Math
-> 2. [JaxEdit](http://jaxedit.com/): JaxEdit is not exactly an online LaTeX editor but anyway it uses mathjax to render math.
+> 2. [Marxico](http://marxi.co/): a stackedit based markdown front-end of evernote.  （[马克飞象](http://maxiang.info/) 是 [Marxico](http://marxi.co/) 对应的中文版编辑器。）
+> 3. [JaxEdit](http://jaxedit.com/): JaxEdit is not exactly an online LaTeX editor but anyway it uses mathjax to render math.
 
 #### Markdown
 
