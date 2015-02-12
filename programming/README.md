@@ -22,6 +22,8 @@ There are much more programming languages than you need. Many are utilized in so
 
 #### [Python](https://www.python.org/)
 
+1. [snakeviz](http://jiffyclub.github.io/snakeviz/) is a very nice tool to visualize python profile, making it very easy to identify the problem of a slow function.
+
 #### [Julia](http://julialang.org/)
 
 #### [R](http://www.r-project.org/)
