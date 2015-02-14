@@ -5,7 +5,20 @@
     ],
     "pluginsConfig": {
     "autocover": {
-         
+             "title": "Survive Research",
+            "author": "OctoMiao",
+            "font": {
+                "size": null,
+                "family": "Impact",
+                "color": "#FFF"
+            },
+    "size": {
+        "w": 1800,
+        "h": 2360
+    },
+    "background": {
+        "color": "#09F"
+            }
         }
     }
 }
