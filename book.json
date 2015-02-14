@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "anchors"
+        "anchors",
+        "autocover"
     ],
     "pluginsConfig": {}
 }
