@@ -1,12 +1,12 @@
 # Summary
 
 * [Introduction](README.md)
-* Making Graphs
 * [Be Organized](Be-Organized.md)
 * [Academic](Academic.md)
 * [RefMan](refman.md)
 * [Cloud Services](Cloud-Services.md)
 * [Publishing](Publishing.md)
+* Making Graphs
 * [Note Taking](Note-Taking.md)
 * [Presentation](Presentation.md)
 * [Programming](programming/README.md)
