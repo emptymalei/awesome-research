@@ -6,10 +6,10 @@
 * [RefMan](refman.md)
 * [Cloud Services](Cloud-Services.md)
 * [Publishing](Publishing.md)
-* Making Graphs
 * [Note Taking](Note-Taking.md)
 * [Presentation](Presentation.md)
 * [Programming](programming/README.md)
+* Making Graphs
 * [Online Discussions](Online-Discussions.md)
 * [Pacifier](Pacifier.md)
 * [Open Science](Open-Science.md)
