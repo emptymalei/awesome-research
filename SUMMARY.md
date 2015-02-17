@@ -9,7 +9,7 @@
 * [Note Taking](Note-Taking.md)
 * [Presentation](Presentation.md)
 * [Programming](programming/README.md)
-* Making Graphs
+* [Making Graphs](making_graphs.md)
 * [Online Discussions](Online-Discussions.md)
 * [Pacifier](Pacifier.md)
 * [Open Science](Open-Science.md)
