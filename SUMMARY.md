@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * Making Graphs
+* Making Graphs
 * [Be Organized](Be-Organized.md)
 * [Academic](Academic.md)
 * [RefMan](refman.md)
