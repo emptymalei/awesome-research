@@ -1,6 +1,6 @@
-# Making Graphs
+## Making Graphs
 
-## Python and Matplotlib
+### Python and Matplotlib
 
 Here is a very nice and comprehensive tutorial of matplotlib graphics
 
