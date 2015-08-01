@@ -28,7 +28,11 @@ There are much more programming languages than you need. Many are utilized in so
 
 #### [Python](https://www.python.org/)
 
+<<<<<<< HEAD:programming.md
 Here is a nice tool for python debugging and perfomance improvement.
+=======
+1. [snakeviz](http://jiffyclub.github.io/snakeviz/) is a very nice tool to visualize python profile, making it very easy to identify the problem of a slow function.
+>>>>>>> e553cd83ba1d97ef5b7334678eaded998925cc60:programming/README.md
 
 #### [Julia](http://julialang.org/)
 

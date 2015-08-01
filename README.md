@@ -1,12 +1,17 @@
----
-layout: article
-title: "ToC | How to Survive Research"
-comments: true
----
+# Research Survival Manual
 
-# Summary
+This is a collection of useful tools for my grad school life.
 
-* [Introduction](index.md)
+**Find the source files [here on GitHub](https://github.com/emptymalei/GSSM).**
+
+This project is under CC BY-SA licensed. Use the source! Keep the source open!
+
+![CC BY-SA](assets/cc_bysa.flat.guokr.png)
+
+
+# ToC
+
+* [Introduction](README.md)
 * [Be Organized](Be-Organized.md)
 * [Academic](Academic.md)
 * [RefMan](refman.md)
@@ -14,16 +19,12 @@ comments: true
 * [Publishing](Publishing.md)
 * [Note Taking](Note-Taking.md)
 * [Presentation](Presentation.md)
-<<<<<<< HEAD
-* [Programming](Programming.md)
-=======
 * [Programming](programming/README.md)
 * [Making Graphs](making_graphs.md)
->>>>>>> e553cd83ba1d97ef5b7334678eaded998925cc60
 * [Online Discussions](Online-Discussions.md)
 * [Pacifier](Pacifier.md)
 * [Open Science](Open-Science.md)
 * [Fun](Fun.md)
 * [LaTeX](LaTeX.md)
-* [Other](Misc.md)
+* [Other](Other.md)
 

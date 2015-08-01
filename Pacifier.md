@@ -1,9 +1,29 @@
+<<<<<<< HEAD
 ---
 layout: article
 title: "Pacifier | How to Survive Research"
 comments: true
 published: true
 ---
+=======
+## Pacifier
+
+**[Rainy Mood](http://www.rainymood.com/), [Coffitivity](http://coffitivity.com/) and [Noisli](http://www.noisli.com/) are the recommended ones.**
+
+[Rainy Mood](http://www.rainymood.com/)(iOS & Android & Web): rainy day rainy mood, simple but with excellent white noise; a new beautiful soundtrack each day
+
+[Coffitivity](http://coffitivity.com/)(iOS & Android & Web & Mac): a rather simple but ellite cafe library; premium has more three more soundtracks; elegant UI; scientific research powered
+
+[Soundrown](http://soundrown.com/) (Web, Apps Developers Hiring): free mixing of multiple tracks
+
+[Noisli](http://www.noisli.com/) (Web): free mixing of multiple tracks similar to Soundrown but with much better UI. Users can save a customized setting for later use. I personally think this one has better fire sound tracks than soundrown.
+
+[A Soft Murmur](http://asoftmurmur.com/)(Web): free mixing of multiple tracks; simple UI; Timer provided; Meander available
+
+[mynoise](http://mynoise.net/noiseMachines.php)(iOS & Web): a noise generator; a lot of choices (too many actually); detailed equalizer
+
+[Rainy Cafe](http://rainycafe.com/)(Web): not much to say just a combination of rainy mood and coffitivity
+>>>>>>> e553cd83ba1d97ef5b7334678eaded998925cc60
 
 ## Pacifier
 

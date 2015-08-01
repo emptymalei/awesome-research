@@ -15,7 +15,7 @@ Check arXiv.org today!
 
 #### 2014
 
-* [A Necro-Biological Explanation for the Fermi Paradox](http://arxiv.org/abs/1403.8146): watch the affiliations.
+* [A Necro-Biological Explanation for the Fermi Paradox](http://arxiv.org/abs/1403.8146): really? the affiliations 
 * [The April First Phenomenon](http://arxiv.org/abs/1403.8010)
 
 
