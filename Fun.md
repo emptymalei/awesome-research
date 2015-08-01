@@ -1,3 +1,9 @@
+---
+layout: article
+title: "Research is Fun | How to Survive Research"
+comments: true
+---
+
 Grad school is fun.
 
 ## April Fools' Day

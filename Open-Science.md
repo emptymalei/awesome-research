@@ -1,3 +1,9 @@
+---
+layout: article
+title: "Open Science | How to Survive Research"
+comments: true
+---
+
 ## Open Source
 
 Open science.

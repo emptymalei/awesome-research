@@ -1,1 +1,0 @@
-Use [Animate.CSS](https://github.com/daneden/animate.css) to animate contents

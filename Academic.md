@@ -1,3 +1,9 @@
+---
+layout: article
+title: "Academic Desciplines | How to Survive Research"
+comments: true
+---
+
 ## Academic Desciplines
 
 ### Self-plagiarism

@@ -1,3 +1,53 @@
+---
+layout: article
+title: "Note-Taking | How to Survive Research"
+comments: true
+---
+
+
+
+### Editors
+
+Markdown, restructuredText and LaTeX are the three languages that I recommend to use.
+
+
+#### Markdown
+
+1. [StackEdit](https://stackedit.io/)(`Cloud`): Markdown and MathJax
+2. [CMD markdown](https://www.zybuluo.com/mdeditor)(`Cloud`): Basically a Chinese copy of StackEdit
+3. [Penflip](https://www.penflip.com/)(`Cloud`): Markdown based and git like.
+4. [Authorea](https://www.authorea.com/)(`Cloud`): A much more powerful markdown editor that can be used to produce nice academic papers.
+5. [Dillinger](http://dillinger.io/)(`Cloud`): Markdown editor but no math mode.
+6. [Online Kramdown Editor](http://kramdown.herokuapp.com/)(`Cloud`)
+7. [Pandoc Markdown](http://pandoc.herokuapp.com/)(`Cloud`)
+8. [JaxEdit](http://jaxedit.com/)(`Cloud`): JaxEdit is not exactly an online LaTeX editor but anyway it uses mathjax to render math. 
+9. [Marxico](http://marxi.co/)(`Cloud`): markdown that integrates with Evernote. [马克飞象](http://maxiang.info/)(`Cloud`) is the chinese version。
+
+
+#### LaTeX
+
+
+1. [ShareLaTeX](https://www.sharelatex.com/)(`Cloud`): Dropbox and GitHub integration, preview, cooperation, simple UI. It also provides a lot of templates.
+2. [Overleaf](https://www.overleaf.com/)(`Cloud`): Basically the same as ShareLaTeX. `Tell me more about it if you `
+3. [Authorea](https://www.authorea.com/)(`Cloud`)
+
+
+You can host one using your own machine,
+
+1. [FlyLaTeX](https://github.com/alabid/flylatex): A free, open source version of sharelatex
+2. [ShareLaTeX Source Code](https://github.com/sharelatex/sharelatex): ShareLaTeX open sourced their codes. This is a great move I would say.
+
+
+> There are other editors that is not fully LaTeX somehow partially support LaTeX.
+
+> 1. [StackEdit](http://stackedit.io): Markdown + Math
+> 2. [JaxEdit](http://jaxedit.com/): JaxEdit is not exactly an online LaTeX editor but anyway it uses mathjax to render math.
+> 3. [马克飞象](http://maxiang.info/) 和 [Marxico](http://marxi.co/) 是 evernote 的 MD 编辑器。
+
+
+
+
+
 ### Mindmap
 
 * Standalone
@@ -29,3 +79,8 @@
 1. [Gliffy](http://www.gliffy.com/): all kinds of diagrams
 2. [ProcessOn](http://www.processon.com/): all kinds of diagrams
 3. [Draw.io](http://draw.io)
+
+
+### Keep The Notes
+
+It's alway better to keep track the changes of your notes thus git is a nice choice to keep the notes. GitHub is the almost perfect place. (More about organizing your stuff in [Be Organized](be-organized.html) section.)

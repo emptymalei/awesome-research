@@ -1,1 +1,0 @@
-[gradschool repo](https://github.com/emptymalei/gradschool)

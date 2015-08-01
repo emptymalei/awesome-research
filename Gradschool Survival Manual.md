@@ -1,1 +1,0 @@
-# Gradschool Survival Manual
