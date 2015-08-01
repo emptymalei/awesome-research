@@ -84,3 +84,11 @@ You can host one using your own machine,
 ### Keep The Notes
 
 It's alway better to keep track the changes of your notes thus git is a nice choice to keep the notes. GitHub is the almost perfect place. (More about organizing your stuff in [Be Organized](be-organized.html) section.)
+
+
+
+Some softwares allows you to keep the markdown notes on a server.
+
+* [Raneto](http://raneto.com/): Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase. This one has a nice looking.
+* [Realms](http://realms.io/): Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger. Basic authentication and registration included.
+* [Tiddlywiki](http://tiddlywiki.com/): A unique non-linear notebook for capturing, organising and sharing complex information.
