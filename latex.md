@@ -82,9 +82,6 @@ This is a great book for math related typography. Find it [here](ftp://ftp.ams.o
 \usepackage{indentfirst}   % Indent first line of a paragraph
 %\usepackage{textcomp}
 
-
-
-
 %%Here is the configuration for chinese. setmainfont is the default font of the text.
 \usepackage[cm-default]{fontspec}
 \usepackage{xunicode}
@@ -92,8 +89,6 @@ This is a great book for math related typography. Find it [here](ftp://ftp.ams.o
 \setmainfont{"微软雅黑"}
 %\setsansfont[BoldFont=SimHei]{KaiTi_GB2312}
 %\setmonofont{NSimSun}
-
-
 
 \XeTeXlinebreaklocale "zh"
 %\XeTeXlinebreakskip = 0pt plus 1pt
@@ -111,11 +106,8 @@ This is a great book for math related typography. Find it [here](ftp://ftp.ams.o
 \newfontfamily\fs{"仿宋"}
 \newfontfamily\yahei{"微软雅黑"}
 
-
-
 \begin{document}
 \title{\Huge\yahei 中文XeLaTeX}
-
 
 \author{XXXXX}
 %\maketitle
@@ -133,8 +125,6 @@ This is a great book for math related typography. Find it [here](ftp://ftp.ams.o
 {\begin{equation}\left \bracevert \begin{array}{l}}
 {\end{array} \right. \end{equation}}
 
-
-
 \section{设定字体测试}
 \fs 仿宋
 
@@ -143,7 +133,6 @@ This is a great book for math related typography. Find it [here](ftp://ftp.ams.o
 \yahei 微软雅黑
 
 \textbf{\yahei 微软雅黑粗体}
-
 
 \section{默认字体测试}
 
