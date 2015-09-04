@@ -603,7 +603,7 @@ Check arXiv.org today!
 
 **2010**
 
-[Schroedinger's Cat is not Alone](http://arxiv.org/abs/1004.4206)
+* [Schroedinger's Cat is not Alone](http://arxiv.org/abs/1004.4206)
 
 
 **2009**

@@ -15,7 +15,6 @@ A list of tools for research. This is a CC BY-SA licensed project. Use the sourc
 
 
 
-
 ## TOC
 
 * [Be Organized](#be-organized)
@@ -60,6 +59,7 @@ A list of tools for research. This is a CC BY-SA licensed project. Use the sourc
 * [Open Science](#open-science)
   * [Open Licenses](#open-licenses)
   * [Use Licenses](#use-licenses)
+* [Data Visualization](#data-visualization)
 * [Fun](#fun)
   * [April Fools' Papers](#april-fools-papers)
 * [LaTeX](#lateX)
@@ -557,6 +557,33 @@ Generally, open licenses are part of
 
 
 
+## Data Visualization
+
+
+**JS and jQuery**
+
+* [Highcharts](http://www.highcharts.com/demo/bar-stacked) (`js`): Line charts, area charts, column and bar charts, pie charts, scatter and bubble charts and more.
+* [Flot](http://www.flotcharts.org/flot/examples/) (`jQuery`)
+* [Raphaël](http://raphaeljs.com/) (`js`)
+* [JavaScript InfoVis Toolkit](http://philogb.github.io/jit/demos.html) (`js`)
+* [D3js](http://d3js.org/) (`js`)
+* [Paper.js](http://paperjs.org/) (`js`)
+
+
+**Python**
+
+* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers)
+* [ggplot for python](http://ggplot.yhathq.com/)
+* [statistical data vis](http://stanford.edu/~mwaskom/software/seaborn/)
+* [plot.ly](https://plot.ly/ipython-notebooks/): Internet required, interactive plotting.
+* [bokeh](http://bokeh.pydata.org/en/latest/docs/quickstart.html#quickstart):  Internet required, interactive plotting.
+
+
+
+
+
+
+
 ## Fun
 
 Doing research is fun.
@@ -585,7 +612,7 @@ Check arXiv.org today!
 
 **2010**
 
-[Schroedinger's Cat is not Alone](http://arxiv.org/abs/1004.4206)
+* [Schroedinger's Cat is not Alone](http://arxiv.org/abs/1004.4206)
 
 
 **2009**
@@ -685,3 +712,5 @@ Useful tools are listed in [Cloud Services](Cloud-Services.html)
 
 
 ### More
+
+* [QR Code Generator](https://www.unitag.io/qrcode)
