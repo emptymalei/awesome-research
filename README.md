@@ -1,6 +1,9 @@
 # Awesome Research Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A list of tools for research.
+A list of tools for research. This is a CC BY-SA licensed project. Use the source! Keep the source open!
+
+![CC BY-SA](assets/cc_bysa.flat.guokr.png)
+
 
 
 ## TOC
@@ -47,6 +50,7 @@ A list of tools for research.
 * [Open Science](#open-science)
   * [Open Licenses](#open-licenses)
   * [Use Licenses](#use-licenses)
+* [Data Visualization](#data-visualization)
 * [Fun](#fun)
   * [April Fools' Papers](#april-fools-papers)
 * [LaTeX](#lateX)
@@ -540,6 +544,33 @@ Generally, open licenses are part of
 #### Use Licenses
 
 * [Guokr Badge](https://github.com/opentf/GuokrBadge): Green CC License badges. (**Documentation is in Chinese.**)
+
+
+
+
+## Data Visualization
+
+
+**JS and jQuery**
+
+* [Highcharts](http://www.highcharts.com/demo/bar-stacked) (`js`): Line charts, area charts, column and bar charts, pie charts, scatter and bubble charts and more.
+* [Flot](http://www.flotcharts.org/flot/examples/) (`jQuery`)
+* [Raphaël](http://raphaeljs.com/) (`js`)
+* [JavaScript InfoVis Toolkit](http://philogb.github.io/jit/demos.html) (`js`)
+* [D3js](http://d3js.org/) (`js`)
+* [Paper.js](http://paperjs.org/) (`js`)
+
+
+**Python**
+
+* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers)
+* [ggplot for python](http://ggplot.yhathq.com/)
+* [statistical data vis](http://stanford.edu/~mwaskom/software/seaborn/)
+* [plot.ly](https://plot.ly/ipython-notebooks/): Internet required, interactive plotting.
+* [bokeh](http://bokeh.pydata.org/en/latest/docs/quickstart.html#quickstart):  Internet required, interactive plotting.
+
+
+
 
 
 
