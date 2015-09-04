@@ -12,7 +12,7 @@ First of all, we can make use of [GitHub](http://github.com) to cooperate with o
 
 ### Markdown Again
 
-Markdown is one of the best language for writing.
+Markdown is one of the best languages for writing.
 
 * [Cloud Based Markdown Editors](Cloud-Services.html)
 * [Mou](http://25.io/mou/) (Mac)
@@ -76,11 +76,16 @@ These softwares are running on the server and can be
 1. [Wordpress](http://wordpress.org/) (PHP): require a lot of maintance.
 2. [Pico](https://github.com/gilbitron/Pico): lightweight cms, open source, no database.
 3. [Ghost](https://github.com/tryghost/Ghost) (Node.js): Open, Simple, non-profit; write with markdown and live preview.
+4. [Dropplets](https://github.com/circa75/dropplets):Open source, simple, and elegant blog system; write in Markdown.
 
 
 These Blog/CMS softwares can be hosted on the following servers.
 
-1. [Dropplets](https://github.com/circa75/dropplets):Open source, simple, and elegant blog system; write in Markdonw.
+* [GitHub Pages](https://pages.github.com/)
+* [Digital Ocean](http://digitalocean.com/)
+
+
+
 
 #### Static Generator
 

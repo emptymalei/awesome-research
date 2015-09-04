@@ -50,3 +50,9 @@ But this will get a static site with absolute links. To get a site that works as
 
 * [staticpress](https://github.com/megumiteam/staticpress)
 
+
+
+
+### Interesting Journals
+
+* [International Journal of Geometric Methods in Modern Physics](http://www.worldscientific.com/worldscinet/ijgmmp)

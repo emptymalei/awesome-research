@@ -4,7 +4,7 @@ title: "Academic Desciplines | How to Survive Research"
 comments: true
 ---
 
-## Academic Desciplines
+## Academic
 
 
 ### Self-plagiarism
@@ -16,9 +16,6 @@ This might be not so straightforward but remember this. Reuse your own work does
 1. [Paperscape](http://paperscape.org/): Finding interesting papers.
 
 
-## iPython Notebook
-
-Using iPython Notebook to help with your research, here is an example, [Reproduced Papers](http://reproduced-papers.github.io/) .
 
 
 ## Get Yourself A Citable Code
@@ -28,4 +25,3 @@ Using iPython Notebook to help with your research, here is an example, [Reproduc
 ## Open Science
 
 [Open Science Framework](https://osf.io/)
-

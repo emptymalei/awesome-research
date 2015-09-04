@@ -20,7 +20,7 @@ Markdown, restructuredText and LaTeX are the three languages that I recommend to
 5. [Dillinger](http://dillinger.io/)(`Cloud`): Markdown editor but no math mode.
 6. [Online Kramdown Editor](http://kramdown.herokuapp.com/)(`Cloud`)
 7. [Pandoc Markdown](http://pandoc.herokuapp.com/)(`Cloud`)
-8. [JaxEdit](http://jaxedit.com/)(`Cloud`): JaxEdit is not exactly an online LaTeX editor but anyway it uses mathjax to render math. 
+8. [JaxEdit](http://jaxedit.com/)(`Cloud`): JaxEdit is not exactly an online LaTeX editor but anyway it uses mathjax to render math.
 9. [Marxico](http://marxi.co/)(`Cloud`): markdown that integrates with Evernote. [马克飞象](http://maxiang.info/)(`Cloud`) is the chinese version。
 
 
@@ -44,6 +44,10 @@ You can host one using your own machine,
 > 2. [JaxEdit](http://jaxedit.com/): JaxEdit is not exactly an online LaTeX editor but anyway it uses mathjax to render math.
 > 3. [马克飞象](http://maxiang.info/) 和 [Marxico](http://marxi.co/) 是 evernote 的 MD 编辑器。
 
+
+### iPython Notebook
+
+Using iPython Notebook to help with your research, here is an example, [Reproduced Papers](http://reproduced-papers.github.io/) .
 
 
 
