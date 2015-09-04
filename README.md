@@ -11,7 +11,7 @@ A list of tools for research. This is a CC BY-SA licensed project. Use the sourc
 * [Be Organized](#be-organized)
   * [Version Control System](#version-control-system)
   * [Pomodoro](#pomodoro)
-  * [GTD-Task Manager]#(gtd-task-manager)
+  * [GTD-Task Manager](#gtd-task-manager)
 * [Cloud Services](#cloud-services)
   * [Math and Programming](#math-and-programming)
   * [Plots](#plots)
@@ -579,7 +579,7 @@ Generally, open licenses are part of
 
 Doing research is fun.
 
-### April Fools' Day
+### April Fools' Papers
 
 Check arXiv.org today!
 
