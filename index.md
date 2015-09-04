@@ -20,7 +20,7 @@ A list of tools for research. This is a CC BY-SA licensed project. Use the sourc
 * [Be Organized](#be-organized)
   * [Version Control System](#version-control-system)
   * [Pomodoro](#pomodoro)
-  * [GTD-Task Manager]#(gtd-task-manager)
+  * [GTD-Task Manager](#gtd-task-manager)
 * [Cloud Services](#cloud-services)
   * [Math and Programming](#math-and-programming)
   * [Plots](#plots)
@@ -150,7 +150,7 @@ Coding/Numerical calculation/Analytical derivation online.
 
 ### Data
 
-1. [Figshare](http://figshare.com/): Data sharing and storage.
+* [Figshare](http://figshare.com/): Data sharing and storage.
 
 
 ### Colors
@@ -588,7 +588,7 @@ Generally, open licenses are part of
 
 Doing research is fun.
 
-### April Fools' Day
+### April Fools' Papers
 
 Check arXiv.org today!
 
@@ -628,7 +628,7 @@ Check arXiv.org today!
 
 **2007**
 
-[The Stryngbohtyk Model of the Universe: a Solution to the Problem of the Cosmological Constant](http://arxiv.org/abs/astro-ph/0703774)
+* [The Stryngbohtyk Model of the Universe: a Solution to the Problem of the Cosmological Constant](http://arxiv.org/abs/astro-ph/0703774)
 
 
 
@@ -636,29 +636,29 @@ Check arXiv.org today!
 
 ## LaTeX
 
-Useful tools are listed in [Cloud Services](Cloud-Services.html)
+
 
 ### Tips
 
-[wikibooks - LaTeX](http://en.wikibooks.org/wiki/LaTeX) as a manual.
+* [wikibooks - LaTeX](http://en.wikibooks.org/wiki/LaTeX): A good manual.
 
 #### Symbols
 
-1. [Detexify](http://detexify.kirelabs.org/classify.html): find out what the symbol is by drawing online
+* [Detexify](http://detexify.kirelabs.org/classify.html): find out what the symbol is by drawing online
 
 
 #### Graphing
 
-1. [TeX Example](http://www.texample.net/) (Tikz/PGF)
+* [TeX Example](http://www.texample.net/) (Tikz/PGF)
 
 
 #### Fonts
 
-1. [Font Catalogue](http://www.tug.dk/FontCatalogue/seriffonts.html)
+* [Font Catalogue](http://www.tug.dk/FontCatalogue/seriffonts.html)
 
 #### Templates
 
-1. [LaTeX Templates](http://www.latextemplates.com/)
+* [LaTeX Templates](http://www.latextemplates.com/)
 
 
 #### New Commands
