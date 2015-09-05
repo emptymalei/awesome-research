@@ -11,6 +11,8 @@ published: true
 
 A list of tools for research.
 
+
+
 ## TOC
 
 * [Be Organized](#be-organized)
@@ -292,7 +294,7 @@ Markdown, restructuredText and LaTeX are the three chosen languages.
 
 > * [StackEdit](http://stackedit.io): Markdown + Math
 > * [JaxEdit](http://jaxedit.com/): JaxEdit is not exactly an online LaTeX editor but anyway it uses mathjax to render math.
-> * [马克飞象](http://maxiang.info/) and [Marxico](http://marxi.co/) both has evernote integration.
+> * [马克飞象](http://maxiang.info/) and [Marxico](http://marxi.co/) both have evernote integration.
 
 
 ### iPython Notebook
