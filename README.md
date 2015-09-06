@@ -166,6 +166,7 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 * [Mou](http://25.io/mou/) (Mac)
 * [MarkdownPad](http://markdownpad.com/) (Win): if you have no bad feelings about .NET
 * [ReText](https://sourceforge.net/p/retext/home/ReText/) (All platforms | Open Source)
+* [Madoko](https://www.madoko.net/) (`Cloud`): **LaTeX** &times; Markdown &sup2;
 
 
 **Make use of these softwares for publishing**
