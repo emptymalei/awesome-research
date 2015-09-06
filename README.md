@@ -423,12 +423,12 @@ Online SVG Editor:
 ### Softwares
 
 * [Mathematica](http://www.wolfram.com/mathematica/): One Software to Rule Them All
-* [iPython Notebook](http://ipython.org/notebook.html) (Python): an useful tool for inline calculation, making graph and writing notes.
+* [iPython Notebook](http://ipython.org/notebook.html) (`Python`): an useful tool for inline calculation, making graph and writing notes.
   * [wakari.io](http://wakari.io) is a comercial one mostly aimed for data analysis.
   * [jiffylab](https://github.com/ptone/jiffylab) is an open source one but not that well done.
   * [supervised-ipython-nbserver](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
 * [Matlab](http://www.mathworks.com/products/matlab/)
-* [RStudio](http://www.rstudio.com/) (R language)
+* [RStudio](http://www.rstudio.com/) (`R`)
 
 
 ### Scientific Computing
