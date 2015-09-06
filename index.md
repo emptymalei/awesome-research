@@ -1,6 +1,6 @@
 ---
 layout: article
-title: How to Survive Research
+title: Awesome Research Tools
 comments: true
 published: true
 ---
@@ -266,23 +266,24 @@ Markdown, restructuredText and LaTeX are the three chosen languages.
 
 #### Markdown
 
-* [StackEdit](https://stackedit.io/)(`Cloud`): Markdown and MathJax
-* [CMD markdown](https://www.zybuluo.com/mdeditor)(`Cloud`): Basically a Chinese copy of StackEdit
-* [Penflip](https://www.penflip.com/)(`Cloud`): Markdown based and git like.
-* [Authorea](https://www.authorea.com/)(`Cloud`): A much more powerful markdown editor that can be used to produce nice academic papers.
+* [StackEdit](https://stackedit.io/)(`Cloud`): Markdown and MathJax (LaTeX) support.
+* [CMD markdown](https://www.zybuluo.com/mdeditor)(`Cloud`): Markdown and MathJax (LaTeX) support. (Chinese UI.)
+* [Penflip](https://www.penflip.com/)(`Cloud`): Markdown based and git like. No LaTeX support.
+* [Authorea](https://www.authorea.com/)(`Cloud`): Markdown and LaTeX. A much more powerful markdown editor that can be used to produce nice academic papers.
 * [Dillinger](http://dillinger.io/)(`Cloud`): Markdown editor but no math mode.
-* [Online Kramdown Editor](http://kramdown.herokuapp.com/)(`Cloud`)
-* [Pandoc Markdown](http://pandoc.herokuapp.com/)(`Cloud`)
-* [JaxEdit](http://jaxedit.com/)(`Cloud`): JaxEdit is not exactly an online LaTeX editor but anyway it uses mathjax to render math.
-* [Marxico](http://marxi.co/)(`Cloud`): markdown that integrates with Evernote. [马克飞象](http://maxiang.info/)(`Cloud`) is the chinese version。
+* [Online Kramdown Editor](http://kramdown.herokuapp.com/)(`Cloud`): No math support.
+* [Pandoc Markdown](http://pandoc.herokuapp.com/)(`Cloud`): Markdown and MathJax (LaTeX) support.
+
+* [Marxico](http://marxi.co/)(`Cloud`): markdown that integrates with Evernote. [马克飞象](http://maxiang.info/)(`Cloud`) is the Chinese version。
 
 
 #### LaTeX
 
 
 * [ShareLaTeX](https://www.sharelatex.com/)(`Cloud`): Dropbox and GitHub integration, preview, cooperation, simple UI. It also provides a lot of templates.
-* [Overleaf](https://www.overleaf.com/)(`Cloud`): Basically the same as ShareLaTeX. `Tell me more about it if you `
-* [Authorea](https://www.authorea.com/)(`Cloud`)
+* [Overleaf](https://www.overleaf.com/)(`Cloud`): Built in version control.
+* [Authorea](https://www.authorea.com/)(`Cloud`): Easy to use UI. Supports both Markdown and LaTeX.
+* [JaxEdit](http://jaxedit.com/)(`Cloud`): JaxEdit doesn't provide full LaTeX support but is good enough for simple LaTeX.
 
 
 **You can also host one using your own machine.**
@@ -291,11 +292,7 @@ Markdown, restructuredText and LaTeX are the three chosen languages.
 * [ShareLaTeX Source Code](https://github.com/sharelatex/sharelatex): ShareLaTeX open sourced their codes. This is a great move I would say.
 
 
-> There are other editors that is not fully LaTeX somehow partially support LaTeX.
 
-> * [StackEdit](http://stackedit.io): Markdown + Math
-> * [JaxEdit](http://jaxedit.com/): JaxEdit is not exactly an online LaTeX editor but anyway it uses mathjax to render math.
-> * [马克飞象](http://maxiang.info/) and [Marxico](http://marxi.co/) both have evernote integration.
 
 
 ### iPython Notebook
