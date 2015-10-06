@@ -366,7 +366,6 @@ As for LaTeX, [latexdiff](http://www.ctan.org/tex-archive/support/latexdiff/) is
 * [Strut](https://github.com/tantaman/Strut)
 * [Impressionist](https://github.com/harish-io/Impressionist)
 * [hovercraft](https://github.com/regebro/hovercraft)
-* [Dyapos](https://github.com/edwardoyarzun/dyapos)
 
 
 
