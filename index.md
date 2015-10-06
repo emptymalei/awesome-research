@@ -727,4 +727,6 @@ Check arXiv.org today!
 
 This is a CC BY-SA licensed project. Use the source! Keep the source open!
 
-![CC BY-SA](assets/cc_bysa.flat.guokr.png)
+[![CC BY-SA](assets/cc_bysa.flat.guokr.png)](https://github.com/emptymalei/awesome-research)
+
+Contributors: [@emptymalei](https://github.com/emptymalei), [@jhwohlgemuth](https://github.com/jhwohlgemuth), [@katamaritaco](https://github.com/katamaritaco)
