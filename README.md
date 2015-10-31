@@ -276,7 +276,7 @@ Markdown, restructuredText and LaTeX are the three chosen languages.
 * [Online Kramdown Editor](http://kramdown.herokuapp.com/)(`Cloud`): No math support.
 * [Pandoc Markdown](http://pandoc.herokuapp.com/)(`Cloud`): Markdown and MathJax (LaTeX) support.
 
-* [Marxico](http://marxi.co/)(`Cloud`): markdown that integrates with Evernote. [马克飞象](http://maxiang.info/)(`Cloud`) is the Chinese version。
+* [Marxico](http://marxi.co/)(`Cloud`,`Mac`,`Windows`,`Chrome`): markdown that integrates with Evernote, generates pdf and works offline. [马克飞象](http://maxiang.info/)(`Cloud`,`Mac`,`Windows`,`Chrome`) is the Chinese version。
 
 
 #### LaTeX
