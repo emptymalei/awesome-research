@@ -1,4 +1,6 @@
-# Awesome Research Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Research Tools
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A list of tools for research.
 
@@ -22,15 +24,17 @@ A list of tools for research.
   * [Static Generator](#static-generator)
 * [Note Taking](#note-taking)
   * [Editors](#editors)
+  * [Markdown](#markdown)
+  * [LaTeX](#latex)
   * [iPython Notebook](#ipython-notebook)
   * [Mindmap](#mindmap)
   * [Diagrams](#diagrams)
   * [Keep The Notes](#keep-the-notes)
-* [Presentation](#presentation)
+* [Presentation Tools](#presentation-tools)
   * [Online Load and Edit](#online-load-and-edit)
   * [Use The Source](#use-the-source)
   * [IPython Notebook](#ipython-notebook)
-  * [LaTeX Beamer](#lateX-beamer)
+  * [LaTeX Beamer](#latex-beamer)
   * [Mathematica](#mathematica)
   * [The Power of SVG](#the-power-of-svg)
   * [Sharing Slides](#sharing-slides)
@@ -42,17 +46,24 @@ A list of tools for research.
   * [Self-plagiarism](#self-plagiarism)
   * [Investigate Papers](#investigate-papers)
   * [Get Yourself A Citable Code for Anything](#get-yourself-a-citable-code-for-anything)
+  * [Open Science](#open-science)
 * [Pacifier](#pacifier)
 * [Online Discussions](#online-discussions)
   * [Physics](#physics)
-* [Open Science](#open-science)
+* [Open Source](#open-source)
   * [Open Licenses](#open-licenses)
   * [Use Licenses](#use-licenses)
 * [Data Visualization](#data-visualization)
 * [Fun](#fun)
   * [April Fools' Papers](#april-fools-papers)
-* [LaTeX](#lateX)
+* [LaTeX](#latex-1)
   * [Tips](#tips)
+  * [Symbols](#symbols)
+  * [Graphing](#graphing)
+  * [Fonts](#fonts)
+  * [Templates](#templates)
+  * [New Commands](#new-commands)
+  * [References](#references)
 * [MISC](#misc)
   * [Terminal](#terminal)
   * [Free Multimedia](#free-multimedia)
@@ -264,8 +275,9 @@ Markdown, restructuredText and LaTeX are the three chosen languages.
 * [Dillinger](http://dillinger.io/)(`Cloud`): Markdown editor but no math mode.
 * [Online Kramdown Editor](http://kramdown.herokuapp.com/)(`Cloud`): No math support.
 * [Pandoc Markdown](http://pandoc.herokuapp.com/)(`Cloud`): Markdown and MathJax (LaTeX) support.
+* [Marxico](http://marxi.co/)(`Cloud`,`Mac`,`Windows`,`Chrome`): Markdown that integrates with Evernote, generates pdf and works offline. [马克飞象](http://maxiang.info/)(`Cloud`,`Mac`,`Windows`,`Chrome`) is the Chinese version。
+* [Madoko](https://www.madoko.net/)(`Cloud`,`Chrome`): Markdown and Math support, images are inserted easily with one click, files saved on Dropbox, GitHub, OneDrive or local disk. It generates pdf and HTML page and works offline using browser's local storage, imports LaTeX files.
 
-* [Marxico](http://marxi.co/)(`Cloud`): Markdown that integrates with Evernote. [马克飞象](http://maxiang.info/)(`Cloud`) is the Chinese version。
 
 
 #### LaTeX
@@ -355,7 +367,6 @@ As for LaTeX, [latexdiff](http://www.ctan.org/tex-archive/support/latexdiff/) is
 * [Strut](https://github.com/tantaman/Strut)
 * [Impressionist](https://github.com/harish-io/Impressionist)
 * [hovercraft](https://github.com/regebro/hovercraft)
-* [Dyapos](https://github.com/edwardoyarzun/dyapos)
 
 
 
@@ -484,6 +495,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 
 * [Rainy Mood](http://www.rainymood.com/)(iOS & Android & Web): rainy day rainy mood, simple but with excellent white noise; a new beautiful soundtrack each day
 * [Coffitivity](http://coffitivity.com/)(iOS & Android & Web & Mac): a rather simple but ellite cafe library; premium has more three more soundtracks; elegant UI; scientific research powered
+* [Noizio](http://noiz.io/)(iOS & Mac): a handy white noise tool that stays in your Mac status bar.
 * [Noisli](http://www.noisli.com/) (Web): free mixing of multiple tracks (which is similar to Soundrown but with much better UI). Users can save a customized setting for later use. I personally think this one has better fire sound tracks than soundrown.
 * [Soundrown](http://soundrown.com/)(Web, Apps Developers Hiring): free mixing of multiple tracks
 * [Muji Sleep](http://sleep.muji.net/)(iOS & Android)
@@ -528,7 +540,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 
 ## Open Source
 
-Open science.
+Open Source is great.
 
 ### Open Licenses
 
@@ -537,7 +549,7 @@ Generally, open licenses are part of
 * [Open Definition](http://opendefinition.org/): Read the license [here](http://opendefinition.org/licenses/) and pick the one you like.
 
 
-#### Use Licenses
+### Use Licenses
 
 * [Guokr Badge](https://github.com/opentf/GuokrBadge): Green CC License badges. (**Documentation is in Chinese.**)
 
@@ -628,27 +640,29 @@ Check arXiv.org today!
 ### Tips
 
 * [wikibooks - LaTeX](http://en.wikibooks.org/wiki/LaTeX): A good manual.
+* [Notetaking programs listed above](#latex)
 
-#### Symbols
+
+### Symbols
 
 * [Detexify](http://detexify.kirelabs.org/classify.html): find out what the symbol is by drawing online
 
 
-#### Graphing
+### Graphing
 
 * [TeX Example](http://www.texample.net/) (Tikz/PGF)
 
 
-#### Fonts
+### Fonts
 
 * [Font Catalogue](http://www.tug.dk/FontCatalogue/seriffonts.html)
 
-#### Templates
+### Templates
 
 * [LaTeX Templates](http://www.latextemplates.com/)
 
 
-#### New Commands
+### New Commands
 
 **New commands for Quantum Mechanics**
 
