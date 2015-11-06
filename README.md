@@ -357,6 +357,14 @@ As for LaTeX, [latexdiff](http://www.ctan.org/tex-archive/support/latexdiff/) is
 
 ## Presentation Tools
 
+### Keep You Computer Awake
+
+It is important to keep your computer awake during the presentation. Instead of changing the power options, the following tools can also do the job.
+
+
+* [Caffeine](https://itunes.apple.com/us/app/caffeine/id411246225) (`Mac`): As simple as a single click.
+* [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12) (`Mac`): More configurations involved and more intelligent.
+
 
 ### Online Load and Edit
 
@@ -493,22 +501,23 @@ This might be not so straightforward but remember this. Reuse your own work does
 
 **[Rainy Mood](http://www.rainymood.com/), [Coffitivity](http://coffitivity.com/) and [Noisli](http://www.noisli.com/) are the recommended ones.**
 
-* [Rainy Mood](http://www.rainymood.com/)(iOS & Android & Web): rainy day rainy mood, simple but with excellent white noise; a new beautiful soundtrack each day
-* [Coffitivity](http://coffitivity.com/)(iOS & Android & Web & Mac): a rather simple but ellite cafe library; premium has more three more soundtracks; elegant UI; scientific research powered
-* [Noizio](http://noiz.io/)(iOS & Mac): a handy white noise tool that stays in your Mac status bar.
-* [Noisli](http://www.noisli.com/) (Web): free mixing of multiple tracks (which is similar to Soundrown but with much better UI). Users can save a customized setting for later use. I personally think this one has better fire sound tracks than soundrown.
-* [Soundrown](http://soundrown.com/)(Web, Apps Developers Hiring): free mixing of multiple tracks
-* [Muji Sleep](http://sleep.muji.net/)(iOS & Android)
-* [A Soft Murmur](http://asoftmurmur.com/)(Web): free mixing of multiple tracks; simple UI; Timer provided; Meander available
-* [mynoise](http://mynoise.net/noiseMachines.php)(iOS & Web): a noise generator; a lot of choices (too many actually); detailed equalizer
-* [Rainy Cafe](http://rainycafe.com/)(Web): not much to say just a combination of rainy mood and coffitivity
-* [Sleep Pillow](http://www.clearskyapps.com/portfolio/sleep)(iOS & Mac): click and play style preloaded scenes; easy to use; beautiful design
+* [Rainy Mood](http://www.rainymood.com/)(`iOS`, `Android`, `Web`): rainy day rainy mood, simple but with excellent white noise; a new beautiful soundtrack each day
+* [Coffitivity](http://coffitivity.com/)(`iOS`, `Android`, `Web`, `Mac`): a rather simple but ellite cafe library; premium has more three more soundtracks; elegant UI; scientific research powered
+* [Noizio](http://noiz.io/)(`iOS`, `Mac`): a handy white noise tool that stays in your Mac status bar.
+* [Noisli](http://www.noisli.com/) (`Web`): free mixing of multiple tracks (which is similar to Soundrown but with much better UI). Users can save a customized setting for later use. I personally think this one has better fire sound tracks than soundrown.
+* [Soundrown](http://soundrown.com/)(`Web`): free mixing of multiple tracks
+* [Muji Sleep](http://sleep.muji.net/)(`iOS`, `Android`)
+* [A Soft Murmur](http://asoftmurmur.com/)(`Web`): free mixing of multiple tracks; simple UI; Timer provided; Meander available
+* [mynoise](http://mynoise.net/noiseMachines.php)(`iOS`, `Web`): a noise generator; a lot of choices (too many actually); detailed equalizer
+* [Rainy Cafe](http://rainycafe.com/)(`Web`): not much to say just a combination of rainy mood and coffitivity
+* [Sleep Pillow](http://www.clearskyapps.com/portfolio/sleep)(`iOS`, `Mac`): click and play style preloaded scenes; easy to use; beautiful design
 * [A youtube audio track of coffee shop (really long)](http://www.youtube.com/watch?v=KZV9FmHOsRg)
 * [A youtube audio track of 10 hours rain fall](http://www.youtube.com/watch?v=s_2FDRtFOAw)
-* [TaoMix](https://play.google.com/store/apps/details?id=air.com.demute.TaoMix): An Android App
-* *[focus@will](https://www.focusatwill.com): music to boost your brain; payed services now; typesetted italic because I'm not sure if this is good*
-* [Calm](http://www.calm.com/): to help you calming down
-* [Raining](http://raining.fm)
+* [TaoMix](https://play.google.com/store/apps/details?id=air.com.demute.TaoMix) (`Android`): sound mixings to concentrate
+* [Calm](http://www.calm.com/)(`iOS`, `Android`, `Web`): to help you calming down
+* [Raining](http://raining.fm)(`iOS`, `Android`, `Web`): raining and thunder
+* [focus@will](https://www.focusatwill.com)(`iOS`, `Android`, `Web`): music to boost your brain; payed services now
+
 
 
 
@@ -531,11 +540,11 @@ This might be not so straightforward but remember this. Reuse your own work does
 
 ## Online Discussions
 
-### Physics
+### Forums and Q&A's
+
+StackExchange.com is a good place for professional discussions. Here is an example.
 
 * [Physics.StackExchange](http://physics.stackexchange.com/)
-
-
 
 
 ## Open Source
@@ -551,8 +560,13 @@ Generally, open licenses are part of
 
 ### Use Licenses
 
-* [Guokr Badge](https://github.com/opentf/GuokrBadge): Green CC License badges. (**Documentation is in Chinese.**)
+To choose a license, an easy way is to use
 
+* [Choose a License](http://choosealicense.com/) which helps you decide which license to use through several steps.
+
+CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For alternative badges or icons, check the following.
+
+* [Guokr Badge](https://github.com/opentf/GuokrBadge): Green CC License badges. (**Documentation is in Chinese.**)
 
 
 
@@ -686,8 +700,6 @@ Check arXiv.org today!
 * [Math into Type](ftp://ftp.ams.org/pub/author-info/documentation/howto/mit-2.pdf): This is a great book for math related typography. This is copyright material. Please DO NOT redistribute.
 
 
-
-
 ## MISC
 
 
@@ -696,7 +708,6 @@ Check arXiv.org today!
 * [plot in terminal](https://github.com/glamp/bashplotlib)
 * [asciinema](https://asciinema.org/): Command line recording.
 * [bashplot](https://github.com/glamp/bashplotlib): plot in terminal.
-
 
 
 ### Free Multimedia
@@ -714,8 +725,8 @@ Check arXiv.org today!
 
 ### More
 
-* [QR Code Generator](https://www.unitag.io/qrcode)
-
+* [QR Code Generator](https://www.unitag.io/qrcode): Adding a QR code to your poster can help you get more audience.
+* [SHIELDS.io](http://shields.io/): Make a beautiful badge by yourself.
 
 -----
 
