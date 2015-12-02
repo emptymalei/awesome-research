@@ -277,6 +277,7 @@ Markdown, restructuredText and LaTeX are the three chosen languages.
 * [Pandoc Markdown](http://pandoc.herokuapp.com/)(`Cloud`): Markdown and MathJax (LaTeX) support.
 * [Marxico](http://marxi.co/)(`Cloud`,`Mac`,`Windows`,`Chrome`): Markdown that integrates with Evernote, generates pdf and works offline. [马克飞象](http://maxiang.info/)(`Cloud`,`Mac`,`Windows`,`Chrome`) is the Chinese version。
 * [Madoko](https://www.madoko.net/)(`Cloud`,`Chrome`): Markdown and Math support, images are inserted easily with one click, files saved on Dropbox, GitHub, OneDrive or local disk. It generates pdf and HTML page and works offline using browser's local storage, imports LaTeX files.
+* [Markx](http://markx.herokuapp.com/)(`Cloud`): Markdown editor for scientific writing. Batteries included.
 
 
 
