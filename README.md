@@ -709,7 +709,7 @@ Check arXiv.org today!
 * [plot in terminal](https://github.com/glamp/bashplotlib)
 * [asciinema](https://asciinema.org/): Command line recording.
 * [bashplot](https://github.com/glamp/bashplotlib): plot in terminal.
-
+* [fuck](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
 
 ### Free Multimedia
 
@@ -719,7 +719,7 @@ Check arXiv.org today!
 
 ### Interesting Journals
 
-* [International Journal of Geometric Methods in Modern Physics](http://www.worldscientific.com/action/cookieAbsent)
+* [International Journal of Geometric Methods in Modern Physics](http://www.worldscientific.com/worldscinet/ijgmmp)
 
 
 
