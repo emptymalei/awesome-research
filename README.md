@@ -84,7 +84,7 @@ First things first, everyone should know version control systems. Version contro
 
 #### Online Git Service
 
-* [GitHub](http://github.com): No description needed.
+* [GitHub](https://github.com/): No description needed.
 * [BitBucket](https://bitbucket.org): Alternative to GitHub with free private repositories.
 * [Taiga](https://taiga.io/): Alternative to GitHub with some fun communication tools like drinking Iocaine.
 
@@ -117,7 +117,7 @@ Try [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to ga
 * [Wunderlist](https://www.wunderlist.com) (All platforms): almost perfect todo lists; cooperation
 * [Evernote](https://evernote.com/) (All platforms): just perfect
 * [Anydo](http://www.any.do/) (All platforms): good because it has a very good reminder system; cooperation
-* [Todoist](http://todoist.com)(All platforms)
+* [Todoist](https://todoist.com/)(All platforms)
 
 
 
@@ -150,7 +150,7 @@ Coding/Numerical calculation/Analytical derivation online.
 
 ### Data
 
-* [Figshare](http://figshare.com/): Data sharing and storage.
+* [Figshare](https://figshare.com/): Data sharing and storage.
 
 
 ### Colors
@@ -176,16 +176,16 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 * [Cloud Based Markdown Editors](#cloud-services)
 * [Mou](http://25.io/mou/) (`Mac`)
 * [MarkdownPad](http://markdownpad.com/) (`Win`): if you have no bad feelings about .NET
-* [ReText](https://sourceforge.net/p/retext/home/ReText/) (`All platforms`)
+* [ReText](http://sourceforge.net/p/retext/home/ReText/) (`All platforms`)
 * [Madoko](https://www.madoko.net/) (`Cloud`): **LaTeX** &times; Markdown &sup2;
 
 
 **Make use of these softwares for publishing**
 
 * [Sphinx](http://sphinx-doc.org): RestructuredText as source files, powerful, flexible and modularized.
-* [Gitbook](http://www.gitbook.io/): A new but promising tool for html, pdf and epub with both online editors and local editors. Plugins like quizzes and math can be helpful to writing science.
+* [Gitbook](https://www.gitbook.com/): A new but promising tool for html, pdf and epub with both online editors and local editors. Plugins like quizzes and math can be helpful to writing science.
 * [Git-scribe](https://github.com/schacon/git-scribe): Good for writing ebooks.
-* [Wordsmith](https://github.com/tractical/wordsmith)
+* [Wordsmith](https://github.com/amedrz/wordsmith)
 
 
 **Sphinx Themes and configurations**
@@ -227,13 +227,13 @@ Before doing the investigation on platforms, just remind yourself:
 
 These softwares are running on the server and can be
 
-* [Wordpress](http://wordpress.org/) (`PHP`): Very popular but requires a lot of maintenance.
+* [Wordpress](https://wordpress.org/) (`PHP`): Very popular but requires a lot of maintenance.
 * [Ghost](https://github.com/tryghost/Ghost) (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
-* [Pico](https://github.com/gilbitron/Pico) (`PHP`): Lightweight cms, open source, no database.
+* [Pico](https://github.com/picocms/Pico) (`PHP`): Lightweight cms, open source, no database.
 * [Dropplets](https://github.com/circa75/dropplets) (`PHP`): Open source, simple, and elegant blog system; write in Markdown.
 
 
-**These Blog/CMS softwares can be hosted on [Digital Ocean](http://digitalocean.com/).**
+**These Blog/CMS softwares can be hosted on [Digital Ocean](https://www.digitalocean.com/).**
 
 
 
@@ -244,10 +244,10 @@ These softwares are running on the server and can be
 
 * [Jekyll](http://jekyllrb.com/) (`Ruby`): most widely used one I guess; easy to deply.
 * [Octopress](http://octopress.org/) (`Ruby`): easier to use compared with jekyll; somewhat compatable with Jekyll.
-* [Hexo](https://github.com/tommy351/hexo) (`Node.js`)
+* [Hexo](https://github.com/hexojs/hexo) (`Node.js`)
 * [Peclican](http://docs.getpelican.com/en/3.3.0/) (`Python`)
   * [Pelican Svbtle Theme](https://github.com/wting/pelican-svbtle)
-* [Nikola](http://getnikola.com/) (`Python`): multiple formats including restructuredtext; multiple purpose.
+* [Nikola](https://getnikola.com/) (`Python`): multiple formats including restructuredtext; multiple purpose.
 * [Tinkerer](http://tinkerer.me/index.html) (`Python`)
 * [Hugo](http://gohugo.io/)(`Go`): easy to use and really fast.
 
@@ -275,7 +275,7 @@ Markdown, restructuredText and LaTeX are the three chosen languages.
 * [Dillinger](http://dillinger.io/)(`Cloud`): Markdown editor but no math mode.
 * [Online Kramdown Editor](http://kramdown.herokuapp.com/)(`Cloud`): No math support.
 * [Pandoc Markdown](http://pandoc.herokuapp.com/)(`Cloud`): Markdown and MathJax (LaTeX) support.
-* [Marxico](http://marxi.co/)(`Cloud`,`Mac`,`Windows`,`Chrome`): Markdown that integrates with Evernote, generates pdf and works offline. [马克飞象](http://maxiang.info/)(`Cloud`,`Mac`,`Windows`,`Chrome`) is the Chinese version。
+* [Marxico](http://marxi.co/)(`Cloud`,`Mac`,`Windows`,`Chrome`): Markdown that integrates with Evernote, generates pdf and works offline. [马克飞象](https://maxiang.io/)(`Cloud`,`Mac`,`Windows`,`Chrome`) is the Chinese version。
 * [Madoko](https://www.madoko.net/)(`Cloud`,`Chrome`): Markdown and Math support, images are inserted easily with one click, files saved on Dropbox, GitHub, OneDrive or local disk. It generates pdf and HTML page and works offline using browser's local storage, imports LaTeX files.
 * [Markx](http://markx.herokuapp.com/)(`Cloud`): Markdown editor for scientific writing. Batteries included.
 
@@ -320,13 +320,13 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 * [KityMinder By Baidu](https://github.com/fex-team/kityminder) : Chinese Interface
 * [my-mind](http://my-mind.github.io/): repo [here](https://github.com/ondras/my-mind).
 * [beautiful Mind](http://beautifulmind.io/): repo [here](https://github.com/ierror/BeautifulMind.io)
-* [Mindmup](http://www.mindmup.com/): repo [here](https://github.com/mindmup)
+* [Mindmup](https://www.mindmup.com/): repo [here](https://github.com/mindmup)
 * [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps)
 
 
 **MINDMAP HTML**
 
-* [gojs](http://www.gojs.net/latest/samples/mindMap.html)
+* [gojs](http://gojs.net/latest/samples/mindMap.html)
 * [mapjs](http://coderbay.com/create-mind-maps-with-javascript-mapjs/)
 * [jsmind](https://github.com/hizzgdev/jsmind)
 * [jsmind](http://sourceforge.net/projects/jsmind/)
@@ -335,9 +335,9 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 
 ### Diagrams
 
-1. [Gliffy](http://www.gliffy.com/): all kinds of diagrams
+1. [Gliffy](https://www.gliffy.com/): all kinds of diagrams
 2. [ProcessOn](http://www.processon.com/): all kinds of diagrams
-3. [Draw.io](http://draw.io): all kinds of diagrams
+3. [Draw.io](http://www.draw.io/): all kinds of diagrams
 
 
 ### Keep The Notes
@@ -369,10 +369,10 @@ It is important to keep your computer awake during the presentation. Instead of 
 
 ### Online Load and Edit
 
-* [Prezi](http://prezi.com/) if you can.
+* [Prezi](https://prezi.com/) if you can.
 * [slides.com](http://slides.com/): Easy to use with remote controlled page presentation.
-* [Google Drive](http://drive.google.com/): no introduction needed
-* [Sway](http://sway.com): Microsoft
+* [Google Drive](https://drive.google.com/): no introduction needed
+* [Sway](https://sway.com/): Microsoft
 * [Strut](https://github.com/tantaman/Strut)
 * [Impressionist](https://github.com/harish-io/Impressionist)
 * [hovercraft](https://github.com/regebro/hovercraft)
@@ -390,7 +390,7 @@ Use [colors](https://github.com/mrmrs/colors) to make your html feels better.
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
 * [Reveal.js](https://github.com/hakimel/reveal.js)
-* [Beckpoke.js](https://github.com/markdalgleish/bespoke.js)
+* [Beckpoke.js](https://github.com/bespokejs/bespoke)
 * [CSSS](https://github.com/LeaVerou/CSSS)
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js)
 * [Deck.js](https://github.com/imakewebthings/deck.js)
@@ -441,11 +441,11 @@ Online SVG Editor:
 
 * [Mathematica](http://www.wolfram.com/mathematica/): One Software to Rule Them All
 * [iPython Notebook](http://ipython.org/notebook.html) (`Python`): an useful tool for inline calculation, making graph and writing notes.
-  * [wakari.io](http://wakari.io) is a comercial one mostly aimed for data analysis.
+  * [wakari.io](https://wakari.io/) is a comercial one mostly aimed for data analysis.
   * [jiffylab](https://github.com/ptone/jiffylab) is an open source one but not that well done.
   * [supervised-ipython-nbserver](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
 * [Matlab](http://www.mathworks.com/products/matlab/)
-* [RStudio](http://www.rstudio.com/) (`R`)
+* [RStudio](https://www.rstudio.com/) (`R`)
 
 
 ### Scientific Computing
@@ -500,7 +500,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 
 ## Pacifier
 
-**[Rainy Mood](http://www.rainymood.com/), [Coffitivity](http://coffitivity.com/) and [Noisli](http://www.noisli.com/) are the recommended ones.**
+**[Rainy Mood](http://www.rainymood.com/), [Coffitivity](https://coffitivity.com/) and [Noisli](http://www.noisli.com/) are the recommended ones.**
 
 * [Rainy Mood](http://www.rainymood.com/)(`iOS`, `Android`, `Web`): rainy day rainy mood, simple but with excellent white noise; a new beautiful soundtrack each day
 * [Coffitivity](http://coffitivity.com/)(`iOS`, `Android`, `Web`, `Mac`): a rather simple but ellite cafe library; premium has more three more soundtracks; elegant UI; scientific research powered
@@ -509,11 +509,11 @@ This might be not so straightforward but remember this. Reuse your own work does
 * [Soundrown](http://soundrown.com/)(`Web`): free mixing of multiple tracks
 * [Muji Sleep](http://sleep.muji.net/)(`iOS`, `Android`)
 * [A Soft Murmur](http://asoftmurmur.com/)(`Web`): free mixing of multiple tracks; simple UI; Timer provided; Meander available
-* [mynoise](http://mynoise.net/noiseMachines.php)(`iOS`, `Web`): a noise generator; a lot of choices (too many actually); detailed equalizer
+* [mynoise](https://mynoise.net/noiseMachines.php)(`iOS`, `Web`): a noise generator; a lot of choices (too many actually); detailed equalizer
 * [Rainy Cafe](http://rainycafe.com/)(`Web`): not much to say just a combination of rainy mood and coffitivity
 * [Sleep Pillow](http://www.clearskyapps.com/portfolio/sleep)(`iOS`, `Mac`): click and play style preloaded scenes; easy to use; beautiful design
-* [A youtube audio track of coffee shop (really long)](http://www.youtube.com/watch?v=KZV9FmHOsRg)
-* [A youtube audio track of 10 hours rain fall](http://www.youtube.com/watch?v=s_2FDRtFOAw)
+* [A youtube audio track of coffee shop (really long)](https://www.youtube.com/watch?v=KZV9FmHOsRg)
+* [A youtube audio track of 10 hours rain fall](https://www.youtube.com/watch?v=s_2FDRtFOAw)
 * [TaoMix](https://play.google.com/store/apps/details?id=air.com.demute.TaoMix) (`Android`): sound mixings to concentrate
 * [Calm](http://www.calm.com/)(`iOS`, `Android`, `Web`): to help you calming down
 * [Raining](http://raining.fm)(`iOS`, `Android`, `Web`): raining and thunder
@@ -526,7 +526,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 **Some Other Related Stuff**
 
 * [iSerenity](http://www.iserenity.com/): multiple choices but not that good (just my feeling).
-* [Rany by simply noise](http://rain.simplynoise.com/): just rain. simplynoise has other products.
+* [Rany by simply noise](https://rain.simplynoise.com/): just rain. simplynoise has other products.
 * [Natural Sound player](http://www.naturesoundplayer.com/): many natural sounds, cool.
 * [NatureSoundsFor.Me](http://naturesoundsfor.me/): make your own track, so many kinds of sounds.
 * [White.Noise](http://whitenoise247.net/): several different tracks
@@ -631,14 +631,14 @@ Check arXiv.org today!
 
 **2009**
 
-* [Time variation of a fundamental dimensionless constant](http://arxiv.org/abs/0903.5321/)
+* [Time variation of a fundamental dimensionless constant](http://arxiv.org/abs/0903.5321)
 * [Galaxy Zoo: an unusual new class of galaxy cluster](http://arxiv.org/abs/0903.5377)
 
 **2008**
 
 * [Interpreting the Kustaanheimo-Stiefel transform in gravitational dynamics](http://arxiv.org/abs/0803.4441)
 * [Down-sizing Forever](http://arxiv.org/abs/0803.4378)
-* [Relativity Revisited](http://arxiv.org/abs/0804.0016): [video on youtube](http://www.youtube.com/watch?v=5PkLLXhONvQ)
+* [Relativity Revisited](http://arxiv.org/abs/0804.0016): [video on youtube](https://www.youtube.com/watch?v=5PkLLXhONvQ)
 
 **2007**
 
@@ -654,7 +654,7 @@ Check arXiv.org today!
 
 ### Tips
 
-* [wikibooks - LaTeX](http://en.wikibooks.org/wiki/LaTeX): A good manual.
+* [wikibooks - LaTeX](https://en.wikibooks.org/wiki/LaTeX): A good manual.
 * [Notetaking programs listed above](#latex)
 
 
@@ -719,7 +719,7 @@ Check arXiv.org today!
 
 ### Interesting Journals
 
-* [International Journal of Geometric Methods in Modern Physics](http://www.worldscientific.com/worldscinet/ijgmmp)
+* [International Journal of Geometric Methods in Modern Physics](http://www.worldscientific.com/action/cookieAbsent)
 
 
 
