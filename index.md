@@ -67,7 +67,6 @@ A list of tools for research.
   * [Graphing](#graphing)
   * [Fonts](#fonts)
   * [Templates](#templates)
-  * [New Commands](#new-commands)
   * [References](#references)
 * [MISC](#misc)
   * [Terminal](#terminal)
