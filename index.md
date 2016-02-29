@@ -61,8 +61,6 @@ A list of tools for research.
   * [Open Licenses](#open-licenses)
   * [Use Licenses](#use-licenses)
 * [Data Visualization](#data-visualization)
-* [Fun](#fun)
-  * [April Fools' Papers](#april-fools-papers)
 * [LaTeX](#latex-1)
   * [Tips](#tips)
   * [Symbols](#symbols)
@@ -511,6 +509,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 
 * [Rainy Mood](http://www.rainymood.com/)(`iOS`, `Android`, `Web`): rainy day rainy mood, simple but with excellent white noise; a new beautiful soundtrack each day
 * [Coffitivity](http://coffitivity.com/)(`iOS`, `Android`, `Web`, `Mac`): a rather simple but ellite cafe library; premium has more three more soundtracks; elegant UI; scientific research powered
+* [Brain.fm](https://www.brain.fm/)(`Web`): Improve Focus, Relaxation & Sleep with audio brainwave training. Not free but worth every penny.
 * [Noizio](http://noiz.io/)(`iOS`, `Mac`): a handy white noise tool that stays in your Mac status bar.
 * [Noisli](http://www.noisli.com/) (`Web`): free mixing of multiple tracks (which is similar to Soundrown but with much better UI). Users can save a customized setting for later use. I personally think this one has better fire sound tracks than soundrown.
 * [Soundrown](http://soundrown.com/)(`Web`): free mixing of multiple tracks
@@ -602,59 +601,6 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 
 
 
-
-
-
-## Fun
-
-Doing research is fun.
-
-### April Fools' Papers
-
-Check arXiv.org today!
-
-
-#### Physics
-
-**2014**
-
-* [A Necro-Biological Explanation for the Fermi Paradox](http://arxiv.org/abs/1403.8146): watch the affiliations.
-* [The April First Phenomenon](http://arxiv.org/abs/1403.8010)
-
-
-**2012**
-
-* [Non-detection of the Tooth Fairy at Optical Wavelengths](http://arxiv.org/abs/1204.0492)
-* [The Proof of Innocence](http://arxiv.org/abs/1204.0162)
-* [On the Ratio of Circumference to Diameter for the Largest Observable Circles: An Empirical Approach](http://arxiv.org/abs/1204.0298)
-* [Gods as Topological Invariants](http://arxiv.org/abs/1203.6902)
-
-
-
-**2010**
-
-* [Schroedinger's Cat is not Alone](http://arxiv.org/abs/1004.4206)
-
-
-**2009**
-
-* [Time variation of a fundamental dimensionless constant](http://arxiv.org/abs/0903.5321)
-* [Galaxy Zoo: an unusual new class of galaxy cluster](http://arxiv.org/abs/0903.5377)
-
-**2008**
-
-* [Interpreting the Kustaanheimo-Stiefel transform in gravitational dynamics](http://arxiv.org/abs/0803.4441)
-* [Down-sizing Forever](http://arxiv.org/abs/0803.4378)
-* [Relativity Revisited](http://arxiv.org/abs/0804.0016): [video on youtube](https://www.youtube.com/watch?v=5PkLLXhONvQ)
-
-**2007**
-
-* [The Stryngbohtyk Model of the Universe: a Solution to the Problem of the Cosmological Constant](http://arxiv.org/abs/astro-ph/0703774)
-
-
-
-
-
 ## LaTeX
 
 
@@ -684,22 +630,6 @@ Check arXiv.org today!
 * [LaTeX Templates](http://www.latextemplates.com/)
 
 
-### New Commands
-
-**New commands for Quantum Mechanics**
-
-```
-\newcommand{\ud}[1]{{#1^{\dagger}}}
-\newcommand{\bra}[1]{\left\langle #1\right|}
-\newcommand{\ket}[1]{\left| #1\right\rangle}
-\newcommand\Tr{\mathrm{Tr}}
-\newcommand{\braket}[2]{\langle #1 \mid #2 \rangle}
-\newcommand\d{\mathrm{d}}
-\newcommand\I{\mathbb{I}}
-\newcommand{\avg}[1]{\left< #1 \right>}
-```
-
-
 
 ### References
 
@@ -717,7 +647,6 @@ Check arXiv.org today!
 * [asciinema](https://asciinema.org/): Command line recording.
 * [bashplot](https://github.com/glamp/bashplotlib): plot in terminal.
 * [fuck](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
-
 
 ### Free Multimedia
 
@@ -743,4 +672,5 @@ This is a CC BY-SA licensed project. Use the source! Keep the source open!
 
 ![CC BY-SA](assets/cc_bysa.flat.guokr.png)
 
-Contributors: [@emptymalei](https://github.com/emptymalei), [@jhwohlgemuth](https://github.com/jhwohlgemuth), [@katamaritaco](https://github.com/katamaritaco)
+Contributors: [@emptymalei](https://github.com/emptymalei), [@jhwohlgemuth](https://github.com/jhwohlgemuth), [@katamaritaco](https://github.com/katamaritaco),
+[@hans-zen](https://github.com/hans-zen)
