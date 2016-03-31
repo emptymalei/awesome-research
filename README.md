@@ -21,14 +21,14 @@ A list of tools for research.
   * [Writing](#writing)
   * [Hosting](#hosting)
   * [Blog and CMS](#blog-and-cms)
-  * [Static Generator](#static-generator)
+  * [Static Site Generator](#static-site-generator)
 * [Note Taking](#note-taking)
   * [Editors](#editors)
   * [Markdown](#markdown)
   * [LaTeX](#latex)
   * [iPython Notebook](#ipython-notebook)
   * [Mindmap](#mindmap)
-  * [Diagrams](#diagrams)
+  * [Concept Map and Diagrams](#concept-map-and-diagrams)
   * [Keep The Notes](#keep-the-notes)
 * [Presentation Tools](#presentation-tools)
   * [Online Load and Edit](#online-load-and-edit)
@@ -53,7 +53,9 @@ A list of tools for research.
 * [Open Source](#open-source)
   * [Open Licenses](#open-licenses)
   * [Use Licenses](#use-licenses)
-* [Data Visualization](#data-visualization)
+* [Data Visualization and Graph Making](#data-visualization-and-graph-making)
+  * [Data Visualization](#data-visualization)
+  * [Graph Making](#graph-making)
 * [LaTeX](#latex-1)
   * [Tips](#tips)
   * [Symbols](#symbols)
@@ -111,17 +113,17 @@ Try [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to ga
 
 ### GTD-Task Manager
 
-* [Wunderlist](https://www.wunderlist.com) (All platforms): almost perfect todo lists; cooperation
-* [Evernote](https://evernote.com/) (All platforms): just perfect
-* [Anydo](http://www.any.do/) (All platforms): good because it has a very good reminder system; cooperation
-* [Todoist](https://todoist.com/)(All platforms)
+* [Wunderlist](https://www.wunderlist.com) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Store`,`Chrome OS`): Almost perfect todo lists with cooperation and sharing.
+* [Evernote](https://evernote.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Store`): Not so lightweight but still very good for managing life especially since it has got a lot of integrations from a lot of other services.
+* [Anydo](http://www.any.do/) (`Cloud`,`Mac`,`Android`,`iOS`): Good because it has a very good daily review which can help users remember what to do.
+* [Todoist](https://todoist.com/)(`Cloud`,`Mac`,`Win`,`Android`,`iOS`): Todoist invented the karma system which keeps track of the tasks done.
 
 
 
 
 ## Cloud Services
 
-*For self-hosted services, checkout [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) on GitHub.*
+*For self-hosted services, check out [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) on GitHub.*
 
 
 ### Math and Programming
@@ -129,8 +131,8 @@ Try [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to ga
 Coding/Numerical calculation/Analytical derivation online.
 
 * [Sagemath](https://cloud.sagemath.com/): LaTeX, R, iPython Notebook, etc.
-* [PiCloud](http://picloud.com): python, but it was aquired by Dropbox and has been shut down. The new site is [Multyvac](http://www.multyvac.com/).
-* [Multyvac](https://www.multyvac.com/): Kind of the sucessor of PiCloud but will be more powerful for sure.
+* [PiCloud](http://picloud.com): python, but it was acquired by Dropbox and has been shut down. The new site is [Multyvac](http://www.multyvac.com/).
+* [Multyvac](https://www.multyvac.com/): Kind of the successor of PiCloud but will be more powerful for sure.
 * [WolframAlpha](http://www.wolframalpha.com/): Excellent engine to do mathematical derivation online and search.
 
 
@@ -168,36 +170,32 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 
 ### Writing
 
-**Markdown is one of the best languages for writing.**
-
-* [Cloud Based Markdown Editors](#cloud-services)
-* [Mou](http://25.io/mou/) (`Mac`)
-* [MarkdownPad](http://markdownpad.com/) (`Win`): if you have no bad feelings about .NET
-* [ReText](http://sourceforge.net/p/retext/home/ReText/) (`All platforms`)
-* [Madoko](https://www.madoko.net/) (`Cloud`): **LaTeX** &times; Markdown &sup2;
+**Markdown is one of the best languages for writing.** Check out these editor in [Markdown section](#markdown).
 
 
-**Make use of these softwares for publishing**
+**Make use of these programs for publishing:**
 
 * [Sphinx](http://sphinx-doc.org): RestructuredText as source files, powerful, flexible and modularized.
-* [Gitbook](https://www.gitbook.com/): A new but promising tool for html, pdf and epub with both online editors and local editors. Plugins like quizzes and math can be helpful to writing science.
+* [Gitbook](https://www.gitbook.com/): A new but promising tool for HTML, pdf, and epub with both online editors and local editors. Plugins like quizzes and math can be helpful to writing science.
 * [Git-scribe](https://github.com/schacon/git-scribe): Good for writing ebooks.
-* [Wordsmith](https://github.com/amedrz/wordsmith)
+* [Static Site Generator](#static-site-generator): For more please refer to [Static Site Generator](#static-site-generator).
+
 
 
 **Sphinx Themes and configurations**
 
 * Themes
-  * [rtd theme](https://github.com/snide/sphinx_rtd_theme): Developed by Readthedocs.org.
-  * [some beautiful themes](https://github.com/vkvn/sphinx-themes)
-  * [bootstrap theme](https://pypi.python.org/pypi/sphinx-bootstrap-theme/): quite comfortable
+  * [rtd theme](https://github.com/snide/sphinx_rtd_theme): Developed by ReadtheDocs.org
+  * [Alabaster](https://github.com/bitprophet/alabaster): Clean and simple
+  * [Some beautiful themes](https://github.com/vkvn/sphinx-themes)
+  * [Bootstrap theme](https://ryan-roemer.github.io/sphinx-bootstrap-theme/)
 
 
 **Science Books Using Sphinx**
 
 * [Theoretical Physics](https://github.com/certik/theoretical-physics)
-* [Statistical Physics](https://github.com/emptymalei/StatisticalPhysics)
-* [Physics Research Survival Manual](https://github.com/CosmologyTaskForce/PhysicsResearchSurvivalManual)
+* [Statistical Physics](https://github.com/emptymalei/statisticalphysics)
+* [Neutrino Physics](https://github.com/NeuPhysics/neutrino)
 
 
 
@@ -205,9 +203,14 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 
 Host your articles, notes and more.
 
-* [ReadtheDocs](http://readthedocs.org/): Turn your restructuredtext source to html, pdf and epub, all done online.
+* [ReadtheDocs](http://readthedocs.org/): Turn your reStructuredText source to HTML, pdf, and epub, all done online.
 * [GitHub pages](https://pages.github.com/): Integrated with Jekyll and turns markdown posts automatically. Jekyll is a tool for blogging.
-* [GitHub](http://github.com): Just put markdown, restructuredtext, pdf or ipython notebook files on GitHub. All these formats can be previewed online. **The thing to mention is that the math in ipython notebook can rendered on GitHub.**
+* [GitHub](http://github.com): Just put markdown, reStructuredText, pdf or ipython notebook files on GitHub. All these formats can be previewed online. **The thing to mention is that the math in ipython notebook can be rendered on GitHub.**
+* [Aerobatic](https://www.aerobatic.com/): A powerful alternative to GitHub Pages.
+* [Surge](https://surge.sh/): One command upload your static website to make it live. Surge also integrates GitHub hooks.
+* [Heroku](https://www.heroku.com/): The one that needs no explaination.
+
+Other services such as [Digital Ociean](https://www.digitalocean.com/) are also useful when it comes to dynamic websites and cloud computing.
 
 
 
@@ -217,12 +220,12 @@ Host your articles, notes and more.
 
 Before doing the investigation on platforms, just remind yourself:
 
-**I want to write, not run blogging software.**
+> **I want to write, not to run blogging software.**
 
 
-**Blog/CMS Softwares**
+**Blog/CMS Software**
 
-These softwares are running on the server and can be
+These programs are running on the server and can be [hosted using these services](#hosting).
 
 * [Wordpress](https://wordpress.org/) (`PHP`): Very popular but requires a lot of maintenance.
 * [Ghost](https://github.com/tryghost/Ghost) (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
@@ -230,27 +233,26 @@ These softwares are running on the server and can be
 * [Dropplets](https://github.com/circa75/dropplets) (`PHP`): Open source, simple, and elegant blog system; write in Markdown.
 
 
-**These Blog/CMS softwares can be hosted on [Digital Ocean](https://www.digitalocean.com/).**
+**These Blog/CMS software can be hosted on [Digital Ocean](https://www.digitalocean.com/).**
 
 
 
 
-### Static Generator
+### Static Site Generator
 
-[Here is a nice website](https://staticsitegenerators.net/) that tells you all the static site generators.
+[Here is a nice website](https://staticsitegenerators.net/) that tells you all the static site generators. Nonethless here is a list of the most popular ones.
 
-* [Jekyll](http://jekyllrb.com/) (`Ruby`): most widely used one I guess; easy to deply.
-* [Octopress](http://octopress.org/) (`Ruby`): easier to use compared with jekyll; somewhat compatable with Jekyll.
-* [Hexo](https://github.com/hexojs/hexo) (`Node.js`)
-* [Peclican](http://docs.getpelican.com/en/3.3.0/) (`Python`)
+* [Jekyll](http://jekyllrb.com/) (Written in `Ruby`)(`Markdown`): Jekyll is the most widely used one. The best part about Jekyll is that one just deploy to GitHub Pages by pushing the source to GitHub.
+* [Octopress](http://octopress.org/) (Written in `Ruby`)(`Markdown`): Octopress is easier to use compared with Jekyll while being somewhat compatible with Jekyll.
+* [Hexo](https://hexo.io/) (Written in `Node.js`)(`Markdown`): "A fast, simple & powerful blog framework" as they say on their website. It supports GFM.
+* [Pelican](http://getpelican.com) (Written in `Python`)(`reStructuredText`,`Markdown`,`AsciiDoc`): Pelican is a modularized framework and is perfect for blogging.
   * [Pelican Svbtle Theme](https://github.com/wting/pelican-svbtle)
-* [Nikola](https://getnikola.com/) (`Python`): multiple formats including restructuredtext; multiple purpose.
-* [Tinkerer](http://tinkerer.me/index.html) (`Python`)
-* [Hugo](http://gohugo.io/)(`Go`): easy to use and really fast.
+* [Nikola](https://getnikola.com/) (Written in `Python`)(`reStructuredText`,`Markdown`,`IPython Notebook/Jupyter`,`PHP`, etc): It takes in multiple input formats including reStructuredText and many others.
+* [Hugo](http://gohugo.io/)(Written in `Go`)(`Markdown`): Easy to use and really fast. It also supports more input formats through plugins.
 
 
 
-The site generated by these softwares can be hosted on [GitHub Pages](https://pages.github.com/).
+The site generated by these programs can be hosted on [GitHub Pages](https://pages.github.com/).
 
 
 
@@ -260,21 +262,28 @@ The site generated by these softwares can be hosted on [GitHub Pages](https://pa
 
 ### Editors
 
-Markdown, restructuredText and LaTeX are the three chosen languages.
+Markdown, reStructuredText, and LaTeX are the three chosen languages.
 
 
 #### Markdown
 
-* [StackEdit](https://stackedit.io/)(`Cloud`): Markdown and MathJax (LaTeX) support.
-* [CMD markdown](https://www.zybuluo.com/mdeditor)(`Cloud`): Markdown and MathJax (LaTeX) support. (Chinese UI.)
-* [Penflip](https://www.penflip.com/)(`Cloud`): Markdown based and git like. No LaTeX support.
-* [Authorea](https://www.authorea.com/)(`Cloud`): Markdown and LaTeX. A much more powerful markdown editor that can be used to produce nice academic papers.
+* [StackEdit](https://stackedit.io/)(`Cloud`): StackEdit is a Markdown editor with many integrated services such as math (MathJax), Google Drive, Dropbox, and GitHub.
+* [CMD markdown](https://www.zybuluo.com/mdeditor)(`Cloud`): CMD is a Markdown editor with math (MathJax) support. What is special is that it keeps edit history. (Chinese UI.)
+* [Penflip](https://www.penflip.com/)(`Cloud`): Penflip is designed to be a GitHub for writers. It is Markdown-based and git like without math support.
+* [Authorea](https://www.authorea.com/)(`Cloud`): A much more powerful Markdown and LaTeX online editor that can be used to produce nice academic papers.
 * [Dillinger](http://dillinger.io/)(`Cloud`): Markdown editor but no math mode.
-* [Online Kramdown Editor](http://kramdown.herokuapp.com/)(`Cloud`): No math support.
-* [Pandoc Markdown](http://pandoc.herokuapp.com/)(`Cloud`): Markdown and MathJax (LaTeX) support.
-* [Marxico](http://marxi.co/)(`Cloud`,`Mac`,`Windows`,`Chrome`): Markdown that integrates with Evernote, generates pdf and works offline. [马克飞象](https://maxiang.io/)(`Cloud`,`Mac`,`Windows`,`Chrome`) is the Chinese version。
-* [Madoko](https://www.madoko.net/)(`Cloud`,`Chrome`): Markdown and Math support, images are inserted easily with one click, files saved on Dropbox, GitHub, OneDrive or local disk. It generates pdf and HTML page and works offline using browser's local storage, imports LaTeX files.
+* [Online Kramdown Editor](http://kramdown.herokuapp.com/)(`Cloud`): Just another Markdown editor without math support.
+* [Pandoc Markdown](http://pandoc.herokuapp.com/)(`Cloud`): Just another Markdown editor with math (MathJax) support.
+* [Marxico](http://marxi.co/)(`Cloud`,`Mac`,`Win`,`Chrome`): Markdown editor that integrates with Evernote, generates pdf and works offline. [马克飞象](https://maxiang.io/)(`Cloud`,`Mac`,`Win`,`Chrome`) is the Chinese version。
+* [Madoko](https://www.madoko.net/)(`Cloud`,`Chrome`): A Markdown editor with math support, where images are inserted easily with one click, while your files are saved on Dropbox, GitHub, OneDrive or local disk. It generates pdf and HTML page and works offline using browser's local storage. One can even import LaTeX files.
 * [Markx](http://markx.herokuapp.com/)(`Cloud`): Markdown editor for scientific writing. Batteries included.
+* [typora](https://www.typora.io/)(`Mac`,`Win`):  Beautiful UI and in-situ live preview.
+* [Haroopad](http://pad.haroopress.com/)(`Mac`,`Win`,`Linux`): A powerful github flavored markdown editor with useful extensions. Math (mathjax) is supported.
+* [jbt/markdown-editor](http://jbt.github.io/markdown-editor/)(`Cloud`): Just another online Markdown editor without math support.
+* [Mou](http://25.io/mou/)(`Mac`): Mou used to be the best Markdown editor on Mac. It is not bad but DO NOT preorder Mou 1.0. This project is dead, unofficially. [了解为什么死掉，请阅读此文。](http://matrix.sspai.com/p/c7a3c9c0)
+* [MarkdownPad](http://markdownpad.com/) (`Win`): If you have no bad feelings about .NET, this is pretty good.
+* [ReText](https://github.com/retext-project/retext) (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
+* [Madoko](https://www.madoko.net/) (`Cloud`): **LaTeX** &times; Markdown &sup2;
 
 
 
@@ -284,7 +293,7 @@ Markdown, restructuredText and LaTeX are the three chosen languages.
 * [ShareLaTeX](https://www.sharelatex.com/)(`Cloud`): Dropbox and GitHub integration, preview, cooperation, simple UI. It also provides a lot of templates.
 * [Overleaf](https://www.overleaf.com/)(`Cloud`): Built in version control.
 * [Authorea](https://www.authorea.com/)(`Cloud`): Easy to use UI. Supports both Markdown and LaTeX.
-* [JaxEdit](http://jaxedit.com/)(`Cloud`): JaxEdit doesn't provide full LaTeX support but is good enough for simple LaTeX.
+* [JaxEdit](http://jaxedit.com/)(`Cloud`): JaxEdit doesn't provide full LaTeX support but is good enough for simple LaTeX documents and slides.
 
 
 **You can also host one using your own machine.**
@@ -298,9 +307,12 @@ Markdown, restructuredText and LaTeX are the three chosen languages.
 
 ### iPython Notebook
 
-Use IPython Notebook to help with your research. IPython Notebook can be previewed on GitHub directly.
+Use IPython Notebook to help with your research. IPython Notebook can be previewed on GitHub directly. Here are some examples of how IPython notebook can be used.
 
-* [Reproduced Papers](http://reproduced-papers.github.io/) .
+* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures)
+* [Reproduced Papers](http://reproduced-papers.github.io/)
+* [More](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks): For more IPython notebook on GitHub please read this enormous list.
+
 
 
 
@@ -330,7 +342,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 * [mindmaps](https://github.com/drichard/mindmaps)
 
 
-### Diagrams
+### Concept Map and Diagrams
 
 1. [Gliffy](https://www.gliffy.com/): all kinds of diagrams
 2. [ProcessOn](http://www.processon.com/): all kinds of diagrams
@@ -342,13 +354,14 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 
 It's alway better to keep track the changes of your notes and **git** is a nice choice. Therefore, [GitHub](http://github.com) is the almost perfect place.
 
-As for LaTeX, [latexdiff](http://www.ctan.org/tex-archive/support/latexdiff/) is the suitable tool for checking the diff.
+As for LaTeX, [latexdiff](http://www.ctan.org/tex-archive/support/latexdiff/) is a tool for checking the diff.
 
-**Some softwares allows you to keep the markdown notes on a server.**
+**Some programs allows you to keep the markdown notes on a server.**
 
 * [Raneto](http://raneto.com/): Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase. This one has a nice looking.
 * [Realms](http://realms.io/): Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger. Basic authentication and registration included.
 * [Tiddlywiki](http://tiddlywiki.com/): A unique non-linear notebook for capturing, organizing and sharing complex information.
+* Some other [static site generators](#static-generator).
 
 
 
@@ -382,7 +395,7 @@ Requires a few front-end techniques.
 
 #### HTML+CSS+JS
 
-Use [colors](https://github.com/mrmrs/colors) to make your html feels better.
+Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
@@ -399,10 +412,7 @@ Use [colors](https://github.com/mrmrs/colors) to make your html feels better.
 
 ### IPython Notebook
 
-Julia or Python language, even R is supported in
-
-* [IPython Notebook](https://jupyter.org/)
-* [Jupyter](https://jupyter.org/).
+Julia or Python language, even R is supported in [IPython Notebook/Jupyter](https://jupyter.org/) which can be used to give presentations.
 
 
 ### LaTeX Beamer
@@ -418,9 +428,14 @@ Julia or Python language, even R is supported in
 
 ### The Power of SVG
 
-Online SVG Editor:
+**Online SVG editors:**
 
 * [ext-sozi](https://github.com/asyazwan/ext-sozi)
+
+**Local SVG editors:**
+
+* [Inkscape](https://inkscape.org)(`Mac`,`Win`,`Linux`)
+* [GIMP](https://www.gimp.org)(`Mac`,`Win`,`Linux`)
 
 
 ### Sharing Slides
@@ -437,7 +452,7 @@ Online SVG Editor:
 ### Softwares
 
 * [Mathematica](http://www.wolfram.com/mathematica/): One Software to Rule Them All
-* [iPython Notebook](http://ipython.org/notebook.html) (`Python`): an useful tool for inline calculation, making graph and writing notes.
+* [iPython Notebook](http://ipython.org/notebook.html) (`Python`): a useful tool for inline calculation, making graphs and writing notes.
   * [wakari.io](https://wakari.io/) is a comercial one mostly aimed for data analysis.
   * [jiffylab](https://github.com/ptone/jiffylab) is an open source one but not that well done.
   * [supervised-ipython-nbserver](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
@@ -456,16 +471,6 @@ Online SVG Editor:
 ### Coding is Fun
 
 [Code Fights](https://codefights.com/)
-
-
-
-
-
-
-
-
-
-
 
 
 ## Academic
@@ -500,7 +505,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 **[Rainy Mood](http://www.rainymood.com/), [Coffitivity](https://coffitivity.com/) and [Noisli](http://www.noisli.com/) are the recommended ones.**
 
 * [Rainy Mood](http://www.rainymood.com/)(`iOS`, `Android`, `Web`): rainy day rainy mood, simple but with excellent white noise; a new beautiful soundtrack each day
-* [Coffitivity](http://coffitivity.com/)(`iOS`, `Android`, `Web`, `Mac`): a rather simple but ellite cafe library; premium has more three more soundtracks; elegant UI; scientific research powered
+* [Coffitivity](http://coffitivity.com/)(`iOS`, `Android`, `Web`, `Mac`): a rather simple but useful coffee shop noise library; premium has more three more soundtracks; elegant UI; scientific research powered
 * [Brain.fm](https://www.brain.fm/)(`Web`): Improve Focus, Relaxation & Sleep with audio brainwave training. Not free but worth every penny.
 * [Noizio](http://noiz.io/)(`iOS`, `Mac`): a handy white noise tool that stays in your Mac status bar.
 * [Noisli](http://www.noisli.com/) (`Web`): free mixing of multiple tracks (which is similar to Soundrown but with much better UI). Users can save a customized setting for later use. I personally think this one has better fire sound tracks than soundrown.
@@ -515,7 +520,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 * [TaoMix](https://play.google.com/store/apps/details?id=air.com.demute.TaoMix) (`Android`): sound mixings to concentrate
 * [Calm](http://www.calm.com/)(`iOS`, `Android`, `Web`): to help you calming down
 * [Raining](http://raining.fm)(`iOS`, `Android`, `Web`): raining and thunder
-* [focus@will](https://www.focusatwill.com)(`iOS`, `Android`, `Web`): music to boost your brain; payed services now
+* [focus@will](https://www.focusatwill.com)(`iOS`, `Android`, `Web`): music to boost your brain; paid services now
 
 
 
@@ -524,7 +529,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 **Some Other Related Stuff**
 
 * [iSerenity](http://www.iserenity.com/): multiple choices but not that good (just my feeling).
-* [Rany by simply noise](https://rain.simplynoise.com/): just rain. simplynoise has other products.
+* [Rany by simply noise](https://rain.simplynoise.com/): just rain.
 * [Natural Sound player](http://www.naturesoundplayer.com/): many natural sounds, cool.
 * [NatureSoundsFor.Me](http://naturesoundsfor.me/): make your own track, so many kinds of sounds.
 * [White.Noise](http://whitenoise247.net/): several different tracks
@@ -569,8 +574,9 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 
 
 
-## Data Visualization
+## Data Visualization and Graph Making
 
+### Data Visualization
 
 **JS and jQuery**
 
@@ -591,6 +597,13 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 * [bokeh](http://bokeh.pydata.org/en/latest/docs/quickstart.html#quickstart):  Internet required, interactive plotting.
 
 
+### Graph Making
+
+Professional graphs should be made using professional tools.
+
+* [GeoGebra](http://www.geogebra.org/)(`Cloud`,`Mac`,`Win`,`Linux`,`Android`,`iOS`,`Win Store`): Geogebra is a very cool tool to make math graphs both 2D and 3D.
+* [LaTeXDraw](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
+* [TikZ](http://www.texample.net/tikz/)(`LaTeX`)
 
 
 ## LaTeX
@@ -657,6 +670,7 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 
 * [QR Code Generator](https://www.unitag.io/qrcode): Adding a QR code to your poster can help you get more audience.
 * [SHIELDS.io](http://shields.io/): Make a beautiful badge by yourself.
+* [TitleCap](http://titlecapitalization.com/): Not sure which word to capitalize in the title? [TitleCap](http://titlecapitalization.com/) is right for you.
 
 -----
 
