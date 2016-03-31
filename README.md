@@ -670,6 +670,7 @@ Professional graphs should be made using professional tools.
 
 * [QR Code Generator](https://www.unitag.io/qrcode): Adding a QR code to your poster can help you get more audience.
 * [SHIELDS.io](http://shields.io/): Make a beautiful badge by yourself.
+* [TitleCap](http://titlecapitalization.com/): Not sure which word to capitalize in the title? [TitleCap](http://titlecapitalization.com/) is right for you.
 
 -----
 
