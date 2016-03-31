@@ -21,14 +21,14 @@ A list of tools for research.
   * [Writing](#writing)
   * [Hosting](#hosting)
   * [Blog and CMS](#blog-and-cms)
-  * [Static Generator](#static-generator)
+  * [Static Site Generator](#static-generator)
 * [Note Taking](#note-taking)
   * [Editors](#editors)
   * [Markdown](#markdown)
   * [LaTeX](#latex)
   * [iPython Notebook](#ipython-notebook)
   * [Mindmap](#mindmap)
-  * [Diagrams](#diagrams)
+  * [Concept Map and Diagrams](#diagrams)
   * [Keep The Notes](#keep-the-notes)
 * [Presentation Tools](#presentation-tools)
   * [Online Load and Edit](#online-load-and-edit)
@@ -208,6 +208,9 @@ Host your articles, notes and more.
 * [ReadtheDocs](http://readthedocs.org/): Turn your reStructuredText source to HTML, pdf, and epub, all done online.
 * [GitHub pages](https://pages.github.com/): Integrated with Jekyll and turns markdown posts automatically. Jekyll is a tool for blogging.
 * [GitHub](http://github.com): Just put markdown, reStructuredText, pdf or ipython notebook files on GitHub. All these formats can be previewed online. **The thing to mention is that the math in ipython notebook can be rendered on GitHub.**
+* [Aerobatic](https://www.aerobatic.com/): A powerful alternative to GitHub Pages.
+* [Surge](https://surge.sh/): One command upload your static website to make it live. Surge also integrates GitHub hooks.
+* [Heroku](https://www.heroku.com/): The one that needs no explaination.
 
 Other services such as [Digital Ociean](https://www.digitalocean.com/) are also useful when it comes to dynamic websites and cloud computing.
 
@@ -237,18 +240,17 @@ These programs are running on the server and can be [hosted using these services
 
 
 
-### Static Generator
+### Static Site Generator
 
-[Here is a nice website](https://staticsitegenerators.net/) that tells you all the static site generators.
+[Here is a nice website](https://staticsitegenerators.net/) that tells you all the static site generators. Nonethless here is a list of the most popular ones.
 
-* [Jekyll](http://jekyllrb.com/) (`Ruby`): most widely used one I guess; easy to deply.
-* [Octopress](http://octopress.org/) (`Ruby`): easier to use compared with jekyll; somewhat compatable with Jekyll.
-* [Hexo](https://github.com/hexojs/hexo) (`Node.js`)
-* [Peclican](http://docs.getpelican.com/en/3.3.0/) (`Python`)
+* [Jekyll](http://jekyllrb.com/) (Written in `Ruby`)(`Markdown`): Jekyll is the most widely used one. The best part about Jekyll is that one just deploy to GitHub Pages by pushing the source to GitHub.
+* [Octopress](http://octopress.org/) (Written in `Ruby`)(`Markdown`): Octopress is easier to use compared with Jekyll while being somewhat compatible with Jekyll.
+* [Hexo](https://hexo.io/) (Written in `Node.js`)(`Markdown`): "A fast, simple & powerful blog framework" as they say on their website. It supports GFM.
+* [Pelican](http://getpelican.com) (Written in `Python`)(`reStructuredText`,`Markdown`,`AsciiDoc`): Pelican is a modularized framework and is perfect for blogging.
   * [Pelican Svbtle Theme](https://github.com/wting/pelican-svbtle)
-* [Nikola](https://getnikola.com/) (`Python`): multiple formats including reStructuredText; multiple purpose.
-* [Tinkerer](http://tinkerer.me/index.html) (`Python`)
-* [Hugo](http://gohugo.io/)(`Go`): easy to use and really fast.
+* [Nikola](https://getnikola.com/) (Written in `Python`)(`reStructuredText`,`Markdown`,`IPython Notebook/Jupyter`,`PHP`, etc): It takes in multiple input formats including reStructuredText and many others.
+* [Hugo](http://gohugo.io/)(Written in `Go`)(`Markdown`): Easy to use and really fast. It also supports more input formats through plugins.
 
 
 
@@ -334,7 +336,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 * [mindmaps](https://github.com/drichard/mindmaps)
 
 
-### Diagrams
+### Concept Map and Diagrams
 
 1. [Gliffy](https://www.gliffy.com/): all kinds of diagrams
 2. [ProcessOn](http://www.processon.com/): all kinds of diagrams
@@ -346,13 +348,14 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 
 It's alway better to keep track the changes of your notes and **git** is a nice choice. Therefore, [GitHub](http://github.com) is the almost perfect place.
 
-As for LaTeX, [latexdiff](http://www.ctan.org/tex-archive/support/latexdiff/) is the suitable tool for checking the diff.
+As for LaTeX, [latexdiff](http://www.ctan.org/tex-archive/support/latexdiff/) is a tool for checking the diff.
 
 **Some programs allows you to keep the markdown notes on a server.**
 
 * [Raneto](http://raneto.com/): Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase. This one has a nice looking.
 * [Realms](http://realms.io/): Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger. Basic authentication and registration included.
 * [Tiddlywiki](http://tiddlywiki.com/): A unique non-linear notebook for capturing, organizing and sharing complex information.
+* Some other [static site generators](#static-generator).
 
 
 
