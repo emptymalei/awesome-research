@@ -267,17 +267,19 @@ Markdown, reStructuredText, and LaTeX are the three chosen languages.
 
 #### Markdown
 
-* [StackEdit](https://stackedit.io/)(`Cloud`): Markdown and MathJax (LaTeX) support.
-* [CMD markdown](https://www.zybuluo.com/mdeditor)(`Cloud`): Markdown and MathJax (LaTeX) support. (Chinese UI.)
-* [Penflip](https://www.penflip.com/)(`Cloud`): Markdown-based and git like. No LaTeX support.
-* [Authorea](https://www.authorea.com/)(`Cloud`): Markdown and LaTeX. A much more powerful markdown editor that can be used to produce nice academic papers.
+* [StackEdit](https://stackedit.io/)(`Cloud`): StackEdit is a Markdown editor with many integrated services such as math (MathJax), Google Drive, Dropbox, and GitHub.
+* [CMD markdown](https://www.zybuluo.com/mdeditor)(`Cloud`): CMD is a Markdown editor with math (MathJax) support. What is special is that it keeps edit history. (Chinese UI.)
+* [Penflip](https://www.penflip.com/)(`Cloud`): Penflip is designed to be a GitHub for writers. It is Markdown-based and git like without math support.
+* [Authorea](https://www.authorea.com/)(`Cloud`): A much more powerful Markdown and LaTeX online editor that can be used to produce nice academic papers.
 * [Dillinger](http://dillinger.io/)(`Cloud`): Markdown editor but no math mode.
-* [Online Kramdown Editor](http://kramdown.herokuapp.com/)(`Cloud`): No math support.
-* [Pandoc Markdown](http://pandoc.herokuapp.com/)(`Cloud`): Markdown and MathJax (LaTeX) support.
-* [Marxico](http://marxi.co/)(`Cloud`,`Mac`,`Windows`,`Chrome`): Markdown that integrates with Evernote, generates pdf and works offline. [马克飞象](https://maxiang.io/)(`Cloud`,`Mac`,`Windows`,`Chrome`) is the Chinese version。
-* [Madoko](https://www.madoko.net/)(`Cloud`,`Chrome`): Markdown and Math support, images are inserted easily with one click, files saved on Dropbox, GitHub, OneDrive or local disk. It generates pdf and HTML page and works offline using browser's local storage, imports LaTeX files.
+* [Online Kramdown Editor](http://kramdown.herokuapp.com/)(`Cloud`): Just another Markdown editor without math support.
+* [Pandoc Markdown](http://pandoc.herokuapp.com/)(`Cloud`): Just another Markdown editor with math (MathJax) support.
+* [Marxico](http://marxi.co/)(`Cloud`,`Mac`,`Windows`,`Chrome`): Markdown editor that integrates with Evernote, generates pdf and works offline. [马克飞象](https://maxiang.io/)(`Cloud`,`Mac`,`Windows`,`Chrome`) is the Chinese version。
+* [Madoko](https://www.madoko.net/)(`Cloud`,`Chrome`): A Markdown editor with math support, where images are inserted easily with one click, while your files are saved on Dropbox, GitHub, OneDrive or local disk. It generates pdf and HTML page and works offline using browser's local storage. One can even import LaTeX files.
 * [Markx](http://markx.herokuapp.com/)(`Cloud`): Markdown editor for scientific writing. Batteries included.
-
+* [typora](https://www.typora.io/)(`Mac`,`Windows`):  Beautiful UI and in-situ live preview.
+* [Haroopad](http://pad.haroopress.com/)(`Mac`,`Windows`,`Linux`): A powerful github flavored markdown editor with useful extensions. Math (mathjax) is supported.
+* [jbt/markdown-editor](http://jbt.github.io/markdown-editor/)(`Cloud`): Just another online Markdown editor without math support.
 
 
 #### LaTeX
