@@ -171,28 +171,29 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 **Markdown is one of the best languages for writing.** Check out these editor in [Markdown section](#markdown).
 
 
-
-**Make use of these programs for publishing**
+**Make use of these programs for publishing:**
 
 * [Sphinx](http://sphinx-doc.org): RestructuredText as source files, powerful, flexible and modularized.
 * [Gitbook](https://www.gitbook.com/): A new but promising tool for HTML, pdf, and epub with both online editors and local editors. Plugins like quizzes and math can be helpful to writing science.
 * [Git-scribe](https://github.com/schacon/git-scribe): Good for writing ebooks.
-* [Wordsmith](https://github.com/amedrz/wordsmith)
+* [Static Site Generator](#static-site-generator): For more please refer to [Static Site Generator](#static-site-generator).
+
 
 
 **Sphinx Themes and configurations**
 
 * Themes
-  * [rtd theme](https://github.com/snide/sphinx_rtd_theme): Developed by Readthedocs.org.
-  * [some beautiful themes](https://github.com/vkvn/sphinx-themes)
-  * [bootstrap theme](https://pypi.python.org/pypi/sphinx-bootstrap-theme/): quite comfortable
+  * [rtd theme](https://github.com/snide/sphinx_rtd_theme): Developed by ReadtheDocs.org
+  * [Alabaster](https://github.com/bitprophet/alabaster): Clean and simple
+  * [Some beautiful themes](https://github.com/vkvn/sphinx-themes)
+  * [Bootstrap theme](https://ryan-roemer.github.io/sphinx-bootstrap-theme/)
 
 
 **Science Books Using Sphinx**
 
 * [Theoretical Physics](https://github.com/certik/theoretical-physics)
-* [Statistical Physics](https://github.com/emptymalei/StatisticalPhysics)
-* [Physics Research Survival Manual](https://github.com/CosmologyTaskForce/PhysicsResearchSurvivalManual)
+* [Statistical Physics](https://github.com/emptymalei/statisticalphysics)
+* [Neutrino Physics](https://github.com/NeuPhysics/neutrino)
 
 
 
