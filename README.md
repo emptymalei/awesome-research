@@ -220,7 +220,7 @@ Other services such as [Digital Ociean](https://www.digitalocean.com/) are also 
 
 Before doing the investigation on platforms, just remind yourself:
 
-> **I want to write, not run blogging software.**
+> **I want to write, not to run blogging software.**
 
 
 **Blog/CMS Software**
