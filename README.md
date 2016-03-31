@@ -111,10 +111,10 @@ Try [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to ga
 
 ### GTD-Task Manager
 
-* [Wunderlist](https://www.wunderlist.com) (`Cloud`,`Mac`,`Windows`,`Android`,`iOS`,`Windows Phone`,`Chrome OS`): Almost perfect todo lists with cooperation and sharing.
-* [Evernote](https://evernote.com/) (`Cloud`,`Mac`,`Windows`,`Android`,`iOS`,`Windows Phone`): Not so lightweight but still very good for managing life especially since it has got a lot of integrations from a lot of other services.
+* [Wunderlist](https://www.wunderlist.com) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Phone`,`Chrome OS`): Almost perfect todo lists with cooperation and sharing.
+* [Evernote](https://evernote.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Phone`): Not so lightweight but still very good for managing life especially since it has got a lot of integrations from a lot of other services.
 * [Anydo](http://www.any.do/) (`Cloud`,`Mac`,`Android`,`iOS`): Good because it has a very good daily review which can help users remember what to do.
-* [Todoist](https://todoist.com/)(`Cloud`,`Mac`,`Windows`,`Android`,`iOS`): Todoist invented the karma system which keeps track of the tasks done.
+* [Todoist](https://todoist.com/)(`Cloud`,`Mac`,`Win`,`Android`,`iOS`): Todoist invented the karma system which keeps track of the tasks done.
 
 
 
@@ -170,9 +170,9 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 
 **Markdown is one of the best languages for writing.**
 
-* [Cloud Based Markdown Editors](#cloud-services)
-* [Mou](http://25.io/mou/) (`Mac`)
-* [MarkdownPad](http://markdownpad.com/) (`Win`): if you have no bad feelings about .NET
+* [Cloud Based Markdown Editors](#markdown)
+* [Mou](http://25.io/mou/) (`Mac`): This project is dead, unofficially. [了解为什么死掉，请阅读此文。](http://matrix.sspai.com/p/c7a3c9c0)
+* [MarkdownPad](http://markdownpad.com/) (`Win`): If you have no bad feelings about .NET, this is pretty good.
 * [ReText](http://sourceforge.net/p/retext/home/ReText/) (`All platforms`)
 * [Madoko](https://www.madoko.net/) (`Cloud`): **LaTeX** &times; Markdown &sup2;
 
@@ -274,11 +274,11 @@ Markdown, reStructuredText, and LaTeX are the three chosen languages.
 * [Dillinger](http://dillinger.io/)(`Cloud`): Markdown editor but no math mode.
 * [Online Kramdown Editor](http://kramdown.herokuapp.com/)(`Cloud`): Just another Markdown editor without math support.
 * [Pandoc Markdown](http://pandoc.herokuapp.com/)(`Cloud`): Just another Markdown editor with math (MathJax) support.
-* [Marxico](http://marxi.co/)(`Cloud`,`Mac`,`Windows`,`Chrome`): Markdown editor that integrates with Evernote, generates pdf and works offline. [马克飞象](https://maxiang.io/)(`Cloud`,`Mac`,`Windows`,`Chrome`) is the Chinese version。
+* [Marxico](http://marxi.co/)(`Cloud`,`Mac`,`Win`,`Chrome`): Markdown editor that integrates with Evernote, generates pdf and works offline. [马克飞象](https://maxiang.io/)(`Cloud`,`Mac`,`Win`,`Chrome`) is the Chinese version。
 * [Madoko](https://www.madoko.net/)(`Cloud`,`Chrome`): A Markdown editor with math support, where images are inserted easily with one click, while your files are saved on Dropbox, GitHub, OneDrive or local disk. It generates pdf and HTML page and works offline using browser's local storage. One can even import LaTeX files.
 * [Markx](http://markx.herokuapp.com/)(`Cloud`): Markdown editor for scientific writing. Batteries included.
-* [typora](https://www.typora.io/)(`Mac`,`Windows`):  Beautiful UI and in-situ live preview.
-* [Haroopad](http://pad.haroopress.com/)(`Mac`,`Windows`,`Linux`): A powerful github flavored markdown editor with useful extensions. Math (mathjax) is supported.
+* [typora](https://www.typora.io/)(`Mac`,`Win`):  Beautiful UI and in-situ live preview.
+* [Haroopad](http://pad.haroopress.com/)(`Mac`,`Win`,`Linux`): A powerful github flavored markdown editor with useful extensions. Math (mathjax) is supported.
 * [jbt/markdown-editor](http://jbt.github.io/markdown-editor/)(`Cloud`): Just another online Markdown editor without math support.
 
 
