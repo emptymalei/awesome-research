@@ -111,10 +111,10 @@ Try [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to ga
 
 ### GTD-Task Manager
 
-* [Wunderlist](https://www.wunderlist.com) (All platforms): almost perfect todo lists; cooperation
-* [Evernote](https://evernote.com/) (All platforms): just perfect
-* [Anydo](http://www.any.do/) (All platforms): good because it has a very good reminder system; cooperation
-* [Todoist](https://todoist.com/)(All platforms)
+* [Wunderlist](https://www.wunderlist.com) (`Cloud`,`Mac`,`Windows`,`Android`,`iOS`,`Windows Phone`,`Chrome OS`): Almost perfect todo lists with cooperation and sharing.
+* [Evernote](https://evernote.com/) (`Cloud`,`Mac`,`Windows`,`Android`,`iOS`,`Windows Phone`): Not so lightweight but still very good for managing life especially since it has got a lot of integrations from a lot of other services.
+* [Anydo](http://www.any.do/) (`Cloud`,`Mac`,`Android`,`iOS`): Good because it has a very good daily review which can help users remember what to do.
+* [Todoist](https://todoist.com/)(`Cloud`,`Mac`,`Windows`,`Android`,`iOS`): Todoist invented the karma system which keeps track of the tasks done.
 
 
 
