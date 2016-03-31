@@ -121,7 +121,7 @@ Try [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to ga
 
 ## Cloud Services
 
-*For self-hosted services, checkout [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) on GitHub.*
+*For self-hosted services, check out [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) on GitHub.*
 
 
 ### Math and Programming
@@ -129,8 +129,8 @@ Try [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to ga
 Coding/Numerical calculation/Analytical derivation online.
 
 * [Sagemath](https://cloud.sagemath.com/): LaTeX, R, iPython Notebook, etc.
-* [PiCloud](http://picloud.com): python, but it was aquired by Dropbox and has been shut down. The new site is [Multyvac](http://www.multyvac.com/).
-* [Multyvac](https://www.multyvac.com/): Kind of the sucessor of PiCloud but will be more powerful for sure.
+* [PiCloud](http://picloud.com): python, but it was acquired by Dropbox and has been shut down. The new site is [Multyvac](http://www.multyvac.com/).
+* [Multyvac](https://www.multyvac.com/): Kind of the successor of PiCloud but will be more powerful for sure.
 * [WolframAlpha](http://www.wolframalpha.com/): Excellent engine to do mathematical derivation online and search.
 
 
@@ -177,10 +177,10 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 * [Madoko](https://www.madoko.net/) (`Cloud`): **LaTeX** &times; Markdown &sup2;
 
 
-**Make use of these softwares for publishing**
+**Make use of these programs for publishing**
 
 * [Sphinx](http://sphinx-doc.org): RestructuredText as source files, powerful, flexible and modularized.
-* [Gitbook](https://www.gitbook.com/): A new but promising tool for html, pdf and epub with both online editors and local editors. Plugins like quizzes and math can be helpful to writing science.
+* [Gitbook](https://www.gitbook.com/): A new but promising tool for HTML, pdf, and epub with both online editors and local editors. Plugins like quizzes and math can be helpful to writing science.
 * [Git-scribe](https://github.com/schacon/git-scribe): Good for writing ebooks.
 * [Wordsmith](https://github.com/amedrz/wordsmith)
 
@@ -205,9 +205,11 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 
 Host your articles, notes and more.
 
-* [ReadtheDocs](http://readthedocs.org/): Turn your restructuredtext source to html, pdf and epub, all done online.
+* [ReadtheDocs](http://readthedocs.org/): Turn your reStructuredText source to HTML, pdf, and epub, all done online.
 * [GitHub pages](https://pages.github.com/): Integrated with Jekyll and turns markdown posts automatically. Jekyll is a tool for blogging.
-* [GitHub](http://github.com): Just put markdown, restructuredtext, pdf or ipython notebook files on GitHub. All these formats can be previewed online. **The thing to mention is that the math in ipython notebook can rendered on GitHub.**
+* [GitHub](http://github.com): Just put markdown, reStructuredText, pdf or ipython notebook files on GitHub. All these formats can be previewed online. **The thing to mention is that the math in ipython notebook can be rendered on GitHub.**
+
+Other services such as [Digital Ociean](https://www.digitalocean.com/) are also useful when it comes to dynamic websites and cloud computing.
 
 
 
@@ -217,12 +219,12 @@ Host your articles, notes and more.
 
 Before doing the investigation on platforms, just remind yourself:
 
-**I want to write, not run blogging software.**
+> **I want to write, not run blogging software.**
 
 
-**Blog/CMS Softwares**
+**Blog/CMS Software**
 
-These softwares are running on the server and can be
+These programs are running on the server and can be [hosted using these services](#hosting).
 
 * [Wordpress](https://wordpress.org/) (`PHP`): Very popular but requires a lot of maintenance.
 * [Ghost](https://github.com/tryghost/Ghost) (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
@@ -230,7 +232,7 @@ These softwares are running on the server and can be
 * [Dropplets](https://github.com/circa75/dropplets) (`PHP`): Open source, simple, and elegant blog system; write in Markdown.
 
 
-**These Blog/CMS softwares can be hosted on [Digital Ocean](https://www.digitalocean.com/).**
+**These Blog/CMS software can be hosted on [Digital Ocean](https://www.digitalocean.com/).**
 
 
 
@@ -244,13 +246,13 @@ These softwares are running on the server and can be
 * [Hexo](https://github.com/hexojs/hexo) (`Node.js`)
 * [Peclican](http://docs.getpelican.com/en/3.3.0/) (`Python`)
   * [Pelican Svbtle Theme](https://github.com/wting/pelican-svbtle)
-* [Nikola](https://getnikola.com/) (`Python`): multiple formats including restructuredtext; multiple purpose.
+* [Nikola](https://getnikola.com/) (`Python`): multiple formats including reStructuredText; multiple purpose.
 * [Tinkerer](http://tinkerer.me/index.html) (`Python`)
 * [Hugo](http://gohugo.io/)(`Go`): easy to use and really fast.
 
 
 
-The site generated by these softwares can be hosted on [GitHub Pages](https://pages.github.com/).
+The site generated by these programs can be hosted on [GitHub Pages](https://pages.github.com/).
 
 
 
@@ -260,14 +262,14 @@ The site generated by these softwares can be hosted on [GitHub Pages](https://pa
 
 ### Editors
 
-Markdown, restructuredText and LaTeX are the three chosen languages.
+Markdown, reStructuredText, and LaTeX are the three chosen languages.
 
 
 #### Markdown
 
 * [StackEdit](https://stackedit.io/)(`Cloud`): Markdown and MathJax (LaTeX) support.
 * [CMD markdown](https://www.zybuluo.com/mdeditor)(`Cloud`): Markdown and MathJax (LaTeX) support. (Chinese UI.)
-* [Penflip](https://www.penflip.com/)(`Cloud`): Markdown based and git like. No LaTeX support.
+* [Penflip](https://www.penflip.com/)(`Cloud`): Markdown-based and git like. No LaTeX support.
 * [Authorea](https://www.authorea.com/)(`Cloud`): Markdown and LaTeX. A much more powerful markdown editor that can be used to produce nice academic papers.
 * [Dillinger](http://dillinger.io/)(`Cloud`): Markdown editor but no math mode.
 * [Online Kramdown Editor](http://kramdown.herokuapp.com/)(`Cloud`): No math support.
@@ -344,7 +346,7 @@ It's alway better to keep track the changes of your notes and **git** is a nice 
 
 As for LaTeX, [latexdiff](http://www.ctan.org/tex-archive/support/latexdiff/) is the suitable tool for checking the diff.
 
-**Some softwares allows you to keep the markdown notes on a server.**
+**Some programs allows you to keep the markdown notes on a server.**
 
 * [Raneto](http://raneto.com/): Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase. This one has a nice looking.
 * [Realms](http://realms.io/): Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger. Basic authentication and registration included.
@@ -382,7 +384,7 @@ Requires a few front-end techniques.
 
 #### HTML+CSS+JS
 
-Use [colors](https://github.com/mrmrs/colors) to make your html feels better.
+Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
@@ -437,7 +439,7 @@ Online SVG Editor:
 ### Softwares
 
 * [Mathematica](http://www.wolfram.com/mathematica/): One Software to Rule Them All
-* [iPython Notebook](http://ipython.org/notebook.html) (`Python`): an useful tool for inline calculation, making graph and writing notes.
+* [iPython Notebook](http://ipython.org/notebook.html) (`Python`): a useful tool for inline calculation, making graphs and writing notes.
   * [wakari.io](https://wakari.io/) is a comercial one mostly aimed for data analysis.
   * [jiffylab](https://github.com/ptone/jiffylab) is an open source one but not that well done.
   * [supervised-ipython-nbserver](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
@@ -456,14 +458,6 @@ Online SVG Editor:
 ### Coding is Fun
 
 [Code Fights](https://codefights.com/)
-
-
-
-
-
-
-
-
 
 
 
@@ -500,7 +494,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 **[Rainy Mood](http://www.rainymood.com/), [Coffitivity](https://coffitivity.com/) and [Noisli](http://www.noisli.com/) are the recommended ones.**
 
 * [Rainy Mood](http://www.rainymood.com/)(`iOS`, `Android`, `Web`): rainy day rainy mood, simple but with excellent white noise; a new beautiful soundtrack each day
-* [Coffitivity](http://coffitivity.com/)(`iOS`, `Android`, `Web`, `Mac`): a rather simple but ellite cafe library; premium has more three more soundtracks; elegant UI; scientific research powered
+* [Coffitivity](http://coffitivity.com/)(`iOS`, `Android`, `Web`, `Mac`): a rather simple but useful coffee shop noise library; premium has more three more soundtracks; elegant UI; scientific research powered
 * [Brain.fm](https://www.brain.fm/)(`Web`): Improve Focus, Relaxation & Sleep with audio brainwave training. Not free but worth every penny.
 * [Noizio](http://noiz.io/)(`iOS`, `Mac`): a handy white noise tool that stays in your Mac status bar.
 * [Noisli](http://www.noisli.com/) (`Web`): free mixing of multiple tracks (which is similar to Soundrown but with much better UI). Users can save a customized setting for later use. I personally think this one has better fire sound tracks than soundrown.
@@ -515,7 +509,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 * [TaoMix](https://play.google.com/store/apps/details?id=air.com.demute.TaoMix) (`Android`): sound mixings to concentrate
 * [Calm](http://www.calm.com/)(`iOS`, `Android`, `Web`): to help you calming down
 * [Raining](http://raining.fm)(`iOS`, `Android`, `Web`): raining and thunder
-* [focus@will](https://www.focusatwill.com)(`iOS`, `Android`, `Web`): music to boost your brain; payed services now
+* [focus@will](https://www.focusatwill.com)(`iOS`, `Android`, `Web`): music to boost your brain; paid services now
 
 
 
@@ -524,7 +518,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 **Some Other Related Stuff**
 
 * [iSerenity](http://www.iserenity.com/): multiple choices but not that good (just my feeling).
-* [Rany by simply noise](https://rain.simplynoise.com/): just rain. simplynoise has other products.
+* [Rany by simply noise](https://rain.simplynoise.com/): just rain.
 * [Natural Sound player](http://www.naturesoundplayer.com/): many natural sounds, cool.
 * [NatureSoundsFor.Me](http://naturesoundsfor.me/): make your own track, so many kinds of sounds.
 * [White.Noise](http://whitenoise247.net/): several different tracks
