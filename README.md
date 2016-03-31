@@ -21,14 +21,14 @@ A list of tools for research.
   * [Writing](#writing)
   * [Hosting](#hosting)
   * [Blog and CMS](#blog-and-cms)
-  * [Static Site Generator](#static-generator)
+  * [Static Site Generator](#static-site-generator)
 * [Note Taking](#note-taking)
   * [Editors](#editors)
   * [Markdown](#markdown)
   * [LaTeX](#latex)
   * [iPython Notebook](#ipython-notebook)
   * [Mindmap](#mindmap)
-  * [Concept Map and Diagrams](#diagrams)
+  * [Concept Map and Diagrams](#concept-map-and-diagrams)
   * [Keep The Notes](#keep-the-notes)
 * [Presentation Tools](#presentation-tools)
   * [Online Load and Edit](#online-load-and-edit)
@@ -53,7 +53,9 @@ A list of tools for research.
 * [Open Source](#open-source)
   * [Open Licenses](#open-licenses)
   * [Use Licenses](#use-licenses)
-* [Data Visualization](#data-visualization)
+* [Data Visualization and Graph Making](#data-visualization-and-graph-making)
+  * [Data Visualization](#data-visualization)
+  * [Graph Making](#graph-making)
 * [LaTeX](#latex-1)
   * [Tips](#tips)
   * [Symbols](#symbols)
@@ -111,8 +113,8 @@ Try [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to ga
 
 ### GTD-Task Manager
 
-* [Wunderlist](https://www.wunderlist.com) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Phone`,`Chrome OS`): Almost perfect todo lists with cooperation and sharing.
-* [Evernote](https://evernote.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Phone`): Not so lightweight but still very good for managing life especially since it has got a lot of integrations from a lot of other services.
+* [Wunderlist](https://www.wunderlist.com) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Store`,`Chrome OS`): Almost perfect todo lists with cooperation and sharing.
+* [Evernote](https://evernote.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Store`): Not so lightweight but still very good for managing life especially since it has got a lot of integrations from a lot of other services.
 * [Anydo](http://www.any.do/) (`Cloud`,`Mac`,`Android`,`iOS`): Good because it has a very good daily review which can help users remember what to do.
 * [Todoist](https://todoist.com/)(`Cloud`,`Mac`,`Win`,`Android`,`iOS`): Todoist invented the karma system which keeps track of the tasks done.
 
@@ -291,7 +293,7 @@ Markdown, reStructuredText, and LaTeX are the three chosen languages.
 * [ShareLaTeX](https://www.sharelatex.com/)(`Cloud`): Dropbox and GitHub integration, preview, cooperation, simple UI. It also provides a lot of templates.
 * [Overleaf](https://www.overleaf.com/)(`Cloud`): Built in version control.
 * [Authorea](https://www.authorea.com/)(`Cloud`): Easy to use UI. Supports both Markdown and LaTeX.
-* [JaxEdit](http://jaxedit.com/)(`Cloud`): JaxEdit doesn't provide full LaTeX support but is good enough for simple LaTeX.
+* [JaxEdit](http://jaxedit.com/)(`Cloud`): JaxEdit doesn't provide full LaTeX support but is good enough for simple LaTeX documents and slides.
 
 
 **You can also host one using your own machine.**
@@ -305,9 +307,12 @@ Markdown, reStructuredText, and LaTeX are the three chosen languages.
 
 ### iPython Notebook
 
-Use IPython Notebook to help with your research. IPython Notebook can be previewed on GitHub directly.
+Use IPython Notebook to help with your research. IPython Notebook can be previewed on GitHub directly. Here are some examples of how IPython notebook can be used.
 
-* [Reproduced Papers](http://reproduced-papers.github.io/) .
+* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures)
+* [Reproduced Papers](http://reproduced-papers.github.io/)
+* [More](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks): For more IPython notebook on GitHub please read this enormous list.
+
 
 
 
@@ -407,10 +412,7 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 ### IPython Notebook
 
-Julia or Python language, even R is supported in
-
-* [IPython Notebook](https://jupyter.org/)
-* [Jupyter](https://jupyter.org/).
+Julia or Python language, even R is supported in [IPython Notebook/Jupyter](https://jupyter.org/) which can be used to give presentations.
 
 
 ### LaTeX Beamer
@@ -426,9 +428,14 @@ Julia or Python language, even R is supported in
 
 ### The Power of SVG
 
-Online SVG Editor:
+**Online SVG editors:**
 
 * [ext-sozi](https://github.com/asyazwan/ext-sozi)
+
+**Local SVG editors:**
+
+* [Inkscape](https://inkscape.org)(`Mac`,`Win`,`Linux`)
+* [GIMP](https://www.gimp.org)(`Mac`,`Win`,`Linux`)
 
 
 ### Sharing Slides
@@ -464,8 +471,6 @@ Online SVG Editor:
 ### Coding is Fun
 
 [Code Fights](https://codefights.com/)
-
-
 
 
 ## Academic
@@ -569,8 +574,9 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 
 
 
-## Data Visualization
+## Data Visualization and Graph Making
 
+### Data Visualization
 
 **JS and jQuery**
 
@@ -591,6 +597,13 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 * [bokeh](http://bokeh.pydata.org/en/latest/docs/quickstart.html#quickstart):  Internet required, interactive plotting.
 
 
+### Graph Making
+
+Professional graphs should be made using professional tools.
+
+* [GeoGebra](http://www.geogebra.org/)(`Cloud`,`Mac`,`Win`,`Linux`,`Android`,`iOS`,`Win Store`): Geogebra is a very cool tool to make math graphs both 2D and 3D.
+* [LaTeXDraw](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
+* [TikZ](http://www.texample.net/tikz/)(`LaTeX`)
 
 
 ## LaTeX
