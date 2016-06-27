@@ -300,8 +300,12 @@ Markdown, reStructuredText, and LaTeX are the three chosen languages.
 
 * [FlyLaTeX](https://github.com/alabid/flylatex): A free, open source version of sharelatex
 * [ShareLaTeX Source Code](https://github.com/sharelatex/sharelatex): ShareLaTeX open sourced their codes. This is a great move I would say.
-
-
+* [TeXStudio](http://www.texstudio.org) - Cross-platform LaTeX editor that stems from TeXMaker. 
+* [WinEdt](http://www.winedt.com) - The LaTeX editor many people swear by. 
+* [TeXnicCenter](http://www.texniccenter.org) - A quite old but free and decent editor for LaTeX. 
+* [LyX](https://www.lyx.org) - Cross-platform WYSIWYM editor that uses LaTeX behind the scenes to render documents. 
+* [TeXshop](http://pages.uoregon.edu/koch/texshop/) - No-nonsense editor for LaTeX documents which is included in MacTeX. 
+* [TeXWorks](https://www.tug.org/texworks/) - No-nonsense editor for LaTeX code, modeled after TeXShop, but this one is cross-platform. 
 
 
 
