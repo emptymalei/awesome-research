@@ -152,10 +152,40 @@ Coding/Numerical calculation/Analytical derivation online.
 * [Wolfram Alpha](http://www.wolframalpha.com/): Make graphs for functions, from your data and even more.
 
 
-
 ### Data
 
-* [Figshare](https://figshare.com/): Data sharing and storage.
+Nature hosts a list of recommended data repositories [here](http://www.nature.com/sdata/policies/repositories).
+
+#### General and Interdisciplinary
+
+* [DRYAD](http://datadryad.org/) (`Storage`, `Lookup`): The Dryad Digital Repository stores curated data.
+* [Figshare](https://figshare.com/) (`Storage`, `Lookup`): Data sharing and storage
+* [Data.gov](http://data.gov) (`Lookup`): Data by US Federal Government
+
+#### Life Science
+
+* [GenBank](http://www.ncbi.nlm.nih.gov/genbank/) (`Lookup`): Genetic sequence database
+* [National Centers for Environmental Information](https://www.ncei.noaa.gov/) (`Lookup`): Weather, climate, coasts, oceans, and geophysics etc
+* [GEOSS Portal](http://www.geoportal.org/web/guest/geo_home_stp) (`Lookup`): Earth science data
+
+#### Physical Sciences
+
+* [US Virtual Astronomical Observatory](http://www.usvao.org/) (`Lookup`)
+* [MAST: Barbara A. Mikulski Archive for Space Telescopes](https://mast.stsci.edu/portal/Mashup/Clients/Mast/portal.html) (`Lookup`)
+* [Mikulski Archive for Space Telescopes](http://archive.stsci.edu/) (`Lookup`)
+
+#### Arts and Humanities
+
+* [Archaeology Data Service](http://archaeologydataservice.ac.uk/) (`Lookup`): Certified repository
+
+#### Engineering
+
+* [Open Energy Information (OpenEI)](http://en.openei.org/wiki/Main_Page) (`Lookup`): Wiki of collections of energy information
+
+#### Social Sciences
+
+* [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/icpsrweb/landing.jsp) (`Lookup`)
+* [Institute for Quantitative Social Science (IQSS)](http://library.harvard.edu/gdc) (`Lookup`)
 
 
 ### Colors
@@ -306,8 +336,12 @@ Markdown, reStructuredText, and LaTeX are the three chosen languages.
 
 * [FlyLaTeX](https://github.com/alabid/flylatex): A free, open source version of sharelatex
 * [ShareLaTeX Source Code](https://github.com/sharelatex/sharelatex): ShareLaTeX open sourced their codes. This is a great move I would say.
-
-
+* [TeXStudio](http://www.texstudio.org) - Cross-platform LaTeX editor that stems from TeXMaker.
+* [WinEdt](http://www.winedt.com) - The LaTeX editor many people swear by.
+* [TeXnicCenter](http://www.texniccenter.org) - A quite old but free and decent editor for LaTeX.
+* [LyX](https://www.lyx.org) - Cross-platform WYSIWYM editor that uses LaTeX behind the scenes to render documents.
+* [TeXshop](http://pages.uoregon.edu/koch/texshop/) - No-nonsense editor for LaTeX documents which is included in MacTeX.
+* [TeXWorks](https://www.tug.org/texworks/) - No-nonsense editor for LaTeX code, modeled after TeXShop, but this one is cross-platform.
 
 
 
@@ -685,5 +719,9 @@ This is a CC BY-SA licensed project. Use the source! Keep the source open!
 ![CC BY-SA](assets/cc_bysa.flat.guokr.png)
 
 
-Contributors: [@emptymalei](https://github.com/emptymalei), [@jhwohlgemuth](https://github.com/jhwohlgemuth), [@katamaritaco](https://github.com/katamaritaco),
+[Contributors](https://github.com/emptymalei/awesome-research/pulls?q=is%3Aclosed): [@emptymalei](https://github.com/emptymalei), [@jhwohlgemuth](https://github.com/jhwohlgemuth), [@katamaritaco](https://github.com/katamaritaco),
 [@hans-zen](https://github.com/hans-zen)
+[@dautovri](https://github.com/dautovri)
+[@regenhans](https://github.com/regenhans)
+[@ReadmeCritic](https://github.com/ReadmeCritic)
+[@verginer](https://github.com/verginer)
