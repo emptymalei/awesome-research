@@ -542,7 +542,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 * [Coffitivity](http://coffitivity.com/)(`iOS`, `Android`, `Web`, `Mac`): a rather simple but useful coffee shop noise library; premium has more three more soundtracks; elegant UI; scientific research powered
 * [Brain.fm](https://www.brain.fm/)(`Web`): Improve Focus, Relaxation & Sleep with audio brainwave training. Not free but worth every penny.
 * [Noizio](http://noiz.io/)(`iOS`, `Mac`): a handy white noise tool that stays in your Mac status bar.
-* [Noisli](http://www.noisli.com/) (`Web`): free mixing of multiple tracks (which is similar to Soundrown but with much better UI). Users can save a customized setting for later use. I personally think this one has better fire sound tracks than soundrown.
+* [Noisli](http://www.noisli.com/) (`iOS`, `Android`, `Web`, `Chrome`): free mixing of multiple tracks (which is similar to Soundrown but with much better UI). Users can save a customized setting for later use. I personally think this one has better fire sound tracks than soundrown.
 * [Soundrown](http://soundrown.com/)(`Web`): free mixing of multiple tracks
 * [Muji Sleep](http://sleep.muji.net/)(`iOS`, `Android`)
 * [A Soft Murmur](http://asoftmurmur.com/)(`Web`): free mixing of multiple tracks; simple UI; Timer provided; Meander available
