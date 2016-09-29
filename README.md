@@ -84,13 +84,15 @@ First things first, everyone should know version control systems. Version contro
 #### Online Git Service
 
 * [GitHub](https://github.com/): No description needed.
-* [BitBucket](https://bitbucket.org): Alternative to GitHub with free private repositories.
+* [BitBucket](https://bitbucket.org): Alternative to GitHub with free private repositories for small teams (up to 5 users).
+* [GitLab](http://gitlab.org/): Similar to GitHub and BitBucket, can be both cloud-based and self-hosted. It includes
+  unlimited free private repositories, issue tracker and a continuous integration tool.
 * [Taiga](https://taiga.io/): Alternative to GitHub with some fun communication tools like drinking Iocaine.
 
 
 #### Self-hosted Git Server
 
-* [GitLab](http://gitlab.org/): Similar to GitHub.
+* [GitLab](http://gitlab.org/): See above at [Online Git Service](#online-git-service).
 * [Gitorious](https://www.gitorious.org/): Acquired by GitLab and discontinued, but [the software](http://getgitorious.com/) can still be installed.
 
 
@@ -106,17 +108,24 @@ First things first, everyone should know version control systems. Version contro
 Try [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to gain efficiency and probably health.
 
 
-* [Pomotodo](https://pomotodo.com/): Web-based, Free.
-* [Tadam](http://tadamapp.com/): MAC, Free.
-* [Pomotodo](https://pomotodo.com/intl/en/): Web-based, Android & iOS & Chrome, Free.
+* [Pomotodo](https://pomotodo.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Chrome`): A mix of todo list and pomodoro timer, with sync across devices and weekly report [Free].
+* [Tadam](http://tadamapp.com/) (`Mac`): Simple and elegant pomodoro timer [USD$ 4.99].
+* [Productivity Challenge Timer](https://play.google.com/store/apps/details?id=com.wlxd.pomochallenge&hl=en) (`Android`): Pomodoro timer with great gamification features [Free].
 
 
 ### GTD-Task Manager
 
+The GTD (Getting Things Done) method rests on the idea of moving planned tasks and projects out of the mind by
+recording them externally and then breaking them into actionable work items. This allows one to focus attention on
+taking action on tasks, instead of on recalling them ([Wikipedia](https://en.wikipedia.org/wiki/Getting_Things_Done)).
+Tasks can be classified in contexts (@home, @computer, @office, etc), time of action (now, next actions, scheduled or
+someday) and projects. [Here](https://hamberg.no/gtd/) we have a good pragmatic guide to GTD and
+[here](http://gettingthingsdone.com/pdfs/tt_workflow_chart.pdf) a flowchart.
+
 * [Wunderlist](https://www.wunderlist.com) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Store`,`Chrome OS`): Almost perfect todo lists with cooperation and sharing.
 * [Evernote](https://evernote.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Store`): Not so lightweight but still very good for managing life especially since it has got a lot of integrations from a lot of other services.
 * [Anydo](http://www.any.do/) (`Cloud`,`Mac`,`Android`,`iOS`): Good because it has a very good daily review which can help users remember what to do.
-* [Todoist](https://todoist.com/)(`Cloud`,`Mac`,`Win`,`Android`,`iOS`): Todoist invented the karma system which keeps track of the tasks done.
+* [Todoist](https://todoist.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`): Todoist invented the karma system which keeps track of the tasks done.
 
 
 
