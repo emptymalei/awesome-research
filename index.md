@@ -598,6 +598,8 @@ This might be not so straightforward but remember this. Reuse your own work does
 StackExchange.com is a good place for professional discussions. Here is an example.
 
 * [Physics.StackExchange](http://physics.stackexchange.com/)
+* [Biostars](https://www.biostars.org/): StackOverflow style Q&A site for bioinformatics.
+* [NeuroStars](https://neurostars.org/): StackOverflow style Q&A site for neuroinformatics.
 
 
 ## Open Source
@@ -729,8 +731,11 @@ This is a CC BY-SA licensed project. Use the source! Keep the source open!
 
 
 [Contributors](https://github.com/emptymalei/awesome-research/pulls?q=is%3Aclosed): [@emptymalei](https://github.com/emptymalei), [@jhwohlgemuth](https://github.com/jhwohlgemuth), [@katamaritaco](https://github.com/katamaritaco),
-[@hans-zen](https://github.com/hans-zen)
-[@dautovri](https://github.com/dautovri)
-[@regenhans](https://github.com/regenhans)
-[@ReadmeCritic](https://github.com/ReadmeCritic)
-[@verginer](https://github.com/verginer)
+[@hans-zen](https://github.com/hans-zen),
+[@dautovri](https://github.com/dautovri),
+[@regenhans](https://github.com/regenhans),
+[@ReadmeCritic](https://github.com/ReadmeCritic),
+[@verginer](https://github.com/verginer),
+[@dautovri](https://github.com/dautovri),
+[@gustavobittencourt](https://github.com/gustavobittencourt),
+[@jpellman](https://github.com/jpellman)
