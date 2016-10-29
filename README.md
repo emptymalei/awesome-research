@@ -536,6 +536,10 @@ This might be not so straightforward but remember this. Reuse your own work does
 
 * [Zenodo](https://zenodo.org/): Make anything from GitHub citable by getting a DOI code here.
 
+### Add Citations to Your Code
+
+* [duecredit](https://github.com/duecredit/duecredit): Allows you to add decorators to Python functions that encode bibliographic details.
+
 ### Open Science
 
 * [Open Science Framework](https://osf.io/): A open science tool with a lot of integrations.
