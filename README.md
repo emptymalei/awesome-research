@@ -87,7 +87,6 @@ First things first, everyone should know version control systems. Version contro
 * [BitBucket](https://bitbucket.org): Alternative to GitHub with free private repositories for small teams (up to 5 users).
 * [GitLab](http://gitlab.org/): Similar to GitHub and BitBucket, can be both cloud-based and self-hosted. It includes
   unlimited free private repositories, issue tracker and a continuous integration tool.
-* [Taiga](https://taiga.io/): Alternative to GitHub with some fun communication tools like drinking Iocaine.
 
 
 #### Self-hosted Git Server
