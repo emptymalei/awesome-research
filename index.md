@@ -53,6 +53,7 @@ A list of tools for research.
   * [Investigate Papers](#investigate-papers)
   * [Get Yourself A Citable Code for Anything](#get-yourself-a-citable-code-for-anything)
   * [Open Science](#open-science)
+  * [Bibliography](#bibliography)
 * [Pacifier](#pacifier)
 * [Online Discussions](#online-discussions)
   * [Physics](#physics)
@@ -546,7 +547,8 @@ This might be not so straightforward but remember this. Reuse your own work does
 
 * [Open Science Framework](https://osf.io/): A open science tool with a lot of integrations.
 
-
+### Bibliography
+* [JabRef](https://www.jabref.org/): An open source bibliography reference manage for the BibTeX format. 
 
 
 ## Pacifier
