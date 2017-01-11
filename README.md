@@ -47,9 +47,9 @@ A list of tools for research.
   * [Investigate Papers](#investigate-papers)
   * [Get Yourself A Citable Code for Anything](#get-yourself-a-citable-code-for-anything)
   * [Open Science](#open-science)
+  * [Tips for Researchers](#tips-for-researchers)
 * [Pacifier](#pacifier)
 * [Online Discussions](#online-discussions)
-  * [Physics](#physics)
 * [Open Source](#open-source)
   * [Open Licenses](#open-licenses)
   * [Use Licenses](#use-licenses)
@@ -525,12 +525,10 @@ This might be not so straightforward but remember this. Reuse your own work does
 
 * [wikipedia:Plagiarism#The_concept_of_self-plagiarism](https://en.wikipedia.org/wiki/Plagiarism#The_concept_of_self-plagiarism).
 
-
 ### Investigate Papers
 
 * [Paperscape](http://paperscape.org/): Finding interesting papers.
 * [SciRate](https://scirate.com/): An front-end for arXiv with rates from readers.
-
 
 ### Get Yourself A Citable Code for Anything
 
@@ -544,6 +542,9 @@ This might be not so straightforward but remember this. Reuse your own work does
 
 * [Open Science Framework](https://osf.io/): A open science tool with a lot of integrations.
 
+### Tips for Researchers
+
+* [Ten Simple Rules by PLoS One](http://collections.plos.org/ten-simple-rules): Series of quick "Ten Simple Rules" articles for research scientists to manage challenges in their careers. Number of articles are life-science specific, but rest the of articles are general enough for any researcher.
 
 
 
