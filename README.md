@@ -323,7 +323,12 @@ Markdown, reStructuredText, and LaTeX are the three chosen languages.
 * [MarkdownPad](http://markdownpad.com/) (`Win`): If you have no bad feelings about .NET, this is pretty good.
 * [ReText](https://github.com/retext-project/retext) (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
 * [Madoko](https://www.madoko.net/) (`Cloud`): **LaTeX** &times; Markdown &sup2;
+* [eme](https://github.com/egoist/eme) (`Win`,`Mac`,`Linux`): Math support.
+* [Moeditor](https://moeditor.org/) (`Win`,`Mac`,`Linux`): All purpose markdown editor.
 
+Notebook softwares that you can write in Markdown:
+
+1. [boostnote](https://boostnote.io/) (`Win`,`Mac`,`Linux`): Math + Markdown, with snippet note support.
 
 
 #### LaTeX
@@ -332,6 +337,7 @@ Markdown, reStructuredText, and LaTeX are the three chosen languages.
 * [ShareLaTeX](https://www.sharelatex.com/)(`Cloud`): Dropbox and GitHub integration, preview, cooperation, simple UI. It also provides a lot of templates.
 * [Overleaf](https://www.overleaf.com/)(`Cloud`): Built in version control.
 * [Authorea](https://www.authorea.com/)(`Cloud`): Easy to use UI. Supports both Markdown and LaTeX.
+* [Papeeria](https://www.papeeria.com)(`Cloud`): Just another online LaTeX and Markdown with plot compiler and collaborations.
 * [JaxEdit](http://jaxedit.com/)(`Cloud`): JaxEdit doesn't provide full LaTeX support but is good enough for simple LaTeX documents and slides.
 
 
@@ -405,6 +411,8 @@ As for LaTeX, [latexdiff](http://www.ctan.org/tex-archive/support/latexdiff/) is
 * [Realms](http://realms.io/): Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger. Basic authentication and registration included.
 * [Tiddlywiki](http://tiddlywiki.com/): A unique non-linear notebook for capturing, organizing and sharing complex information.
 * Some other [static site generators](#static-generator).
+
+For experimental research, eLabFTW made a online labnote system: [eLabFTW](https://www.elabftw.net/).
 
 
 
@@ -724,9 +732,10 @@ Professional graphs should be made using professional tools.
 * [TitleCap](http://titlecapitalization.com/): Not sure which word to capitalize in the title? [TitleCap](http://titlecapitalization.com/) is right for you.
 * [On Being a Scientist](https://www.nap.edu/read/12192/): A guide to responsible conduct in research.
 * [DiRT Directory](http://dirtdirectory.org/): Registry of digital research tools for scholarly use.
+* [Online Whiteboard](https://awwapp.com): A simple online whiteboard that users can collaborate; Good for online meetings.
 
 -----
 
 This is a CC BY-SA licensed project. Use the source! Keep the source open!
 
-![CC BY-SA](assets/cc_bysa.flat.guokr.png)
+![CC BY-SA](https://raw.githubusercontent.com/emptymalei/awesome-research/master/assets/cc_bysa.flat.guokr.png)
