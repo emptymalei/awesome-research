@@ -733,6 +733,7 @@ Professional graphs should be made using professional tools.
 * [On Being a Scientist](https://www.nap.edu/read/12192/): A guide to responsible conduct in research.
 * [DiRT Directory](http://dirtdirectory.org/): Registry of digital research tools for scholarly use.
 * [Online Whiteboard](https://awwapp.com): A simple online whiteboard that users can collaborate; Good for online meetings.
+* [MapInSeconds.com](http://www.mapinseconds.com/): Create maps with corresponding data quickly by copy-pasting from a spreadsheet.
 
 -----
 
