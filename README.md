@@ -552,7 +552,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 * [Open Science Framework](https://osf.io/): A open science tool with a lot of integrations.
 
 ### Bibliography
-* [JabRef](https://www.jabref.org/): An open source bibliography reference manage for the BibTeX format. 
+* [JabRef](https://www.jabref.org/): An open source bibliography reference manager for the BibTeX format. 
 
 ### Tips for Researchers
 
