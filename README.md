@@ -53,6 +53,7 @@ A list of tools for research.
 * [Open Source](#open-source)
   * [Open Licenses](#open-licenses)
   * [Use Licenses](#use-licenses)
+  * [Bibliography](#bibliography)
 * [Data Visualization and Graph Making](#data-visualization-and-graph-making)
   * [Data Visualization](#data-visualization)
   * [Graph Making](#graph-making)
@@ -549,6 +550,9 @@ This might be not so straightforward but remember this. Reuse your own work does
 ### Open Science
 
 * [Open Science Framework](https://osf.io/): A open science tool with a lot of integrations.
+
+### Bibliography
+* [JabRef](https://www.jabref.org/): An open source bibliography reference manager for the BibTeX format. 
 
 ### Tips for Researchers
 
