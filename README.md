@@ -196,7 +196,8 @@ Nature hosts a list of recommended data repositories [here](http://www.nature.co
 Pick a pleasing color for your presentations and notes.
 
 * [PleaseJS](http://www.checkman.io/please/)
-
+* [ColorBrewer](http://colorbrewer2.org)
+* [Paletton](http://paletton.com)
 
 
 
