@@ -40,6 +40,7 @@ A list of tools for research.
   * [Sharing Slides](#sharing-slides)
 * [Programming](#programming)
   * [Softwares](#softwares)
+  * [Editors](#editors)
   * [Scientific Computing](#scientific-computing)
   * [Coding is Fun](#coding-is-fun)
 * [Academic](#academic)
@@ -501,6 +502,16 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
 
 ## Programming
 
+### Editors
+
+* [Atom](https://atom.io/)(`Free`,`Cross-platform`,`Plugins`): electron based editor with numerous plugins and easy modifications. Cross-platform with settings and plugins synchronized through the [sync-settings](https://atom.io/packages/sync-settings) plugin.
+* [VS Code](https://code.visualstudio.com/)(`Free`,`Cross-platform`,`Plugins`): same technology as atom but faster than atom, and Microsoft made.
+* [Sublime Text](https://www.sublimetext.com/)(`Free Evaluation`,`Cross-platform`,`Plugins`): cross-platform, fast, and with plugins. Not free but can be freely used forever.
+* [JetBrains](https://www.jetbrains.com/)(`Free for Students`, `Cross-platform`,`Plugins`): beautiful IDE's with many debugging and editing modes integrated.
+* [vim](https://github.com/vim/vim)(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
+  * [Vundle](https://github.com/VundleVim/Vundle.vim): the vim plugin manager
+  * [vimrc from amix](https://github.com/amix/vimrc): "The ultimate Vim configuration: vimrc"
+
 
 ### Softwares
 
@@ -516,6 +527,7 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
 ### Scientific Computing
 
 * [Python](https://www.python.org/)
+  * [scipy](https://www.scipy.org/): scientific computing made easy
   * [SnakeViz](https://jiffyclub.github.io/snakeviz/): A nice tool for python debugging and performance improvement.
 * [Julia](http://julialang.org/)
 * [R](http://www.r-project.org/)
@@ -553,7 +565,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 * [Open Science Framework](https://osf.io/): A open science tool with a lot of integrations.
 
 ### Bibliography
-* [JabRef](https://www.jabref.org/): An open source bibliography reference manager for the BibTeX format. 
+* [JabRef](https://www.jabref.org/): An open source bibliography reference manager for the BibTeX format.
 
 ### Tips for Researchers
 
