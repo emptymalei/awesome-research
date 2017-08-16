@@ -40,7 +40,7 @@ A list of tools for research.
   * [Sharing Slides](#sharing-slides)
 * [Programming](#programming)
   * [Softwares](#softwares)
-  * [Editors](#editors)
+  * [Code Editors](#code-editors)
   * [Scientific Computing](#scientific-computing)
   * [Coding is Fun](#coding-is-fun)
 * [Academic](#academic)
@@ -502,7 +502,7 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
 
 ## Programming
 
-### Editors
+### Code Editors
 
 * [Atom](https://atom.io/)(`Free`,`Cross-platform`,`Plugins`): electron based editor with numerous plugins and easy modifications. Cross-platform with settings and plugins synchronized through the [sync-settings](https://atom.io/packages/sync-settings) plugin.
 * [VS Code](https://code.visualstudio.com/)(`Free`,`Cross-platform`,`Plugins`): same technology as atom but faster than atom, and Microsoft made.
