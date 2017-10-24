@@ -567,6 +567,8 @@ This might be not so straightforward but remember this. Reuse your own work does
 
 ### Bibliography
 * [JabRef](https://www.jabref.org/): An open source bibliography reference manager for the BibTeX format.
+* [Mendeley](https://www.mendeley.com/): A bibliography reference manager with cloud storage and BibTeX support.
+* [Zotero](https://www.zotero.org/): An open source bibliography reference manager with syncing and BibTeX support.
 
 ### Tips for Researchers
 
