@@ -127,7 +127,7 @@ someday) and projects. [Here](https://hamberg.no/gtd/) we have a good pragmatic 
 * [Evernote](https://evernote.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Store`): Not so lightweight but still very good for managing life especially since it has got a lot of integrations from a lot of other services.
 * [Anydo](http://www.any.do/) (`Cloud`,`Mac`,`Android`,`iOS`): Good because it has a very good daily review which can help users remember what to do.
 * [Todoist](https://todoist.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`): Todoist invented the karma system which keeps track of the tasks done.
-
+* [Taskade](https://taskade.com/) (`Cloud`,`Chrome OS`,`Firefox`,`Mobile coming soon`,): Taskade is a collaborative task list and outliner for team projects.
 
 
 
