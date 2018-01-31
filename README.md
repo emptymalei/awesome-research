@@ -573,8 +573,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 ### Tips for Researchers
 
 * [Ten Simple Rules by PLoS One](http://collections.plos.org/ten-simple-rules): Series of quick "Ten Simple Rules" articles for research scientists to manage challenges in their careers. Number of articles are life-science specific, but rest the of articles are general enough for any researcher.
-
-
+* Check the [Academic Resources and Grey Literature List](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) of the [Awesome Open-Source Intelligence List](https://github.com/jivoi/awesome-osint) for search engines to search for papers.
 
 ## Pacifier
 
