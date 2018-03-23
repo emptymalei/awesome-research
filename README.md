@@ -252,7 +252,7 @@ Host your articles, notes and more.
 * [Surge](https://surge.sh/): One command upload your static website to make it live. Surge also integrates GitHub hooks.
 * [Heroku](https://www.heroku.com/): The one that needs no explaination.
 
-Other services such as [Digital Ociean](https://www.digitalocean.com/) are also useful when it comes to dynamic websites and cloud computing.
+Other services such as [Digital Ocean](https://www.digitalocean.com/) are also useful when it comes to dynamic websites and cloud computing.
 
 
 
@@ -332,7 +332,7 @@ Markdown, reStructuredText, and LaTeX are the three chosen languages.
 
 Notebook softwares that you can write in Markdown:
 
-1. [boostnote](https://boostnote.io/) (`Win`,`Mac`,`Linux`): Math + Markdown, with snippet note support.
+* [boostnote](https://boostnote.io/) (`Win`,`Mac`,`Linux`): Math + Markdown, with snippet note support.
 
 
 #### LaTeX
@@ -546,7 +546,7 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
 
 This might be not so straightforward but remember this. Reuse your own work doesn't protect you from plagiarism! Read it on
 
-* [wikipedia:Plagiarism#The_concept_of_self-plagiarism](https://en.wikipedia.org/wiki/Plagiarism#The_concept_of_self-plagiarism).
+* [wikipedia:Plagiarism#Self-plagiarism](https://en.wikipedia.org/wiki/Plagiarism#Self-plagiarism).
 
 ### Investigate Papers
 
