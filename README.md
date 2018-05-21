@@ -463,6 +463,7 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 * [Flowtime.js](https://github.com/marcolago/flowtime.js)
 * [Slides](https://github.com/briancavalier/slides)
+* [remark](https://remarkjs.com)
 
 
 ### IPython Notebook
@@ -522,6 +523,7 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
   * [jiffylab](https://github.com/ptone/jiffylab) is an open source one but not that well done.
   * [supervised-ipython-nbserver](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
 * [Matlab](http://www.mathworks.com/products/matlab/)
+* [Maple](https://fr.maplesoft.com/products/Maple/index.aspx)
 * [RStudio](https://www.rstudio.com/) (`R`)
 
 
@@ -532,7 +534,7 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
   * [SnakeViz](https://jiffyclub.github.io/snakeviz/): A nice tool for python debugging and performance improvement.
 * [Julia](http://julialang.org/)
 * [R](http://www.r-project.org/)
-
+* [Rust](https://www.rust-lang.org/en-US/)
 
 ### Coding is Fun
 
@@ -571,6 +573,8 @@ This might be not so straightforward but remember this. Reuse your own work does
 * [JabRef](https://www.jabref.org/): An open source bibliography reference manager for the BibTeX format.
 * [Mendeley](https://www.mendeley.com/): A bibliography reference manager with cloud storage and BibTeX support.
 * [Zotero](https://www.zotero.org/): An open source bibliography reference manager with syncing and BibTeX support.
+* [Zotero Style Repository](https://www.zotero.org/styles): Find any style you want.
+* [doi2bib](https://www.doi2bib.org/): Give it a DOI and get the associated BibTeX entry.
 
 ### Tips for Researchers
 
