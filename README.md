@@ -523,7 +523,7 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
   * [jiffylab](https://github.com/ptone/jiffylab) is an open source one but not that well done.
   * [supervised-ipython-nbserver](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
 * [Matlab](http://www.mathworks.com/products/matlab/)
-* [Maple](https://fr.maplesoft.com/products/Maple/index.aspx)
+* [Maple](https://www.maplesoft.com/index.aspx?L=E)
 * [RStudio](https://www.rstudio.com/) (`R`)
 
 
@@ -573,7 +573,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 * [JabRef](https://www.jabref.org/): An open source bibliography reference manager for the BibTeX format.
 * [Mendeley](https://www.mendeley.com/): A bibliography reference manager with cloud storage and BibTeX support.
 * [Zotero](https://www.zotero.org/): An open source bibliography reference manager with syncing and BibTeX support.
-* [Zotero Style Repository](https://www.zotero.org/styles): Find any style you want.
+* [Zotero Style Repository](https://www.zotero.org/styles): Find any style you need.
 * [doi2bib](https://www.doi2bib.org/): Give it a DOI and get the associated BibTeX entry.
 
 ### Tips for Researchers
