@@ -574,7 +574,8 @@ This might be not so straightforward but remember this. Reuse your own work does
 * [Mendeley](https://www.mendeley.com/): A bibliography reference manager with cloud storage and BibTeX support.
 * [Zotero](https://www.zotero.org/): An open source bibliography reference manager with syncing and BibTeX support.
 * [Zotero Style Repository](https://www.zotero.org/styles): Find any style you need.
-* [doi2bib](https://www.doi2bib.org/): Give it a DOI and get the associated BibTeX entry.
+* [doi2bib](https://www.doi2bib.org/): Retrieves a BibTeX entry from a DOI.
+* [crossref](https://www.crossref.org/): Makes research outputs easy to find, cite, link, and assess.
 
 ### Tips for Researchers
 
