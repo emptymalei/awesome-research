@@ -561,6 +561,11 @@ This might be not so straightforward but remember this. Reuse your own work does
 
 * [Zenodo](https://zenodo.org/): Make anything from GitHub citable by getting a DOI code here.
 
+### Get Yourself A Unique and Persistent Digital Identifier
+
+* [orcid](http://orcid.org/): Use your ORCID identifier in any research workflow to ensure you get credit for your work.
+
+
 ### Add Citations to Your Code
 
 * [duecredit](https://github.com/duecredit/duecredit): Allows you to add decorators to Python functions that encode bibliographic details.
@@ -740,9 +745,12 @@ Professional graphs should be made using professional tools.
 
 ### Free Multimedia
 
-
 * [CC Search](https://ccsearch.creativecommons.org/): Search engine for images under CC License.
 * [Unsplash](https://unsplash.com/): Free high resolution images.
+* [Academicons](https://jpswalsh.github.io/academicons/)
+* [Phylopic](http://phylopic.org/)
+
+
 
 
 ### Interesting Journals
