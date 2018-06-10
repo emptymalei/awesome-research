@@ -333,6 +333,10 @@ Markdown, reStructuredText, and LaTeX are the three chosen languages.
 Notebook softwares that you can write in Markdown:
 
 * [boostnote](https://boostnote.io/) (`Win`,`Mac`,`Linux`): Math + Markdown, with snippet note support.
+* [Quiver](http://happenapps.com/) (`Mac`,`iOS`): Programmer's notebook, math + Markdown, code snippet.
+* [Findings](http://findingsapp.com/) (`Mac`): Notebook for experimentalists, organized research materials and notes.
+* [Notion](https://www.notion.so/) (`Win`,`Mac`,`iOS`,`Android`): Notetaking with kanban, math, calendar, table, etc.
+* [Agenda](https://agenda.com/) (`Mac`,`iOS`): Notes and GTD.
 
 
 #### LaTeX
