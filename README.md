@@ -563,6 +563,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 * [ArXiv Sanity Preserver](http://arxiv-sanity.com/): Accelerate research through arXiv specific for many things machine learning by Andrej Karpathy.
 * [Iris.ai](https://the.iris.ai/): Explore scientific papers and how they connect to a paper of your choice.
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish): Retrieves and analyzes academic citations designed to empower individual academics to present their case for research impact to its best advantage.
+* [PubChase](http://pubchase.com/): Life sciences and medical literature recommendation engine.
 
 ### Get Yourself A Citable Code for Anything
 
