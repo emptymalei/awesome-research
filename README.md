@@ -245,12 +245,12 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 
 Host your articles, notes and more.
 
-* [ReadtheDocs](http://readthedocs.org/): Turn your reStructuredText source to HTML, pdf, and epub, all done online.
+* [ReadtheDocs](http://readthedocs.org/): Turn your reStructuredText source to HTML, PDF, and epub, all done online.
 * [GitHub pages](https://pages.github.com/): Integrated with Jekyll and turns markdown posts automatically. Jekyll is a tool for blogging.
-* [GitHub](http://github.com): Just put markdown, reStructuredText, pdf or ipython notebook files on GitHub. All these formats can be previewed online. **The thing to mention is that the math in ipython notebook can be rendered on GitHub.**
+* [GitHub](http://github.com): Just put markdown, reStructuredText, PDF or IPython/Jupyter notebook files on GitHub. All these formats can be previewed online. **The thing to mention is that the math in IPython notebook can be rendered on GitHub.**
 * [Aerobatic](https://www.aerobatic.com/): A powerful alternative to GitHub Pages.
 * [Surge](https://surge.sh/): One command upload your static website to make it live. Surge also integrates GitHub hooks.
-* [Heroku](https://www.heroku.com/): The one that needs no explaination.
+* [Heroku](https://www.heroku.com/): The one that needs no explanation.
 
 Other services such as [Digital Ocean](https://www.digitalocean.com/) are also useful when it comes to dynamic websites and cloud computing.
 
@@ -282,7 +282,7 @@ These programs are running on the server and can be [hosted using these services
 
 ### Static Site Generator
 
-[Here is a nice website](https://staticsitegenerators.net/) that tells you all the static site generators. Nonethless here is a list of the most popular ones.
+[Here is a nice website](https://staticsitegenerators.net/) that tells you all the static site generators. Nonetheless here is a list of the most popular ones.
 
 * [Jekyll](http://jekyllrb.com/) (Written in `Ruby`)(`Markdown`): Jekyll is the most widely used one. The best part about Jekyll is that one just deploy to GitHub Pages by pushing the source to GitHub.
 * [Octopress](http://octopress.org/) (Written in `Ruby`)(`Markdown`): Octopress is easier to use compared with Jekyll while being somewhat compatible with Jekyll.
@@ -362,7 +362,7 @@ Notebook softwares that you can write in Markdown:
 
 
 
-### iPython Notebook
+### IPython Notebook
 
 Use IPython Notebook to help with your research. IPython Notebook can be previewed on GitHub directly. Here are some examples of how IPython notebook can be used.
 
@@ -560,6 +560,9 @@ This might be not so straightforward but remember this. Reuse your own work does
 * [Paperscape](http://paperscape.org/): Finding interesting papers.
 * [Peerus](https://peer.us/): Monitor specific topics or journal for new and relevant papers.
 * [SciRate](https://scirate.com/): An front-end for arXiv with rates from readers.
+* [ArXiv Sanity Preserver](http://arxiv-sanity.com/): Accelerate research through arXiv specific for many things machine learning by Andrej Karpathy.
+* [Iris.ai](https://the.iris.ai/): Explore scientific papers and how they connect to a paper of your choice.
+* [Publish or Perish](https://harzing.com/resources/publish-or-perish): Retrieves and analyzes academic citations designed to empower individual academics to present their case for research impact to its best advantage.
 
 ### Get Yourself A Citable Code for Anything
 
@@ -585,6 +588,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 * [Zotero Style Repository](https://www.zotero.org/styles): Find any style you need.
 * [doi2bib](https://www.doi2bib.org/): Retrieves a BibTeX entry from a DOI.
 * [crossref](https://www.crossref.org/): Makes research outputs easy to find, cite, link, and assess.
+* [org-ref](https://github.com/jkitchin/org-ref): Citations, cross-references, indexes, glossaries, and bibtex utitlies for org-mode in Emacs.
 
 ### Tips for Researchers
 
@@ -642,6 +646,7 @@ StackExchange.com is a good place for professional discussions. Here is an examp
 * [Physics.StackExchange](http://physics.stackexchange.com/)
 * [Biostars](https://www.biostars.org/): StackOverflow style Q&A site for bioinformatics.
 * [NeuroStars](https://neurostars.org/): StackOverflow style Q&A site for neuroinformatics.
+* [SEQanswers](http://seqanswers.com/): Forum for next generation sequencing community.
 
 
 ## Open Source
