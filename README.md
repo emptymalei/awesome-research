@@ -556,7 +556,6 @@ This might be not so straightforward but remember this. Reuse your own work does
 
 ### Investigate Papers
 
-* [Meta](https://meta.science/): Find the latest papers related to your own projects.
 * [Paperscape](http://paperscape.org/): Finding interesting papers.
 * [Peerus](https://peer.us/): Monitor specific topics or journal for new and relevant papers.
 * [SciRate](https://scirate.com/): An front-end for arXiv with rates from readers.
