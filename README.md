@@ -83,25 +83,24 @@ First things first, everyone should know version control systems. Version contro
 * svn
 * mercurial
 
+
 #### Online Git Service
 
 * [GitHub](https://github.com/): No description needed.
 * [BitBucket](https://bitbucket.org): Alternative to GitHub with free private repositories for small teams (up to 5 users).
-* [GitLab](http://gitlab.org/): Similar to GitHub and BitBucket, can be both cloud-based and self-hosted. It includes
+* [GitLab](https://about.gitlab.com/): Similar to GitHub and BitBucket, can be both cloud-based and self-hosted. It includes
   unlimited free private repositories, issue tracker and a continuous integration tool.
 
 
 #### Self-hosted Git Server
 
 * [GitLab](http://gitlab.org/): See above at [Online Git Service](#online-git-service).
-* [Gitorious](https://www.gitorious.org/): Acquired by GitLab and discontinued, but [the software](http://getgitorious.com/) can still be installed.
+* [Gitea](https://gitea.io/en-us/): Painless self-hosted Git service written in Go.
 
 
 #### Enterprise Git Service
 
 * [Rhodecode](https://rhodecode.com/)
-* [Codeplane](https://codeplane.com/)
-
 
 
 ### Pomodoro
@@ -110,7 +109,7 @@ Try [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to ga
 
 
 * [Pomotodo](https://pomotodo.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Chrome`): A mix of todo list and pomodoro timer, with sync across devices and weekly report [Free].
-* [Tadam](http://tadamapp.com/) (`Mac`): Simple and elegant pomodoro timer [USD$ 4.99].
+* [Tadam](https://tadamapp.com/) (`Mac`): Simple and elegant pomodoro timer [USD$ 4.99].
 * [Productivity Challenge Timer](https://play.google.com/store/apps/details?id=com.wlxd.pomochallenge&hl=en) (`Android`): Pomodoro timer with great gamification features [Free].
 
 
@@ -121,11 +120,11 @@ recording them externally and then breaking them into actionable work items. Thi
 taking action on tasks, instead of on recalling them ([Wikipedia](https://en.wikipedia.org/wiki/Getting_Things_Done)).
 Tasks can be classified in contexts (@home, @computer, @office, etc), time of action (now, next actions, scheduled or
 someday) and projects. [Here](https://hamberg.no/gtd/) we have a good pragmatic guide to GTD and
-[here](http://gettingthingsdone.com/pdfs/tt_workflow_chart.pdf) a flowchart.
+[here](https://gettingthingsdone.com/pdfs/tt_workflow_chart.pdf) a flowchart.
 
 * [Wunderlist](https://www.wunderlist.com) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Store`,`Chrome OS`): Almost perfect todo lists with cooperation and sharing.
 * [Evernote](https://evernote.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Store`): Not so lightweight but still very good for managing life especially since it has got a lot of integrations from a lot of other services.
-* [Anydo](http://www.any.do/) (`Cloud`,`Mac`,`Android`,`iOS`): Good because it has a very good daily review which can help users remember what to do.
+* [Anydo](https://www.any.do/) (`Cloud`,`Mac`,`Android`,`iOS`): Good because it has a very good daily review which can help users remember what to do.
 * [Todoist](https://todoist.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`): Todoist invented the karma system which keeps track of the tasks done.
 * [Taskade](https://taskade.com/) (`Cloud`,`Mac`,`Win`,`Chrome OS`,`Firefox`,`Android`,`iOS`): Taskade is a collaborative task list and outliner for team projects.
 
@@ -140,10 +139,10 @@ someday) and projects. [Here](https://hamberg.no/gtd/) we have a good pragmatic 
 
 Coding/Numerical calculation/Analytical derivation online.
 
-* [Sagemath](https://cloud.sagemath.com/): LaTeX, R, iPython Notebook, etc.
-* [PiCloud](http://picloud.com): python, but it was acquired by Dropbox and has been shut down. The new site is [Multyvac](http://www.multyvac.com/).
+* [CoCalc (SageMathCloud)](https://cocalc.com/): LaTeX, R, iPython Notebook, etc.
+* [PiCloud](http://picloud.com): Python, but it was acquired by Dropbox and has been shut down. The new site is [Multyvac](http://www.multyvac.com/).
 * [Multyvac](https://www.multyvac.com/): Kind of the successor of PiCloud but will be more powerful for sure.
-* [WolframAlpha](http://www.wolframalpha.com/): Excellent engine to do mathematical derivation online and search.
+* [WolframAlpha](https://www.wolframalpha.com/): Excellent engine to do mathematical derivation online and search.
 
 
 
@@ -158,19 +157,19 @@ Coding/Numerical calculation/Analytical derivation online.
 
 ### Data
 
-Nature hosts a list of recommended data repositories [here](http://www.nature.com/sdata/policies/repositories).
+Nature hosts a list of recommended data repositories [here](https://www.nature.com/sdata/policies/repositories).
 
 #### General and Interdisciplinary
 
 * [DRYAD](http://datadryad.org/) (`Storage`, `Lookup`): The Dryad Digital Repository stores curated data.
 * [Figshare](https://figshare.com/) (`Storage`, `Lookup`): Data sharing and storage
-* [Data.gov](http://data.gov) (`Lookup`): Data by US Federal Government
+* [Data.gov](https://data.gov) (`Lookup`): Data by US Federal Government
 
 #### Life Science
 
-* [GenBank](http://www.ncbi.nlm.nih.gov/genbank/) (`Lookup`): Genetic sequence database
+* [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) (`Lookup`): Genetic sequence database
 * [National Centers for Environmental Information](https://www.ncei.noaa.gov/) (`Lookup`): Weather, climate, coasts, oceans, and geophysics etc
-* [GEOSS Portal](http://www.geoportal.org/web/guest/geo_home_stp) (`Lookup`): Earth science data
+* [GEOSS Portal](http://www.geoportal.org) (`Lookup`): Earth science data
 
 #### Physical Sciences
 
