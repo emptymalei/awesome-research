@@ -239,6 +239,17 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 * [Neutrino Physics](https://github.com/NeuPhysics/neutrino)
 
 
+**Writing Tools**
+
+* [Hemingway App](https://hemingwayapp.com/): Highlights complex sentences, point out passive voice, and suggests alternative words.
+* [proselint](https://github.com/amperser/proselint): A linter for English prose using advice from *Garner's Modern American Usage* and more.
+* [write good](https://github.com/btford/write-good): Naive JavaScript linter for English prose.
+* [artbollocks-mode](https://github.com/sachac/artbollocks-mode): Emacs minor mode for avoiding cliches and bad grammar when writing about art (or other topics).
+* [`cut_the_crap.py`](https://jugad2.blogspot.com/2015/07/cut-crap-absolutely-essential-tool-for.html): Simple Python script to flag redundant words and gives alternative suggestions.
+* [Rousseau](https://github.com/GitbookIO/rousseau): Lightweight proofreader written in JavaScript.
+* [textlint-rule-rousseau](https://github.com/azu/textlint-rule-rousseau): A textlint rule to check English sentences using Rousseau.
+* [De-Jargonizer](http://scienceandpublic.com/): Paste your article or upload file to analyze the amount of jargon in your writing.
+
 
 ### Hosting
 
