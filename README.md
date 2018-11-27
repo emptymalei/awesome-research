@@ -222,14 +222,12 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 * [Static Site Generator](#static-site-generator): For more please refer to [Static Site Generator](#static-site-generator).
 
 
-
 **Sphinx Themes and configurations**
 
-* Themes
-  * [rtd theme](https://github.com/snide/sphinx_rtd_theme): Developed by ReadtheDocs.org
-  * [Alabaster](https://github.com/bitprophet/alabaster): Clean and simple
-  * [Some beautiful themes](https://github.com/vkvn/sphinx-themes)
-  * [Bootstrap theme](https://ryan-roemer.github.io/sphinx-bootstrap-theme/)
+* [rtd theme](https://github.com/snide/sphinx_rtd_theme): Developed by ReadtheDocs.org
+* [Alabaster](https://github.com/bitprophet/alabaster): Clean and simple
+* [Some beautiful themes](https://github.com/vkvn/sphinx-themes)
+* [Bootstrap theme](https://ryan-roemer.github.io/sphinx-bootstrap-theme/)
 
 
 **Science Books Using Sphinx**
