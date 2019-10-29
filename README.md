@@ -140,7 +140,6 @@ someday) and projects. [Here](https://hamberg.no/gtd/) we have a good pragmatic 
 Coding/Numerical calculation/Analytical derivation online.
 
 * [CoCalc (SageMathCloud)](https://cocalc.com/): LaTeX, R, iPython Notebook, etc.
-* [PiCloud](http://picloud.com): Python, but it was acquired by Dropbox and has been shut down. The new site is [Multyvac](http://www.multyvac.com/).
 * [WolframAlpha](https://www.wolframalpha.com/): Excellent engine to do mathematical derivation online and search.
 
 
