@@ -141,7 +141,6 @@ Coding/Numerical calculation/Analytical derivation online.
 
 * [CoCalc (SageMathCloud)](https://cocalc.com/): LaTeX, R, iPython Notebook, etc.
 * [PiCloud](http://picloud.com): Python, but it was acquired by Dropbox and has been shut down. The new site is [Multyvac](http://www.multyvac.com/).
-* [Multyvac](https://www.multyvac.com/): Kind of the successor of PiCloud but will be more powerful for sure.
 * [WolframAlpha](https://www.wolframalpha.com/): Excellent engine to do mathematical derivation online and search.
 
 
@@ -151,7 +150,6 @@ Coding/Numerical calculation/Analytical derivation online.
 * [plot.ly](https://plot.ly/): Online plotting with many cloud services integrated.
 * [Desmos](https://www.desmos.com/calculator): Graphs for functions.
 * [graph.tk](http://graph.tk/): Online plotting with rich features.
-* [DataJoy](https://www.getdatajoy.com): Developed by ShareLaTeX team; python & R at this moment.
 * [Wolfram Alpha](http://www.wolframalpha.com/): Make graphs for functions, from your data and even more.
 
 
