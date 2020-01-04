@@ -605,10 +605,12 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [Open Science Framework](https://osf.io/): A open science tool with a lot of integrations.
 
 ### Bibliography
-* [JabRef](https://www.jabref.org/): An open source bibliography reference manager for the BibTeX format.
+
+* [ReadCube/Papers](https://www.readcube.com/): A all platform app for reference mamagement, note-taking, and more. The former Papers has been rebanded as ReadCube Papers.
 * [Mendeley](https://www.mendeley.com/): A bibliography reference manager with cloud storage and BibTeX support.
 * [Zotero](https://www.zotero.org/): An open source bibliography reference manager with syncing and BibTeX support.
 * [Zotero Style Repository](https://www.zotero.org/styles): Find any style you need.
+* [JabRef](https://www.jabref.org/): An open source bibliography reference manager for the BibTeX format.
 * [doi2bib](https://www.doi2bib.org/): Retrieves a BibTeX entry from a DOI.
 * [crossref](https://www.crossref.org/): Makes research outputs easy to find, cite, link, and assess.
 * [org-ref](https://github.com/jkitchin/org-ref): Citations, cross-references, indexes, glossaries, and bibtex utitlies for org-mode in Emacs.
