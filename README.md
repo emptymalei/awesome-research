@@ -137,7 +137,7 @@ A list of tools for research.
 
 ### Math and Programming Online
 
-> There are many tools that allows use to code, perform numerical calculations or analytical derivation online.
+> There are many tools that allows use of code, perform numerical calculations or analytical derivation online.
 
 * [Google Colab](https://colab.research.google.com/): free jupyter notebook online. Google Colab also comes with free GPU hours.
   * Free and powerfull.
@@ -145,7 +145,7 @@ A list of tools for research.
   * Can be saved in GitHub or Google Drive.
 * [NextJournal](https://nextjournal.com/): the notebook for reproducible research.
   * Basically, NextJournal runs almost anything.
-  * Focusing on reproductivity.
+  * Focusing on reproducibility.
 * [Kaggle](https://www.kaggle.com/): kaggle has built-in free jupyter notebook.
   * One can also connect to Google BigQuery to access big data.
 * [Azure Notebooks](https://notebooks.azure.com/): online jupyter notebooks.
