@@ -573,7 +573,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 ### Self-plagiarism
 
-> This might be not so straightforward but remember this. Reuse your own work doesn't protect you from plagiarism! Read it on
+> This might be not so straightforward but remember this. Reusing your own work doesn't protect you from plagiarism! Read more on
 
 * [wikipedia:Plagiarism#Self-plagiarism](https://en.wikipedia.org/wiki/Plagiarism#Self-plagiarism).
 
