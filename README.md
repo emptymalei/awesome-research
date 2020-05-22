@@ -13,9 +13,9 @@ A list of tools for research.
   * [Pomodoro](#pomodoro)
   * [GTD-Task Manager](#gtd-task-manager)
 * [Cloud Services](#cloud-services)
-  * [Math and Programming](#math-and-programming)
-  * [Plots](#plots)
-  * [Data](#data)
+  * [Math and Programming](#math-and-programming-online)
+  * [Plots](#ploting-and-charting-online)
+  * [Data](#datasets)
   * [Colors](#colors)
 * [Publishing and Sharing](#publishing-and-sharing)
   * [Writing](#writing)
@@ -77,36 +77,39 @@ A list of tools for research.
 
 ### Version Control System
 
-First things first, everyone should know version control systems. Version control is one of the most useful tools for scientists.
+> First things first, everyone should know version control system, aka VCS. VCS helps us track changes in our documents as well as collaborations on the documents. Needless to say, version control is one of the most useful tools for scientists.
 
-* git
+* **git**
 * svn
 * mercurial
 
 
 #### Online Git Service
 
-* [GitHub](https://github.com/): No description needed.
-* [BitBucket](https://bitbucket.org): Alternative to GitHub with free private repositories for small teams (up to 5 users).
-* [GitLab](https://about.gitlab.com/): Similar to GitHub and BitBucket, can be both cloud-based and self-hosted. It includes
-  unlimited free private repositories, issue tracker and a continuous integration tool.
+* [GitHub](https://github.com/): the most popular platform for git with social and collaborations built in.
+  * GitHub also provides GitHub Actions. With Actions one could automate processes.
+  * GitHub provides GitHub Pages. With GitHub Pages, on could host static files as well as [Jekyll](https://jekyllrb.com) built websites.
+* [GitLab](https://about.gitlab.com/): similar to GitHub, gitlab provides git hosting, collaborations, social, automations, and more. GitLab can be both cloud-based and self-hosted using its opensource code.
+  * GitLab includes unlimited free private repositories.
+  * GitLab comes with a continuous integration tool which is more powerful than GitHub Actions.
+* [BitBucket](https://bitbucket.org): Alternative to GitHub and GitLab with free private repositories.
 
 
 #### Self-hosted Git Server
 
 * [GitLab](http://gitlab.org/): See above at [Online Git Service](#online-git-service).
 * [Gitea](https://gitea.io/en-us/): Painless self-hosted Git service written in Go.
+* [Gogs](https://gogs.io/): A painless self-hosted Git service.
 
 
 #### Enterprise Git Service
 
-* [Rhodecode](https://rhodecode.com/)
+* [RhodeCode](https://rhodecode.com/): Centralized control for distributed repositories. Mercurial, Git, and Subversion under a single roof.
 
 
 ### Pomodoro
 
-Try [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to gain efficiency and probably health.
-
+> [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) can be used to boost your productivity and probably improve your health. There are almost infinite choices for the tools.
 
 * [Pomotodo](https://pomotodo.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Chrome`): A mix of todo list and pomodoro timer, with sync across devices and weekly report [Free].
 * [Tadam](https://tadamapp.com/) (`Mac`): Simple and elegant pomodoro timer [USD$ 4.99].
@@ -115,19 +118,16 @@ Try [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to ga
 
 ### GTD-Task Manager
 
-The GTD (Getting Things Done) method rests on the idea of moving planned tasks and projects out of the mind by
-recording them externally and then breaking them into actionable work items. This allows one to focus attention on
-taking action on tasks, instead of on recalling them ([Wikipedia](https://en.wikipedia.org/wiki/Getting_Things_Done)).
-Tasks can be classified in contexts (@home, @computer, @office, etc), time of action (now, next actions, scheduled or
-someday) and projects. [Here](https://hamberg.no/gtd/) we have a good pragmatic guide to GTD and
-[here](https://gettingthingsdone.com/pdfs/tt_workflow_chart.pdf) a flowchart.
+> The GTD (Getting Things Done) method unloads the todo lists off the mind by recording them using external tools. It allows one to focus on one active task instead of on all of them ([Wikipedia](https://en.wikipedia.org/wiki/Getting_Things_Done)).
+> Tasks can be classified in contexts (@home, @computer, @office, etc), time of action (now, next actions, scheduled or someday) and projects. [Here](https://hamberg.no/gtd/) we have a good pragmatic guide to GTD and [here](https://gettingthingsdone.com/pdfs/tt_workflow_chart.pdf) is a flowchart.
 
-* [Wunderlist](https://www.wunderlist.com) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Store`,`Chrome OS`): Almost perfect todo lists with cooperation and sharing.
+* [Microsoft To Do](https://todo.microsoft.com/tasks) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Store`,`Chrome OS`): Almost perfect todo lists with cooperation and sharing.
+* [Google Keep](https://keep.google.com/)(`Cloud`,`Android`,`iOS`,`Chrome OS`)
 * [Evernote](https://evernote.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Store`): Not so lightweight but still very good for managing life especially since it has got a lot of integrations from a lot of other services.
 * [Anydo](https://www.any.do/) (`Cloud`,`Mac`,`Android`,`iOS`): Good because it has a very good daily review which can help users remember what to do.
 * [Todoist](https://todoist.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`): Todoist invented the karma system which keeps track of the tasks done.
 * [Taskade](https://taskade.com/) (`Cloud`,`Mac`,`Win`,`Chrome OS`,`Firefox`,`Android`,`iOS`): Taskade is a collaborative task list and outliner for team projects.
-
+* [Agenda](https://agenda.com/)(`Mac`): Date-focused note taking.
 
 
 ## Cloud Services
@@ -135,26 +135,42 @@ someday) and projects. [Here](https://hamberg.no/gtd/) we have a good pragmatic 
 *For self-hosted services, check out [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) on GitHub.*
 
 
-### Math and Programming
+### Math and Programming Online
 
-Coding/Numerical calculation/Analytical derivation online.
+> There are many tools that allows use of code, perform numerical calculations or analytical derivation online.
 
+* [Google Colab](https://colab.research.google.com/): free jupyter notebook online. Google Colab also comes with free GPU hours.
+  * Free and powerfull.
+  * Share and collaborate on the same notebook.
+  * Can be saved in GitHub or Google Drive.
+* [NextJournal](https://nextjournal.com/): the notebook for reproducible research.
+  * Basically, NextJournal runs almost anything.
+  * Focusing on reproducibility.
+* [Kaggle](https://www.kaggle.com/): kaggle has built-in free jupyter notebook.
+  * One can also connect to Google BigQuery to access big data.
+* [Azure Notebooks](https://notebooks.azure.com/): online jupyter notebooks.
+* [Datalore](https://datalore.io/): online jupyter notebook by JetBrains.
 * [CoCalc (SageMathCloud)](https://cocalc.com/): LaTeX, R, iPython Notebook, etc.
+* [SageMaker](https://aws.amazon.com/sagemaker/): AWS service with a lot of tools integrated. Sagemaker comes with the Sagemake Studio which provides jupyter notebook for programmer and other charting and data management tools.
 * [WolframAlpha](https://www.wolframalpha.com/): Excellent engine to do mathematical derivation online and search.
+* [Mathematica Online](https://www.wolfram.com/mathematica/online/): Bring Mathematica to life in the cloud.
 
 
 
-### Plots
+### Ploting and Charting Online
+
+> While one could use these online jupyter notebooks mentioned above to make plots, there are many easy to use too that could be used for simple plotting.
 
 * [plot.ly](https://plot.ly/): Online plotting with many cloud services integrated.
 * [Desmos](https://www.desmos.com/calculator): Graphs for functions.
+* [GeoGebra](https://www.geogebra.org): very old but still very good. GeoGebra can be used for precise charting as well as calculations.
 * [graph.tk](http://graph.tk/): Online plotting with rich features.
 * [Wolfram Alpha](http://www.wolframalpha.com/): Make graphs for functions, from your data and even more.
 
 
-### Data
+### Datasets
 
-Nature hosts a list of recommended data repositories [here](https://www.nature.com/sdata/policies/repositories).
+> Nature hosts a list of recommended data repositories [here](https://www.nature.com/sdata/policies/repositories).
 
 #### General and Interdisciplinary
 
@@ -190,26 +206,24 @@ Nature hosts a list of recommended data repositories [here](https://www.nature.c
 
 ### Colors
 
-Pick a pleasing color for your presentations and notes.
+> Pick a pleasing color for your presentations and notes.
+> Refer to [Data Visualization and Graph Making](#data-visualization-and-graph-making)
 
-* [PleaseJS](http://www.checkman.io/please/)
 * [ColorBrewer](http://colorbrewer2.org)
 * [Paletton](http://paletton.com)
 * [Color Calculator](https://www.sessions.edu/color-calculator/)
 
 
-
-
 ## Publishing and Sharing
 
 
-Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages](https://pages.github.com/) is also good for hosting static contents.
+> Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages](https://pages.github.com/) is also good for hosting static contents.
+> GitHub provides Education perks so students could get free pro version which comes with private repos.
 
 
 ### Writing
 
 **Markdown is one of the best languages for writing.** Check out these editor in [Markdown section](#markdown).
-
 
 **Make use of these programs for publishing:**
 
@@ -229,12 +243,16 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 
 **Science Books Using Sphinx**
 
+> Here are some examples of how sphinx can be used for research.
+
 * [Theoretical Physics](https://github.com/certik/theoretical-physics)
 * [Statistical Physics](https://github.com/emptymalei/statisticalphysics)
 * [Neutrino Physics](https://github.com/NeuPhysics/neutrino)
 
 
 **Writing Tools**
+
+> Just use [Visual Studio Code](https://code.visualstudio.com/).
 
 * [Hemingway App](https://hemingwayapp.com/): Highlights complex sentences, point out passive voice, and suggests alternative words.
 * [proselint](https://github.com/amperser/proselint): A linter for English prose using advice from *Garner's Modern American Usage* and more.
@@ -248,7 +266,7 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 
 ### Hosting
 
-Host your articles, notes and more.
+> Host your articles, notes and more. Research is also about communications.
 
 * [ReadtheDocs](http://readthedocs.org/): Turn your reStructuredText source to HTML, PDF, and epub, all done online.
 * [GitHub pages](https://pages.github.com/): Integrated with Jekyll and turns markdown posts automatically. Jekyll is a tool for blogging.
@@ -256,38 +274,35 @@ Host your articles, notes and more.
 * [Aerobatic](https://www.aerobatic.com/): A powerful alternative to GitHub Pages.
 * [Surge](https://surge.sh/): One command upload your static website to make it live. Surge also integrates GitHub hooks.
 * [Heroku](https://www.heroku.com/): The one that needs no explanation.
+* [AWS](https://aws.amazon.com/): Amazon AWS provide student perks.
 
-Other services such as [Digital Ocean](https://www.digitalocean.com/) are also useful when it comes to dynamic websites and cloud computing.
-
-
-
+> Other services such as [Digital Ocean](https://www.digitalocean.com/) are also useful when it comes to dynamic websites and cloud computing.
 
 
 ### Blog and CMS
 
-Before doing the investigation on platforms, just remind yourself:
-
+> Before doing the investigation on platforms, just remind yourself:
+>
 > **I want to write, not to run blogging software.**
 
 
 **Blog/CMS Software**
 
-These programs are running on the server and can be [hosted using these services](#hosting).
+> These programs are running on the server and can be [hosted using these services](#hosting).
 
-* [Wordpress](https://wordpress.org/) (`PHP`): Very popular but requires a lot of maintenance.
+* [GitBook](https://www.gitbook.com/) (`Cloud`): write in Markdown and collaborate with the team. GitBook integrates with GitHub so no content will be lost.
 * [Ghost](https://github.com/tryghost/Ghost) (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
 * [Pico](https://github.com/picocms/Pico) (`PHP`): Lightweight cms, open source, no database.
 * [Dropplets](https://github.com/circa75/dropplets) (`PHP`): Open source, simple, and elegant blog system; write in Markdown.
+* [Wordpress](https://wordpress.org/) (`PHP`): Very popular but requires a lot of maintenance.
 
 
 **These Blog/CMS software can be hosted on [Digital Ocean](https://www.digitalocean.com/).**
 
 
-
-
 ### Static Site Generator
 
-[Here is a nice website](https://staticsitegenerators.net/) that tells you all the static site generators. Nonetheless here is a list of the most popular ones.
+> [Here is a nice website](https://staticsitegenerators.net/) that tells you all the static site generators. Nonetheless here is a list of the most popular ones.
 
 * [Jekyll](http://jekyllrb.com/) (Written in `Ruby`)(`Markdown`): Jekyll is the most widely used one. The best part about Jekyll is that one just deploy to GitHub Pages by pushing the source to GitHub.
 * [Octopress](http://octopress.org/) (Written in `Ruby`)(`Markdown`): Octopress is easier to use compared with Jekyll while being somewhat compatible with Jekyll.
@@ -298,24 +313,25 @@ These programs are running on the server and can be [hosted using these services
 * [Hugo](http://gohugo.io/)(Written in `Go`)(`Markdown`): Easy to use and really fast. It also supports more input formats through plugins.
 
 
-
-The site generated by these programs can be hosted on [GitHub Pages](https://pages.github.com/).
-
-
+> The site generated by these programs can be hosted on [GitHub Pages](https://pages.github.com/).
 
 
 ## Note Taking
 
+### Notebooks for Researchers
+
+* [Findings](https://findingsapp.com): Your research assistant & lab notebook, all in one app.
 
 ### Editors
 
-Markdown, reStructuredText, and LaTeX are the three chosen languages.
+> Markdown, LaTeX, and reStructuredText are the three useful languages.
+> **In most cases, a tweakable text editor such as [Visual Studio Code, aka vscode](https://code.visualstudio.com) is good enough.** In fact vscode comes with a enormous amount of extensions which can be used to build your own IDE.
 
 
 #### Markdown
 
-* [StackEdit](https://stackedit.io/)(`Cloud`): StackEdit is a Markdown editor with many integrated services such as math (MathJax), Google Drive, Dropbox, and GitHub.
 * [Hackmd.io](https://hackmd.io) (`Cloud`): Basically ships with everything you expect from the most complete online markdown editor.
+* [StackEdit](https://stackedit.io/)(`Cloud`): StackEdit is a Markdown editor with many integrated services such as math (MathJax), Google Drive, Dropbox, and GitHub.
 * [CMD markdown](https://www.zybuluo.com/mdeditor)(`Cloud`): CMD is a Markdown editor with math (MathJax) support. What is special is that it keeps edit history. (Chinese UI.)
 * [Penflip](https://www.penflip.com/)(`Cloud`): Penflip is designed to be a GitHub for writers. It is Markdown-based and git like without math support.
 * [Authorea](https://www.authorea.com/)(`Cloud`): A much more powerful Markdown and LaTeX online editor that can be used to produce nice academic papers.
@@ -377,7 +393,6 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 
 
 
-
 ### Mindmap
 
 **Standalone**
@@ -414,11 +429,11 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 ### Keep The Notes
 
 
-It's alway better to keep track the changes of your notes and **git** is a nice choice. Therefore, [GitHub](http://github.com) is the almost perfect place.
+> It's alway better to keep track the changes of your notes and **git** is a nice choice. Therefore, [GitHub](http://github.com) is the almost perfect place.
+>
+> As for LaTeX, [latexdiff](http://www.ctan.org/tex-archive/support/latexdiff/) is a tool for checking the diff.
 
-As for LaTeX, [latexdiff](http://www.ctan.org/tex-archive/support/latexdiff/) is a tool for checking the diff.
-
-**Some programs allows you to keep the markdown notes on a server.**
+> **Some programs allows you to keep the markdown notes on a server.**
 
 * [Raneto](http://raneto.com/): Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase. This one has a nice looking.
 * [Realms](http://realms.io/): Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger. Basic authentication and registration included.
@@ -434,7 +449,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 ### Keep You Computer Awake
 
-It is important to keep your computer awake during the presentation. Instead of changing the power options, the following tools can also do the job.
+> It is important to keep your computer awake during the presentation. Instead of changing the power options, the following tools can also do the job.
 
 
 * [Caffeine](https://itunes.apple.com/us/app/caffeine/id411246225) (`Mac`): As simple as a single click.
@@ -443,8 +458,10 @@ It is important to keep your computer awake during the presentation. Instead of 
 
 ### Online Load and Edit
 
+
 * [Prezi](https://prezi.com/) if you can.
 * [slides.com](http://slides.com/): Easy to use with remote controlled page presentation.
+* [Slideas](https://www.slideas.app/): the easiest way to create a beautiful Markdown Presentation, with all the features you need.
 * [Google Drive](https://drive.google.com/): no introduction needed
 * [Sway](https://sway.com/): Microsoft
 * [Strut](https://github.com/tantaman/Strut)
@@ -455,11 +472,11 @@ It is important to keep your computer awake during the presentation. Instead of 
 
 ### Use The Source
 
-Requires a few front-end techniques.
+> Requires a few front-end techniques.
 
 #### HTML+CSS+JS
 
-Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
+> Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
@@ -475,9 +492,11 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 * [remark](https://remarkjs.com)
 
 
-### IPython Notebook
+### IPython/Jupyter Notebook
 
-Julia or Python language, even R is supported in [IPython Notebook/Jupyter](https://jupyter.org/) which can be used to give presentations.
+> Python, Julia, R, Scala and more languages are supported in [IPython/Jupyter Notebook](https://jupyter.org/) which can also be used to give presentations.
+>
+> Refer to [math and programming online](#math-and-programming-online) for cloud-based Jupyter Notebooks.
 
 
 ### LaTeX Beamer
@@ -488,7 +507,7 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
 
 ### Mathematica
 
-[Mathematica slides](http://reference.wolfram.com/language/howto/CreateASlideShow.html) can be made interactive.
+* [Mathematica slides](http://reference.wolfram.com/language/howto/CreateASlideShow.html) can be made interactive.
 
 
 ### The Power of SVG
@@ -509,14 +528,13 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
 * [Speaker Deck](https://speakerdeck.com/) by GitHub: PDF slides. Can be displayed online or embeded.
 
 
-
-
 ## Programming
 
 ### Code Editors
 
+
+* [Visual Studio Code, aka VS Code](https://code.visualstudio.com/)(`Free`,`Cross-platform`,`Plugins`): same technology as atom but faster than atom, and Microsoft made.
 * [Atom](https://atom.io/)(`Free`,`Cross-platform`,`Plugins`): electron based editor with numerous plugins and easy modifications. Cross-platform with settings and plugins synchronized through the [sync-settings](https://atom.io/packages/sync-settings) plugin.
-* [VS Code](https://code.visualstudio.com/)(`Free`,`Cross-platform`,`Plugins`): same technology as atom but faster than atom, and Microsoft made.
 * [Sublime Text](https://www.sublimetext.com/)(`Free Evaluation`,`Cross-platform`,`Plugins`): cross-platform, fast, and with plugins. Not free but can be freely used forever.
 * [JetBrains](https://www.jetbrains.com/)(`Free for Students`, `Cross-platform`,`Plugins`): beautiful IDE's with many debugging and editing modes integrated.
 * [vim](https://github.com/vim/vim)(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
@@ -547,7 +565,7 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
 
 ### Coding is Fun
 
-[Code Fights](https://codefights.com/)
+* [Code Fights](https://codefights.com/)
 
 
 ## Academic
@@ -555,7 +573,7 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
 
 ### Self-plagiarism
 
-This might be not so straightforward but remember this. Reuse your own work doesn't protect you from plagiarism! Read it on
+> This might be not so straightforward but remember this. Reusing your own work doesn't protect you from plagiarism! Read more on
 
 * [wikipedia:Plagiarism#Self-plagiarism](https://en.wikipedia.org/wiki/Plagiarism#Self-plagiarism).
 
@@ -587,10 +605,12 @@ This might be not so straightforward but remember this. Reuse your own work does
 * [Open Science Framework](https://osf.io/): A open science tool with a lot of integrations.
 
 ### Bibliography
-* [JabRef](https://www.jabref.org/): An open source bibliography reference manager for the BibTeX format.
+
+* [ReadCube/Papers](https://www.readcube.com/): A all platform app for reference mamagement, note-taking, and more. The former Papers has been rebanded as ReadCube Papers.
 * [Mendeley](https://www.mendeley.com/): A bibliography reference manager with cloud storage and BibTeX support.
 * [Zotero](https://www.zotero.org/): An open source bibliography reference manager with syncing and BibTeX support.
 * [Zotero Style Repository](https://www.zotero.org/styles): Find any style you need.
+* [JabRef](https://www.jabref.org/): An open source bibliography reference manager for the BibTeX format.
 * [doi2bib](https://www.doi2bib.org/): Retrieves a BibTeX entry from a DOI.
 * [crossref](https://www.crossref.org/): Makes research outputs easy to find, cite, link, and assess.
 * [org-ref](https://github.com/jkitchin/org-ref): Citations, cross-references, indexes, glossaries, and bibtex utitlies for org-mode in Emacs.
@@ -602,7 +622,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 
 ## Pacifier
 
-**[Rainy Mood](http://www.rainymood.com/), [Coffitivity](https://coffitivity.com/) and [Noisli](http://www.noisli.com/) are the recommended ones.**
+> **[Rainy Mood](http://www.rainymood.com/), [Coffitivity](https://coffitivity.com/) and [Noisli](http://www.noisli.com/) are the recommended ones.**
 
 * [Rainy Mood](http://www.rainymood.com/)(`iOS`, `Android`, `Web`): rainy day rainy mood, simple but with excellent white noise; a new beautiful soundtrack each day
 * [Coffitivity](http://coffitivity.com/)(`iOS`, `Android`, `Web`, `Mac`): a rather simple but useful coffee shop noise library; premium has more three more soundtracks; elegant UI; scientific research powered
@@ -623,9 +643,6 @@ This might be not so straightforward but remember this. Reuse your own work does
 * [focus@will](https://www.focusatwill.com)(`iOS`, `Android`, `Web`): music to boost your brain; paid services now
 
 
-
-
-
 **Some Other Related Stuff**
 
 * [iSerenity](http://www.iserenity.com/): multiple choices but not that good (just my feeling).
@@ -638,15 +655,11 @@ This might be not so straightforward but remember this. Reuse your own work does
 
 
 
-
-
-
-
 ## Online Discussions
 
 ### Forums and Q&A's
 
-StackExchange.com is a good place for professional discussions. Here is an example.
+> StackExchange.com is a good place for professional discussions. Here is an example.
 
 * [Physics.StackExchange](http://physics.stackexchange.com/)
 * [Biostars](https://www.biostars.org/): StackOverflow style Q&A site for bioinformatics.
@@ -656,25 +669,24 @@ StackExchange.com is a good place for professional discussions. Here is an examp
 
 ## Open Source
 
-Open Source is great.
+> Open Source is great. Use git.
 
 ### Open Licenses
 
-Generally, open licenses are part of
+> Generally, open licenses are part of
 
 * [Open Definition](http://opendefinition.org/): Read the license [here](http://opendefinition.org/licenses/) and pick the one you like.
 
 
 ### Use Licenses
 
-To choose a license, an easy way is to use
+> To choose a license, an easy way is to use
 
 * [Choose a License](http://choosealicense.com/) which helps you decide which license to use through several steps.
 
-CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For alternative badges or icons, check the following.
+> CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For alternative badges or icons, check the following.
 
 * [Guokr Badge](https://github.com/opentf/GuokrBadge): Green CC License badges. (**Documentation is in Chinese.**)
-
 
 
 ## Data Visualization and Graph Making
@@ -683,36 +695,42 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 
 **JS and jQuery**
 
+* [D3 js](http://d3js.org/) (`js`)
 * [Highcharts](http://www.highcharts.com/demo/bar-stacked) (`js`): Line charts, area charts, column and bar charts, pie charts, scatter and bubble charts and more.
 * [Flot](http://www.flotcharts.org/flot/examples/) (`jQuery`)
 * [Raphaël](http://raphaeljs.com/) (`js`)
 * [JavaScript InfoVis Toolkit](http://philogb.github.io/jit/demos.html) (`js`)
-* [D3js](http://d3js.org/) (`js`)
 * [Paper.js](http://paperjs.org/) (`js`)
 
 
 **Python**
 
 * [matplotlib](https://github.com/jbmouret/matplotlib_for_papers)
+* [seaborn](https://seaborn.pydata.org/): statistical data visualization
+* [Plotnine](https://plotnine.readthedocs.io): A Grammar of Graphics for Python
 * [ggplot for python](http://ggplot.yhathq.com/)
-* [statistical data vis](http://stanford.edu/~mwaskom/software/seaborn/)
 * [plot.ly](https://plot.ly/ipython-notebooks/): Internet required, interactive plotting.
 * [bokeh](http://bokeh.pydata.org/en/latest/docs/quickstart.html#quickstart):  Internet required, interactive plotting.
+
+* [itermplot](https://github.com/daleroberts/itermplot): An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal.
 
 
 ### Graph Making
 
-Professional graphs should be made using professional tools.
+> Professional graphs should be made using professional tools.
 
 * [GeoGebra](http://www.geogebra.org/)(`Cloud`,`Mac`,`Win`,`Linux`,`Android`,`iOS`,`Win Store`): Geogebra is a very cool tool to make math graphs both 2D and 3D.
 * [LaTeXDraw](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
 * [TikZ](http://www.texample.net/tikz/)(`LaTeX`)
 * [BoxPlotR](http://shiny.chemgrid.org/boxplotr/)(`Web`): A web-tool for generation of box plots.
 
+> Choose percentually accurate colors for your research plots. Why? ([1](https://github.com/holoviz/colorcet/blob/master/examples/index.ipynb), [2](https://bids.github.io/colormap/))
+
+* [colorcet](https://github.com/holoviz/colorcet) can be used to investigate colormaps.
 
 ## LaTeX
 
-
+> Much much much better than Microsoft Word.
 
 ### Tips
 
@@ -766,14 +784,6 @@ Professional graphs should be made using professional tools.
 
 
 
-
-### Interesting Journals
-
-* [International Journal of Geometric Methods in Modern Physics](http://www.worldscientific.com/worldscinet/ijgmmp)
-
-
-
-
 ### More
 
 * [QR Code Generator](https://www.unitag.io/qrcode): Adding a QR code to your poster can help you get more audience.
@@ -783,6 +793,7 @@ Professional graphs should be made using professional tools.
 * [DiRT Directory](http://dirtdirectory.org/): Registry of digital research tools for scholarly use.
 * [Online Whiteboard](https://awwapp.com): A simple online whiteboard that users can collaborate; Good for online meetings.
 * [MapInSeconds.com](http://www.mapinseconds.com/): Create maps with corresponding data quickly by copy-pasting from a spreadsheet.
+* [Unpay Wall](http://unpaywall.org/): legally download research papers for free.
 
 -----
 
