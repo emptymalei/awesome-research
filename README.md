@@ -721,6 +721,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [LaTeXDraw](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
 * [TikZ](http://www.texample.net/tikz/)(`LaTeX`)
 * [BoxPlotR](http://shiny.chemgrid.org/boxplotr/)(`Web`): A web-tool for generation of box plots.
+* [Graphviz](https://www.graphviz.org/)(`Linux,Win,Max,Solaris,FreeBSD`): Open source graph visualization software.
 
 > Choose percentually accurate colors for your research plots. Why? ([1](https://github.com/holoviz/colorcet/blob/master/examples/index.ipynb), [2](https://bids.github.io/colormap/))
 
