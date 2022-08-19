@@ -585,6 +585,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [Iris.ai](https://the.iris.ai/): Explore scientific papers and how they connect to a paper of your choice.
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish): Retrieves and analyzes academic citations designed to empower individual academics to present their case for research impact to its best advantage.
 * [PubChase](http://pubchase.com/): Life sciences and medical literature recommendation engine.
+* [Connected Papers](https://www.connectedpapers.com/): Visualise connected papers with support for node colours, size and distance from origin to distinguish whether a paper is useful and how related it is.
 
 ### Get Yourself A Citable Code for Anything
 
