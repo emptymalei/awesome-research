@@ -371,7 +371,6 @@ Notebook softwares that you can write in Markdown:
 
 **You can also host one using your own machine.**
 
-* [FlyLaTeX](https://github.com/alabid/flylatex): A free, open source version of sharelatex
 * [ShareLaTeX Source Code](https://github.com/sharelatex/sharelatex): ShareLaTeX open sourced their codes. This is a great move I would say.
 * [TeXStudio](http://www.texstudio.org) - Cross-platform LaTeX editor that stems from TeXMaker.
 * [WinEdt](http://www.winedt.com) - The LaTeX editor many people swear by.
