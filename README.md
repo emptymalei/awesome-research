@@ -362,8 +362,7 @@ Notebook softwares that you can write in Markdown:
 #### LaTeX
 
 
-* [ShareLaTeX](https://www.sharelatex.com/)(`Cloud`): Dropbox and GitHub integration, preview, cooperation, simple UI. It also provides a lot of templates.
-* [Overleaf](https://www.overleaf.com/)(`Cloud`): Built in version control.
+* [Overleaf](https://www.overleaf.com/)(`Cloud`): Built in version control, Dropbox and GitHub integration, preview, cooperation, simple UI. It also provides a lot of templates.
 * [Authorea](https://www.authorea.com/)(`Cloud`): Easy to use UI. Supports both Markdown and LaTeX.
 * [Papeeria](https://www.papeeria.com)(`Cloud`): Just another online LaTeX and Markdown with plot compiler and collaborations.
 * [JaxEdit](http://jaxedit.com/)(`Cloud`): JaxEdit doesn't provide full LaTeX support but is good enough for simple LaTeX documents and slides.
@@ -371,7 +370,8 @@ Notebook softwares that you can write in Markdown:
 
 **You can also host one using your own machine.**
 
-* [ShareLaTeX Source Code](https://github.com/sharelatex/sharelatex): ShareLaTeX open sourced their codes. This is a great move I would say.
+
+* [Overleaf Source Code](https://github.com/overleaf/overleaf): Overleaf open sourced their codes. This is a great move I would say.
 * [TeXStudio](http://www.texstudio.org) - Cross-platform LaTeX editor that stems from TeXMaker.
 * [WinEdt](http://www.winedt.com) - The LaTeX editor many people swear by.
 * [TeXnicCenter](http://www.texniccenter.org) - A quite old but free and decent editor for LaTeX.
@@ -499,9 +499,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 ### LaTeX Beamer
 
-* [Beamer](https://bitbucket.org/rivanvx/beamer/wiki/Home): Shipped with standard LaTeX installations. A lot of themes has been invented. Start editing with one click on
-  * [ShareLaTeX](https://www.sharelatex.com)
-  * [Overleaf](https://www.overleaf.com/)
+* [Beamer](https://bitbucket.org/rivanvx/beamer/wiki/Home): Shipped with standard LaTeX installations. A lot of themes has been invented. Start editing with one click on [Overleaf](https://www.overleaf.com/)
 
 ### Mathematica
 
