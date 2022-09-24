@@ -268,7 +268,6 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 * [ReadtheDocs](http://readthedocs.org/): Turn your reStructuredText source to HTML, PDF, and epub, all done online.
 * [GitHub pages](https://pages.github.com/): Integrated with Jekyll and turns markdown posts automatically. Jekyll is a tool for blogging.
 * [GitHub](http://github.com): Just put markdown, reStructuredText, PDF or IPython/Jupyter notebook files on GitHub. All these formats can be previewed online. **The thing to mention is that the math in IPython notebook can be rendered on GitHub.**
-* [Aerobatic](https://www.aerobatic.com/): A powerful alternative to GitHub Pages.
 * [Surge](https://surge.sh/): One command upload your static website to make it live. Surge also integrates GitHub hooks.
 * [Heroku](https://www.heroku.com/): The one that needs no explanation.
 * [AWS](https://aws.amazon.com/): Amazon AWS provide student perks.
