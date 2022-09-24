@@ -235,7 +235,6 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 
 * [rtd theme](https://github.com/snide/sphinx_rtd_theme): Developed by ReadtheDocs.org
 * [Alabaster](https://github.com/bitprophet/alabaster): Clean and simple
-* [Some beautiful themes](https://github.com/vkvn/sphinx-themes)
 * [Bootstrap theme](https://ryan-roemer.github.io/sphinx-bootstrap-theme/)
 
 
