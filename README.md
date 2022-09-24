@@ -480,7 +480,6 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js)
 * [Deck.js](https://github.com/imakewebthings/deck.js)
 * [Shower](https://github.com/shower/shower)
-* [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 * [Flowtime.js](https://github.com/marcolago/flowtime.js)
 * [Slides](https://github.com/briancavalier/slides)
 * [remark](https://remarkjs.com)
