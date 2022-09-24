@@ -198,7 +198,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 
 #### Social Sciences
 
-* [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/icpsrweb/landing.jsp) (`Lookup`)
+* [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/web/pages/) (`Lookup`)
 * [Institute for Quantitative Social Science (IQSS)](http://library.harvard.edu/gdc) (`Lookup`)
 
 
