@@ -411,7 +411,6 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 **MINDMAP HTML**
 
 * [gojs](http://gojs.net/latest/samples/mindMap.html)
-* [mapjs](http://coderbay.com/create-mind-maps-with-javascript-mapjs/)
 * [jsmind](https://github.com/hizzgdev/jsmind)
 * [jsmind](http://sourceforge.net/projects/jsmind/)
 * [mindmaps](https://github.com/drichard/mindmaps)
