@@ -198,7 +198,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 
 #### Social Sciences
 
-* [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/icpsrweb/landing.jsp) (`Lookup`)
+* [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/web/pages/) (`Lookup`)
 * [Institute for Quantitative Social Science (IQSS)](http://library.harvard.edu/gdc) (`Lookup`)
 
 
@@ -235,7 +235,6 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 
 * [rtd theme](https://github.com/snide/sphinx_rtd_theme): Developed by ReadtheDocs.org
 * [Alabaster](https://github.com/bitprophet/alabaster): Clean and simple
-* [Some beautiful themes](https://github.com/vkvn/sphinx-themes)
 * [Bootstrap theme](https://ryan-roemer.github.io/sphinx-bootstrap-theme/)
 
 
@@ -269,7 +268,6 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 * [ReadtheDocs](http://readthedocs.org/): Turn your reStructuredText source to HTML, PDF, and epub, all done online.
 * [GitHub pages](https://pages.github.com/): Integrated with Jekyll and turns markdown posts automatically. Jekyll is a tool for blogging.
 * [GitHub](http://github.com): Just put markdown, reStructuredText, PDF or IPython/Jupyter notebook files on GitHub. All these formats can be previewed online. **The thing to mention is that the math in IPython notebook can be rendered on GitHub.**
-* [Aerobatic](https://www.aerobatic.com/): A powerful alternative to GitHub Pages.
 * [Surge](https://surge.sh/): One command upload your static website to make it live. Surge also integrates GitHub hooks.
 * [Heroku](https://www.heroku.com/): The one that needs no explanation.
 * [AWS](https://aws.amazon.com/): Amazon AWS provide student perks.
@@ -335,7 +333,6 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 * [Penflip](https://www.penflip.com/)(`Cloud`): Penflip is designed to be a GitHub for writers. It is Markdown-based and git like without math support.
 * [Authorea](https://www.authorea.com/)(`Cloud`): A much more powerful Markdown and LaTeX online editor that can be used to produce nice academic papers.
 * [Dillinger](http://dillinger.io/)(`Cloud`): Markdown editor but no math mode.
-* [Online Kramdown Editor](http://kramdown.herokuapp.com/)(`Cloud`): Just another Markdown editor without math support.
 * [Pandoc Markdown](http://pandoc.herokuapp.com/)(`Cloud`): Just another Markdown editor with math (MathJax) support.
 * [Marxico](http://marxi.co/)(`Cloud`,`Mac`,`Win`,`Chrome`): Markdown editor that integrates with Evernote, generates pdf and works offline. [马克飞象](https://maxiang.io/)(`Cloud`,`Mac`,`Win`,`Chrome`) is the Chinese version。
 * [Madoko](https://www.madoko.net/)(`Cloud`,`Chrome`): A Markdown editor with math support, where images are inserted easily with one click, while your files are saved on Dropbox, GitHub, OneDrive or local disk. It generates pdf and HTML page and works offline using browser's local storage. One can even import LaTeX files.
@@ -343,7 +340,6 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 * [typora](https://www.typora.io/)(`Mac`,`Win`):  Beautiful UI and in-situ live preview.
 * [Haroopad](http://pad.haroopress.com/)(`Mac`,`Win`,`Linux`): A powerful github flavored markdown editor with useful extensions. Math (mathjax) is supported.
 * [jbt/markdown-editor](http://jbt.github.io/markdown-editor/)(`Cloud`): Just another online Markdown editor without math support.
-* [Mou](http://25.io/mou/)(`Mac`): Mou used to be the best Markdown editor on Mac. It is not bad but DO NOT preorder Mou 1.0. This project is dead, unofficially. [了解为什么死掉，请阅读此文。](http://matrix.sspai.com/p/c7a3c9c0)
 * [MarkdownPad](http://markdownpad.com/) (`Win`): If you have no bad feelings about .NET, this is pretty good.
 * [ReText](https://github.com/retext-project/retext) (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
 * [Madoko](https://www.madoko.net/) (`Cloud`): **LaTeX** &times; Markdown &sup2;
@@ -483,7 +479,6 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js)
 * [Deck.js](https://github.com/imakewebthings/deck.js)
 * [Shower](https://github.com/shower/shower)
-* [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 * [Flowtime.js](https://github.com/marcolago/flowtime.js)
 * [Slides](https://github.com/briancavalier/slides)
 * [remark](https://remarkjs.com)
