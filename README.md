@@ -375,7 +375,9 @@ Notebook softwares that you can write in Markdown:
 * [TeXshop](http://pages.uoregon.edu/koch/texshop/) - No-nonsense editor for LaTeX documents which is included in MacTeX.
 * [TeXWorks](https://www.tug.org/texworks/) - No-nonsense editor for LaTeX code, modeled after TeXShop, but this one is cross-platform.
 
+**You can also add notes directly to academic papers**
 
+* [Synthical](https://synthical.com) - aggregates all papers from arXiv, medRxiv, bioRxiv, and chemRxiv with ability to highlight and leave notes.
 
 ### IPython Notebook
 
@@ -534,6 +536,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 ### Softwares
 
+* [Synthical](https://synthical.com): AI-powered collaborative research environment
 * [Mathematica](http://www.wolfram.com/mathematica/): One Software to Rule Them All
 * [iPython Notebook](http://ipython.org/notebook.html) (`Python`): a useful tool for inline calculation, making graphs and writing notes.
   * [wakari.io](https://wakari.io/) is a comercial one mostly aimed for data analysis.
@@ -569,6 +572,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 ### Investigate Papers
 
+* [Synthical](https://synthical.com): AI-powered collaborative research environment. You can use it to get recommendations of articles based on reading history, simplify papers, find out what articles are trending, search articles by meaning (not just keywords), create and share folders of articles, see lists of articles from specific companies and universities, and add highlights.
 * [Paperscape](http://paperscape.org/): Finding interesting papers.
 * [Peerus](https://peer.us/): Monitor specific topics or journal for new and relevant papers.
 * [SciRate](https://scirate.com/): An front-end for arXiv with rates from readers.
