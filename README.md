@@ -164,6 +164,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 * [GeoGebra](https://www.geogebra.org): very old but still very good. GeoGebra can be used for precise charting as well as calculations.
 * [graph.tk](http://graph.tk/): Online plotting with rich features.
 * [Wolfram Alpha](http://www.wolframalpha.com/): Make graphs for functions, from your data and even more.
+* [SankeyDiagram.net](https://sankeydiagram.net/): Web-based tool for creating & sharing Sankey Diagrams from data (open-source)
 
 
 ### Datasets
