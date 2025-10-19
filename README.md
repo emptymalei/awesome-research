@@ -607,6 +607,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [Zotero Style Repository](https://www.zotero.org/styles): Find any style you need.
 * [JabRef](https://www.jabref.org/): An open source bibliography reference manager for the BibTeX format.
 * [doi2bib](https://www.doi2bib.org/): Retrieves a BibTeX entry from a DOI.
+* [OneCite](https://github.com/HzaCode/onecite): Command-line tool and Python library that generates academic citations from DOI, arXiv IDs, paper titles, or URLs in multiple formats (BibTeX, APA, MLA). Available as CLI, Python API, and MCP server for AI assistants.
 * [crossref](https://www.crossref.org/): Makes research outputs easy to find, cite, link, and assess.
 * [org-ref](https://github.com/jkitchin/org-ref): Citations, cross-references, indexes, glossaries, and bibtex utitlies for org-mode in Emacs.
 
