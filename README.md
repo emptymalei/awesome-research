@@ -555,6 +555,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [Julia](http://julialang.org/)
 * [R](http://www.r-project.org/)
 * [Rust](https://www.rust-lang.org/en-US/)
+* [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis): Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories and generating terminal-style HTML visualization for scientific research.
 
 ### Coding is Fun
 
