@@ -609,6 +609,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [doi2bib](https://www.doi2bib.org/): Retrieves a BibTeX entry from a DOI.
 * [crossref](https://www.crossref.org/): Makes research outputs easy to find, cite, link, and assess.
 * [org-ref](https://github.com/jkitchin/org-ref): Citations, cross-references, indexes, glossaries, and bibtex utitlies for org-mode in Emacs.
+* [ScholarRef](https://github.com/brodie-neuro/ScholarRef): Convert citation styles (APA 7, Harvard, Vancouver) directly inside Word `.docx` files.
 
 ### Tips for Researchers
 
