@@ -609,6 +609,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [JabRef](https://www.jabref.org/): An open source bibliography reference manager for the BibTeX format.
 * [doi2bib](https://www.doi2bib.org/): Retrieves a BibTeX entry from a DOI.
 * [crossref](https://www.crossref.org/): Makes research outputs easy to find, cite, link, and assess.
+* [CiteMe](https://citeme.app): AI-powered citation generator that searches 11+ academic databases and formats references in 43+ styles including APA, Harvard, Chicago, Vancouver, and IEEE.
 * [org-ref](https://github.com/jkitchin/org-ref): Citations, cross-references, indexes, glossaries, and bibtex utitlies for org-mode in Emacs.
 * [ScholarRef](https://github.com/brodie-neuro/ScholarRef): Convert citation styles (APA 7, Harvard, Vancouver) directly inside Word `.docx` files.
 
