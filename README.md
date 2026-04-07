@@ -318,6 +318,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 ### Notebooks for Researchers
 
 * [Findings](https://findingsapp.com): Your research assistant & lab notebook, all in one app.
+* [Learnly AI](https://learnlyai.co.uk/): AI-powered academic assistant for students, featuring smart note-taking from lectures, PDFs and videos, essay writing with literature review, and AI presentation generator.
 
 ### Editors
 
@@ -362,6 +363,7 @@ Notebook softwares that you can write in Markdown:
 * [Authorea](https://www.authorea.com/)(`Cloud`): Easy to use UI. Supports both Markdown and LaTeX.
 * [Papeeria](https://www.papeeria.com)(`Cloud`): Just another online LaTeX and Markdown with plot compiler and collaborations.
 * [JaxEdit](http://jaxedit.com/)(`Cloud`): JaxEdit doesn't provide full LaTeX support but is good enough for simple LaTeX documents and slides.
+* [SpicyChai LaTeX](https://latex.spicychai.com/)(`Cloud`): Online LaTeX editor with AI-powered template population, real-time PDF preview, and pre-built templates for resumes, papers, and more. Free anonymous renders without signup.
 
 
 **You can also host one using your own machine.**
@@ -555,6 +557,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [Julia](http://julialang.org/)
 * [R](http://www.r-project.org/)
 * [Rust](https://www.rust-lang.org/en-US/)
+* [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis): Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories and generating terminal-style HTML visualization for scientific research.
 
 ### Coding is Fun
 
@@ -582,7 +585,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [PubChase](http://pubchase.com/): Life sciences and medical literature recommendation engine.
 * [Connected Papers](https://www.connectedpapers.com/): Visualise connected papers with support for node colours, size and distance from origin to distinguish whether a paper is useful and how related it is.
 * [Uncited](https://uncited.org): Keeping up with the literature.
-
+* [ODataMap](https://github.com/CherishChenCherish/odatamap) - Interactive map of global scientific research. Visualizes 250M+ papers across 7 knowledge continents with AI research assistant. [Demo](https://odatamap.cherishchen2510.workers.dev)
 
 ### Get Yourself A Citable Code for Anything
 
@@ -610,7 +613,9 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [JabRef](https://www.jabref.org/): An open source bibliography reference manager for the BibTeX format.
 * [doi2bib](https://www.doi2bib.org/): Retrieves a BibTeX entry from a DOI.
 * [crossref](https://www.crossref.org/): Makes research outputs easy to find, cite, link, and assess.
+* [CiteMe](https://citeme.app): AI-powered citation generator that searches 11+ academic databases and formats references in 43+ styles including APA, Harvard, Chicago, Vancouver, and IEEE.
 * [org-ref](https://github.com/jkitchin/org-ref): Citations, cross-references, indexes, glossaries, and bibtex utitlies for org-mode in Emacs.
+* [ScholarRef](https://github.com/brodie-neuro/ScholarRef): Convert citation styles (APA 7, Harvard, Vancouver) directly inside Word `.docx` files.
 
 ### Tips for Researchers
 
