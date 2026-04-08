@@ -587,6 +587,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [Connected Papers](https://www.connectedpapers.com/): Visualise connected papers with support for node colours, size and distance from origin to distinguish whether a paper is useful and how related it is.
 * [Uncited](https://uncited.org): Keeping up with the literature.
 * [ODataMap](https://github.com/CherishChenCherish/odatamap) - Interactive map of global scientific research. Visualizes 250M+ papers across 7 knowledge continents with AI research assistant. [Demo](https://odatamap.cherishchen2510.workers.dev)
+* [citracer](https://github.com/marcpinet/citracer): Trace citation chains for any concept across research papers. Given a source PDF (or arXiv/DOI), recursively walks the citation graph and produces an interactive HTML visualization. Supports forward and reverse tracing.
 
 ### Get Yourself A Citable Code for Anything
 
