@@ -604,6 +604,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 ### Open Science
 
 * [Open Science Framework](https://osf.io/): A open science tool with a lot of integrations.
+* [Awesome Evidence Synthesis](https://github.com/evidencesynthesis-tools/awesome-evidence-synthesis#readme): Open science, open-source tools for systematic reviews, meta-analysis, and evidence synthesis workflows.
 
 ### Bibliography
 
