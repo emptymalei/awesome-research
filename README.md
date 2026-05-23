@@ -212,6 +212,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 * [ColorBrewer](http://colorbrewer2.org)
 * [Paletton](http://paletton.com)
 * [Color Calculator](https://www.sessions.edu/color-calculator/)
+* [TinyTools Color Palette](https://tinytools-smoky.vercel.app/) - Free browser-based color palette generator. No login required, runs entirely in your browser. Also includes OG image generator, favicon generator, and AI utilities.
 
 
 ## Publishing and Sharing
