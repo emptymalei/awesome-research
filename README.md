@@ -801,6 +801,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [Online Whiteboard](https://awwapp.com): A simple online whiteboard that users can collaborate; Good for online meetings.
 * [MapInSeconds.com](http://www.mapinseconds.com/): Create maps with corresponding data quickly by copy-pasting from a spreadsheet.
 * [Unpay Wall](http://unpaywall.org/): legally download research papers for free.
+* [Awesome AI Research Tools](https://github.com/0x11c11e/awesome-ai-research-tools): A curated list of AI-powered tools for academic and scientific research.
 
 -----
 
