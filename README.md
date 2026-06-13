@@ -590,6 +590,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [ODataMap](https://github.com/CherishChenCherish/odatamap) - Interactive map of global scientific research. Visualizes 250M+ papers across 7 knowledge continents with AI research assistant. [Demo](https://odatamap.cherishchen2510.workers.dev)
 * [citracer](https://github.com/marcpinet/citracer): Trace citation chains for any concept across research papers. Given a source PDF (or arXiv/DOI), recursively walks the citation graph and produces an interactive HTML visualization. Supports forward and reverse tracing.
 * [BGPT MCP API](https://bgpt.pro/mcp/): Search scientific papers with structured full-text experimental data (methods, results, conclusions, sample sizes, limitations, quality scores — 25+ fields per paper). Works via the Model Context Protocol with Claude, Cursor, and other AI tools. Free tier: 50 searches without authentication. [Repository](https://github.com/connerlambden/bgpt-mcp). MCP registry: `io.github.connerlambden/bgpt-mcp`.
+* [web-researcher-mcp](https://github.com/zoharbabin/web-researcher-mcp): Open-source MCP server for grounded research — web search (Google, Brave, DuckDuckGo), academic/patent search, citation verification, retraction detection, dead-link archiving, and full bibliography audit. Works with Claude, Cursor, and any MCP-compatible AI tool. Single Go binary, zero-config. (`Cross-platform`, `MCP`, `Open Source`)
 
 ### Get Yourself A Citable Code for Anything
 
