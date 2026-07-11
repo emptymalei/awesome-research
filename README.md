@@ -807,3 +807,6 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 This is a CC BY-SA licensed project. Use the source! Keep the source open!
 
 ![CC BY-SA](https://raw.githubusercontent.com/emptymalei/awesome-research/master/assets/cc_bysa.flat.guokr.png)
+
+* [FinAI Research Workflow](https://github.com/csmar432/finai-research)
+
