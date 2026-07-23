@@ -655,7 +655,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [Rany by simply noise](https://rain.simplynoise.com/): just rain.
 * [Natural Sound player](http://www.naturesoundplayer.com/): many natural sounds, cool.
 * [NatureSoundsFor.Me](http://naturesoundsfor.me/): make your own track, so many kinds of sounds.
-* [White.Noise](http://whitenoise247.net/): several different tracks
+* [TheWhiteNoiseApp](https://thewhitenoiseapp.com/)(`Web`): generated white, pink, brown and green noise (not loops); free, no ads, no account
 * [ambient mixer](http://www.ambient-mixer.com/): make ambient sound easily
 * [white noise mp3s](http://whitenoisemp3s.com/): listen and download
 
