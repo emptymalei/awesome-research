@@ -1,6 +1,7 @@
 # Awesome Research Tools
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[Xquik](https://github.com/Xquik-dev/x-twitter-scraper)
 
 A list of tools for research. Also available on [https://tools.kausalflow.com/tools/](https://tools.kausalflow.com/tools/).
 
@@ -130,7 +131,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 
 ## Cloud Services
 
-*For self-hosted services, check out [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) on GitHub.*
+*For self-hosted services, check out [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) on GitHub.*
 
 
 ### Math and Programming Online
