@@ -261,6 +261,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 * [Rousseau](https://github.com/GitbookIO/rousseau): Lightweight proofreader written in JavaScript.
 * [textlint-rule-rousseau](https://github.com/azu/textlint-rule-rousseau): A textlint rule to check English sentences using Rousseau.
 * [De-Jargonizer](http://scienceandpublic.com/): Paste your article or upload file to analyze the amount of jargon in your writing.
+* [humanize-mba-text-skill](https://github.com/stephenlzc/humanize-mba-text-skill): Agent skill that detects and rewrites AI writing patterns in Chinese academic theses toward natural academic style, with detection criteria, rewriting workflows, and example outputs.
 
 
 ### Hosting
