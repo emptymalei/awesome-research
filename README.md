@@ -801,6 +801,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [Online Whiteboard](https://awwapp.com): A simple online whiteboard that users can collaborate; Good for online meetings.
 * [MapInSeconds.com](http://www.mapinseconds.com/): Create maps with corresponding data quickly by copy-pasting from a spreadsheet.
 * [Unpay Wall](http://unpaywall.org/): legally download research papers for free.
+* [SheetRender PDF Tools](https://sheetrender.com/tools): Free browser-based tools for merging and splitting PDFs, extracting selected pages, and splitting mail merge PDFs into named files. Files stay on the user's device, with no uploads or sign-up.
 
 -----
 
