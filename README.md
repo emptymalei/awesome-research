@@ -618,6 +618,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [doi2bib](https://www.doi2bib.org/): Retrieves a BibTeX entry from a DOI.
 * [crossref](https://www.crossref.org/): Makes research outputs easy to find, cite, link, and assess.
 * [CiteMe](https://citeme.app): AI-powered citation generator that searches 11+ academic databases and formats references in 43+ styles including APA, Harvard, Chicago, Vancouver, and IEEE.
+* [citeguard](https://github.com/wedo911/citeguard): Checks a `.bib`/`.ris` bibliography (or a single DOI) for cited papers that have been retracted, corrected, or flagged with an expression of concern, via Crossref and the Retraction Watch records it carries. Python library/CLI, MCP server, and GitHub Action; no API key. `pip install citeguard-cli`
 * [org-ref](https://github.com/jkitchin/org-ref): Citations, cross-references, indexes, glossaries, and bibtex utitlies for org-mode in Emacs.
 * [ScholarRef](https://github.com/brodie-neuro/ScholarRef): Convert citation styles (APA 7, Harvard, Vancouver) directly inside Word `.docx` files.
 
