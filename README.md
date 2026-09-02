@@ -202,6 +202,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 * [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/web/pages/) (`Lookup`)
 * [Institute for Quantitative Social Science (IQSS)](http://library.harvard.edu/gdc) (`Lookup`)
 * [Voidly Censorship Index](https://voidly.ai/data) (`Lookup`, `API`): Open dataset of global internet censorship — 19.6M live OONI samples, 1.6M historical records across 119+ countries, 5,356 citable incidents with 16,822 evidence items. CC BY 4.0, REST/MCP API, [HuggingFace parquet exports](https://huggingface.co/datasets/emperor-mew/global-censorship-index).
+* [CairnVault Digital Legacy Dataset](https://research.cairnvault.app/digital-legacy-teardown/dataset.html) (`Lookup`): Open dataset of what every major password manager, platform legacy-contact feature and commercial digital-legacy service actually does when a user dies, each field cited to the vendor's own live documentation, alongside 46 sourced answers on RUFADAA adoption and platform policy. CC BY 4.0, [DOI 10.5281/zenodo.21894423](https://doi.org/10.5281/zenodo.21894423), dated public correction log.
 
 
 ### Colors
