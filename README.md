@@ -638,6 +638,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [Soundrown](http://soundrown.com/)(`Web`): free mixing of multiple tracks
 * [Muji Sleep](http://sleep.muji.net/)(`iOS`, `Android`)
 * [A Soft Murmur](http://asoftmurmur.com/)(`Web`): free mixing of multiple tracks; simple UI; Timer provided; Meander available
+* [Ambient Noise](https://ambientnoise.io/)(`Web`): free browser ambient/background noise mixer (brown/white/pink and nature layers) with per-sound volume, sleep timer, and offline mixes; no signup
 * [mynoise](https://mynoise.net/noiseMachines.php)(`iOS`, `Web`): a noise generator; a lot of choices (too many actually); detailed equalizer
 * [Rainy Cafe](http://rainycafe.com/)(`Web`): not much to say just a combination of rainy mood and coffitivity
 * [Sleep Pillow](http://www.clearskyapps.com/portfolio/sleep)(`iOS`, `Mac`): click and play style preloaded scenes; easy to use; beautiful design
