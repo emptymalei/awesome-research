@@ -273,6 +273,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 * [Surge](https://surge.sh/): One command upload your static website to make it live. Surge also integrates GitHub hooks.
 * [Heroku](https://www.heroku.com/): The one that needs no explanation.
 * [AWS](https://aws.amazon.com/): Amazon AWS provide student perks.
+* [Amplify by ResearchBunny](https://www.researchamplify.com/): Turns a published paper's PDF into a video abstract, a vertical short, a multilingual audio brief, and a one-page infographic, and embeds them on a faculty profile, lab site, or publication list with one script tag. Commercial, paid per paper.
 
 > Other services such as [Digital Ocean](https://www.digitalocean.com/) are also useful when it comes to dynamic websites and cloud computing.
 
