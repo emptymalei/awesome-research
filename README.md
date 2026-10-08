@@ -188,6 +188,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 * [US Virtual Astronomical Observatory](http://www.usvao.org/) (`Lookup`)
 * [MAST: Barbara A. Mikulski Archive for Space Telescopes](https://mast.stsci.edu/portal/Mashup/Clients/Mast/portal.html) (`Lookup`)
 * [Mikulski Archive for Space Telescopes](http://archive.stsci.edu/) (`Lookup`)
+* [Chempirical](https://chempirical.com/molecules/) (`Lookup`, `API`): Physical data for about 48,000 chemical compounds (boiling points, densities, Antoine constants, azeotropes) and reactions, with a free JSON API that needs no key.
 
 #### Arts and Humanities
 
