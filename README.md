@@ -378,6 +378,7 @@ Notebook softwares that you can write in Markdown:
 * [LyX](https://www.lyx.org) - Cross-platform WYSIWYM editor that uses LaTeX behind the scenes to render documents.
 * [TeXshop](http://pages.uoregon.edu/koch/texshop/) - No-nonsense editor for LaTeX documents which is included in MacTeX.
 * [TeXWorks](https://www.tug.org/texworks/) - No-nonsense editor for LaTeX code, modeled after TeXShop, but this one is cross-platform.
+* [Oleafly](https://oleafly.com) - Open-source desktop editor for LaTeX, Typst and Markdown with a built-in LaTeX engine, live PDF preview and Zotero citations. Runs offline on macOS, Windows and Linux.
 
 **You can also add notes directly to academic papers**
 
