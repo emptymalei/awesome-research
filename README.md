@@ -321,6 +321,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 
 * [Findings](https://findingsapp.com): Your research assistant & lab notebook, all in one app.
 * [Learnly AI](https://learnlyai.co.uk/): AI-powered academic assistant for students, featuring smart note-taking from lectures, PDFs and videos, essay writing with literature review, and AI presentation generator.
+* [Creatos](https://creatos.io/): Paid desktop canvas (macOS, Windows) where PDFs, web pages, YouTube videos and notes sit as connected nodes, and you ask GPT, Claude, Gemini or a local Ollama model about the nodes you select, with your own API keys.
 
 ### Editors
 
