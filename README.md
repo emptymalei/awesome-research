@@ -321,6 +321,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 
 * [Findings](https://findingsapp.com): Your research assistant & lab notebook, all in one app.
 * [Learnly AI](https://learnlyai.co.uk/): AI-powered academic assistant for students, featuring smart note-taking from lectures, PDFs and videos, essay writing with literature review, and AI presentation generator.
+* [Glasp](https://glasp.co): Web and YouTube highlighter with AI summaries and notes, plus Kindle highlights import. Browser extensions, iOS and Android apps, and an MCP server; export to Notion, Obsidian and Zotero.
 
 ### Editors
 
