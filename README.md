@@ -165,7 +165,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 * [graph.tk](http://graph.tk/): Online plotting with rich features.
 * [Wolfram Alpha](http://www.wolframalpha.com/): Make graphs for functions, from your data and even more.
 * [SankeyDiagram.net](https://sankeydiagram.net/): Web-based tool for creating & sharing Sankey Diagrams from data (open-source)
-
+* [Scientific Figure](https://scientificfigure.com/): AI tool that draws scientific illustrations, graphical abstracts, data plots, and conference posters from a text prompt, sketch, or PDF; exports SVG and PPTX at journal column widths.
 
 ### Datasets
 
