@@ -810,6 +810,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [Online Whiteboard](https://awwapp.com): A simple online whiteboard that users can collaborate; Good for online meetings.
 * [MapInSeconds.com](http://www.mapinseconds.com/): Create maps with corresponding data quickly by copy-pasting from a spreadsheet.
 * [Unpay Wall](http://unpaywall.org/): legally download research papers for free.
+* [ToolStack](https://tools.mindutil.com/en): a free toolbox of 122 browser-based utilities (text, JSON, image, PDF, unit conversion, color) that run entirely client-side, with no signup and no file uploads.
 
 -----
 
