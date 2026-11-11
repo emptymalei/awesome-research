@@ -626,6 +626,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [CiteMe](https://citeme.app): AI-powered citation generator that searches 11+ academic databases and formats references in 43+ styles including APA, Harvard, Chicago, Vancouver, and IEEE.
 * [org-ref](https://github.com/jkitchin/org-ref): Citations, cross-references, indexes, glossaries, and bibtex utitlies for org-mode in Emacs.
 * [ScholarRef](https://github.com/brodie-neuro/ScholarRef): Convert citation styles (APA 7, Harvard, Vancouver) directly inside Word `.docx` files.
+* [Reference Verifier](https://github.com/the-aurora-lab/reference-verifier): Checks that every reference in a .bib file or LaTeX paper exists in Crossref, OpenAlex, DBLP, arXiv or PubMed, and flags invented papers and wrong DOIs. Open source (MIT).
 
 ### Tips for Researchers
 
