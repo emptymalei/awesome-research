@@ -204,6 +204,7 @@ Want to add a tool? See [CONTRIBUTING.md](CONTRIBUTING.md), or use the [submissi
 * [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/web/pages/) (`Lookup`)
 * [Institute for Quantitative Social Science (IQSS)](http://library.harvard.edu/gdc) (`Lookup`)
 * [Voidly Censorship Index](https://voidly.ai/data) (`Lookup`, `API`): Open dataset of global internet censorship — 19.6M live OONI samples, 1.6M historical records across 119+ countries, 5,356 citable incidents with 16,822 evidence items. CC BY 4.0, REST/MCP API, [HuggingFace parquet exports](https://huggingface.co/datasets/emperor-mew/global-censorship-index).
+* [CoworkingView Price Index](https://coworkingview.com/en/tools/price-index) (`Lookup`, `API`): Open data on flexible office prices by city: median, 25th/75th percentile and sample size per product (flex desk, dedicated desk, private office, day pass, meeting room), from operator-published prices in Europe and the UAE, with monthly snapshots. CC BY 4.0, [Python and CLI clients](https://github.com/coworkingview/flex-office-data).
 
 
 ### Colors
