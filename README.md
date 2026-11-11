@@ -2,7 +2,9 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A list of tools for research. Also available on [https://tools.kausalflow.com/tools/](https://tools.kausalflow.com/tools/).
+A list of tools for research. Also available on [https://tools.kausalflow.com/tools/](https://tools.kausalflow.com/tools/), with a page for each tool, open [JSON data](https://tools.kausalflow.com/tools.json), [RSS](https://tools.kausalflow.com/index.xml), [llms.txt](https://tools.kausalflow.com/llms.txt) and [AI access](https://tools.kausalflow.com/ai/).
+
+Want to add a tool? See [CONTRIBUTING.md](CONTRIBUTING.md), or use the [submission form](https://tools.kausalflow.com/submit/).
 
 ## TOC
 
@@ -804,6 +806,6 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 -----
 
-This is a CC BY-SA licensed project. Use the source! Keep the source open!
+This is a [CC BY-SA 4.0](LICENSE) licensed project. Use the source! Keep the source open!
 
 ![CC BY-SA](https://raw.githubusercontent.com/emptymalei/awesome-research/master/assets/cc_bysa.flat.guokr.png)
