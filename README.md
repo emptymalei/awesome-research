@@ -371,6 +371,7 @@ Notebook softwares that you can write in Markdown:
 * [Papeeria](https://www.papeeria.com)(`Cloud`): Just another online LaTeX and Markdown with plot compiler and collaborations.
 * [JaxEdit](http://jaxedit.com/)(`Cloud`): JaxEdit doesn't provide full LaTeX support but is good enough for simple LaTeX documents and slides.
 * [SpicyChai LaTeX](https://latex.spicychai.com/)(`Cloud`): Online LaTeX editor with AI-powered template population, real-time PDF preview, and pre-built templates for resumes, papers, and more. Free anonymous renders without signup.
+* [Manulyx](https://manulyx.com/)(`Cloud`): Online LaTeX editor for writing and revising papers with co-authors: real-time co-editing, track changes, publisher templates, submission stages, response-to-reviewers letters and marked manuscripts. Free plan available.
 
 
 **You can also host one using your own machine.**
