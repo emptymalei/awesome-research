@@ -167,7 +167,7 @@ Want to add a tool? See [CONTRIBUTING.md](CONTRIBUTING.md), or use the [submissi
 * [graph.tk](http://graph.tk/): Online plotting with rich features.
 * [Wolfram Alpha](http://www.wolframalpha.com/): Make graphs for functions, from your data and even more.
 * [SankeyDiagram.net](https://sankeydiagram.net/): Web-based tool for creating & sharing Sankey Diagrams from data (open-source)
-
+* [Scientific Figure](https://scientificfigure.com/): AI tool that draws scientific illustrations, graphical abstracts, data plots, and conference posters from a text prompt, sketch, or PDF; exports SVG and PPTX at journal column widths.
 
 ### Datasets
 
