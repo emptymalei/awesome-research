@@ -600,6 +600,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [citracer](https://github.com/marcpinet/citracer): Trace citation chains for any concept across research papers. Given a source PDF (or arXiv/DOI), recursively walks the citation graph and produces an interactive HTML visualization. Supports forward and reverse tracing.
 * [BGPT MCP API](https://bgpt.pro/mcp/): Search scientific papers with structured full-text experimental data (methods, results, conclusions, sample sizes, limitations, quality scores — 25+ fields per paper). Works via the Model Context Protocol with Claude, Cursor, and other AI tools. Free tier: 50 searches without authentication. [Repository](https://github.com/connerlambden/bgpt-mcp). MCP registry: `io.github.connerlambden/bgpt-mcp`.
 * [JournalCompass](https://journalcompass.com): Free bilingual journal finder: CAS zones, impact factors, review times, APC/OA status and an AI journal matcher.
+* [Lacuna](https://lacuna.tiptreesystems.com): Search 2.3 million ML and AI papers, the researchers behind them, and the research directions they form; free, no account, with a read-only [MCP server](https://github.com/tiptreesystems/lacuna-research-mcp) for AI assistants.
 
 ### Get Yourself A Citable Code for Anything
 
