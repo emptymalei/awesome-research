@@ -48,6 +48,7 @@ Want to add a tool? See [CONTRIBUTING.md](CONTRIBUTING.md), or use the [submissi
   * [Investigate Papers](#investigate-papers)
   * [Get Yourself A Citable Code for Anything](#get-yourself-a-citable-code-for-anything)
   * [Open Science](#open-science)
+  * [Research Planning](#research-planning)
   * [Tips for Researchers](#tips-for-researchers)
 * [Pacifier](#pacifier)
 * [Online Discussions](#online-discussions)
@@ -617,6 +618,10 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 ### Open Science
 
 * [Open Science Framework](https://osf.io/): A open science tool with a lot of integrations.
+
+### Research Planning
+
+* [Research Plan Builder](https://autoresearch.me/en/research-plan/): Free, no-account browser tool for manually writing a research experiment plan (question, data split, baseline, metrics, and evidence) and downloading it; it does not run experiments or auto-save.
 
 ### Bibliography
 
