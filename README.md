@@ -114,6 +114,7 @@ Want to add a tool? See [CONTRIBUTING.md](CONTRIBUTING.md), or use the [submissi
 * [Pomotodo](https://pomotodo.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Chrome`): A mix of todo list and pomodoro timer, with sync across devices and weekly report [Free].
 * [Tadam](https://tadamapp.com/) (`Mac`): Simple and elegant pomodoro timer [USD$ 4.99].
 * [Productivity Challenge Timer](https://play.google.com/store/apps/details?id=com.wlxd.pomochallenge&hl=en) (`Android`): Pomodoro timer with great gamification features [Free].
+* [Yellow Tomato](https://yellowtomato.app/) (`Chrome`,`iOS`): Pomodoro timer that blocks distracting sites and apps only during focus sessions, with a task list and focus stats [Free].
 
 
 ### GTD-Task Manager
