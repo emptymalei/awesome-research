@@ -265,6 +265,7 @@ Want to add a tool? See [CONTRIBUTING.md](CONTRIBUTING.md), or use the [submissi
 * [textlint-rule-rousseau](https://github.com/azu/textlint-rule-rousseau): A textlint rule to check English sentences using Rousseau.
 * [De-Jargonizer](http://scienceandpublic.com/): Paste your article or upload file to analyze the amount of jargon in your writing.
 * [Articlo](https://getarticlo.com/): Prepares existing Word manuscripts for a target journal with an editable document, change summary, and author checklist. Free readiness check; paid manuscript preparation.
+* [HumanPen](https://humanpen.net/): Hosted, credit-priced AI document tool for report-targeted rewriting, translation, condensing, and citation formatting in DOCX/PPTX, aiming to retain formatting and references.
 
 
 ### Hosting
