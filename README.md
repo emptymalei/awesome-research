@@ -265,6 +265,7 @@ Want to add a tool? See [CONTRIBUTING.md](CONTRIBUTING.md), or use the [submissi
 * [textlint-rule-rousseau](https://github.com/azu/textlint-rule-rousseau): A textlint rule to check English sentences using Rousseau.
 * [De-Jargonizer](http://scienceandpublic.com/): Paste your article or upload file to analyze the amount of jargon in your writing.
 * [Articlo](https://getarticlo.com/): Prepares existing Word manuscripts for a target journal with an editable document, change summary, and author checklist. Free readiness check; paid manuscript preparation.
+* [research-kit](https://github.com/zch6a/research-kit): Open command-line tools that check a paper before submission (references, numbers, anonymity, page limits), with a map of the best open projects for each stage of research.
 
 
 ### Hosting
