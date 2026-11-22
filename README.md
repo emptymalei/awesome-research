@@ -179,6 +179,7 @@ Want to add a tool? See [CONTRIBUTING.md](CONTRIBUTING.md), or use the [submissi
 * [DRYAD](http://datadryad.org/) (`Storage`, `Lookup`): The Dryad Digital Repository stores curated data.
 * [Figshare](https://figshare.com/) (`Storage`, `Lookup`): Data sharing and storage
 * [Data.gov](https://data.gov) (`Lookup`): Data by US Federal Government
+* [Scigantic](https://scigantic.com/) (`Lookup`): Catalog of 8,000+ public scientific datasets, each of which opens in a hosted Jupyter notebook with its files already mounted, so nothing is downloaded first. The free plan covers a shared CPU notebook; larger machines are paid.
 
 #### Life Science
 
