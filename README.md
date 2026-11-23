@@ -267,6 +267,7 @@ Want to add a tool? See [CONTRIBUTING.md](CONTRIBUTING.md), or use the [submissi
 * [De-Jargonizer](http://scienceandpublic.com/): Paste your article or upload file to analyze the amount of jargon in your writing.
 * [Articlo](https://getarticlo.com/): Prepares existing Word manuscripts for a target journal with an editable document, change summary, and author checklist. Free readiness check; paid manuscript preparation.
 * [research-kit](https://github.com/zch6a/research-kit): Open command-line tools that check a paper before submission (references, numbers, anonymity, page limits), with a map of the best open projects for each stage of research.
+* [DataCheck](https://datacheck.cc/en): Rule-driven duplicate, cross-sheet reuse, and numerical anomaly checker for research tables (XLSX, CSV, TSV) with traceable source-cell evidence; $5 first trial, $13.99+ one-time credit packs, and offline Windows perpetual license (no subscription).
 
 
 ### Hosting
