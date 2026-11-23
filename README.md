@@ -636,6 +636,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [org-ref](https://github.com/jkitchin/org-ref): Citations, cross-references, indexes, glossaries, and bibtex utitlies for org-mode in Emacs.
 * [ScholarRef](https://github.com/brodie-neuro/ScholarRef): Convert citation styles (APA 7, Harvard, Vancouver) directly inside Word `.docx` files.
 * [Reference Verifier](https://github.com/the-aurora-lab/reference-verifier): Checks that every reference in a .bib file or LaTeX paper exists in Crossref, OpenAlex, DBLP, arXiv or PubMed, and flags invented papers and wrong DOIs. Open source (MIT).
+* [Reference Audit](https://fanzemeng31-arch.github.io/reference-audit/): Checks that each reference in a pasted list exists by looking it up in Crossref and OpenAlex; flags wrong years, authors and DOIs, and retracted works. No account, runs in the browser. Free for lists of up to 15 references; longer lists need a paid pass, and the open-source terminal script is free for any length.
 
 ### Tips for Researchers
 
