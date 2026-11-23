@@ -688,6 +688,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [Biostars](https://www.biostars.org/): StackOverflow style Q&A site for bioinformatics.
 * [NeuroStars](https://neurostars.org/): StackOverflow style Q&A site for neuroinformatics.
 * [SEQanswers](http://seqanswers.com/): Forum for next generation sequencing community.
+* [last30days](https://github.com/mvanhorn/last30days-skill): Agent skill for Claude Code, Codex, Cursor and other AI coding agents that searches the last 30 days of discussion on Reddit, X, YouTube, Hacker News and the web, ranks it by engagement, and writes a cited summary of what researchers and practitioners are saying about a topic.
 
 
 ## Open Source
