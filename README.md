@@ -603,6 +603,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [BGPT MCP API](https://bgpt.pro/mcp/): Search scientific papers with structured full-text experimental data (methods, results, conclusions, sample sizes, limitations, quality scores — 25+ fields per paper). Works via the Model Context Protocol with Claude, Cursor, and other AI tools. Free tier: 50 searches without authentication. [Repository](https://github.com/connerlambden/bgpt-mcp). MCP registry: `io.github.connerlambden/bgpt-mcp`.
 * [JournalCompass](https://journalcompass.com): Free bilingual journal finder: CAS zones, impact factors, review times, APC/OA status and an AI journal matcher.
 * [Lacuna](https://lacuna.tiptreesystems.com): Search 2.3 million ML and AI papers, the researchers behind them, and the research directions they form; free, no account, with a read-only [MCP server](https://github.com/tiptreesystems/lacuna-research-mcp) for AI assistants.
+* [Filiation](https://codevector-2003.github.io/filiation/): Builds a research library from one paper by following its references through OpenAlex, keeps the legal open-access PDFs, and finds passages by keyword with their page; a free, open-source desktop app and command-line tool that runs on your own computer, with an MCP server for AI assistants.
 
 ### Get Yourself A Citable Code for Anything
 
