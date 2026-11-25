@@ -155,6 +155,7 @@ Want to add a tool? See [CONTRIBUTING.md](CONTRIBUTING.md), or use the [submissi
 * [SageMaker](https://aws.amazon.com/sagemaker/): AWS service with a lot of tools integrated. Sagemaker comes with the Sagemake Studio which provides jupyter notebook for programmer and other charting and data management tools.
 * [WolframAlpha](https://www.wolframalpha.com/): Excellent engine to do mathematical derivation online and search.
 * [Mathematica Online](https://www.wolfram.com/mathematica/online/): Bring Mathematica to life in the cloud.
+* [ComputeFinder](https://computefinder.net/free-compute): Free directory of free and funded compute for research, from GPU credits to national HPC calls, each linked to its official page with the date it was last checked.
 
 
 
