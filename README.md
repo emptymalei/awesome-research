@@ -802,6 +802,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 ### Free Multimedia
 
 * [CC Search](https://ccsearch.creativecommons.org/): Search engine for images under CC License.
+* [ClearCaption](https://github.com/Andrii2203/clearcaption-youtube-transcript): YouTube transcripts, SRT/VTT subtitles and timestamped translation for videos, channels and playlists; works from cloud servers and as an MCP server.
 * [Unsplash](https://unsplash.com/): Free high resolution images.
 * [Academicons](https://jpswalsh.github.io/academicons/)
 * [Phylopic](http://phylopic.org/)
