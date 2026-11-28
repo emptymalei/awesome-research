@@ -447,6 +447,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 * [Raneto](http://raneto.com/): Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase. This one has a nice looking.
 * [Realms](http://realms.io/): Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger. Basic authentication and registration included.
 * [Tiddlywiki](http://tiddlywiki.com/): A unique non-linear notebook for capturing, organizing and sharing complex information.
+* [Renota](https://www.werenota.com): Chrome extension that answers questions about any webpage with numbered citations and saves the answers to a searchable knowledge base.
 * Some other [static site generators](#static-generator).
 
 For experimental research, eLabFTW made a online labnote system: [eLabFTW](https://www.elabftw.net/).
